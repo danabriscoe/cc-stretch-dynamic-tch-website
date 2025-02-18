@@ -9,20 +9,27 @@ engine: knitr
 
 ## Latest additions: 
 
-**`{r} Sys.Date() |> format("%b-%d-%Y")`:**
+**4. `{r} Sys.Date() |> format("%b-%d-%Y")`:**
 
 - [x]  [Added Hycom [Hovmoller plots](hycom_analyses.qmd)]{style="font-size: 90%;"}
 
 <br>
 
-**`{r} "2025-02-13" |> as.Date() |> format("%b-%d-%Y")`:**
+**3. `{r} "2025-02-13" |> as.Date() |> format("%b-%d-%Y")`:**
 
 - [x]  [Added Turtle-Hycom [Extractions](cc_hycom_currents.qmd) (1993 - 2024)]{style="font-size: 90%;"}
 
 
 <br>
 
-**`{r} "2025-01-25" |> as.Date() |> format("%b-%d-%Y")`:**
+**2. `{r} "2025-02-06" |> as.Date() |> format("%b-%d-%Y")`:**
+
+- [x]  [Added Hycom vs Oscar Product [Comparisons](hycom_vs_oscar.qmd) (1993 - 2024)]{style="font-size: 90%;"}
+
+
+<br>
+
+**1. `{r} "2025-01-25" |> as.Date() |> format("%b-%d-%Y")`:**
 
 - [x]  [Added SST & Salinity [Climatologies](env_clims.qmd) (1993 - 2024)]{style="font-size: 90%;"}
 
