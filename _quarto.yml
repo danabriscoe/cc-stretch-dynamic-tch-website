@@ -39,7 +39,7 @@ website:
         text: Env Analyses
         contents:
           - href: hycom_analyses.qmd
-            text: Hycom Analyses
+            text: Hycom Hovm
           - href: hycom_vs_oscar.qmd
             text: Hycom vs Oscar
           - href: env_clims.qmd
@@ -54,7 +54,7 @@ website:
         
   page-footer:
     # right: "This page is built with ❤️ and [Quarto](https://quarto.org/)."
-    left: "&copy; CC-DBriscoe, 2025"
+    left: "&copy; D Briscoe | 2025"
 
 format:
   html:
@@ -76,6 +76,9 @@ format:
     smooth-scroll: true
     fig-cap-location: top
     scrollable: true
+    grid:
+      sidebar-width: 350px
+
 
 filters:
   # - include-files.lua
