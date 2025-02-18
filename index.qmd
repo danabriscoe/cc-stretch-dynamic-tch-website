@@ -1,0 +1,41 @@
+---
+title: "cc-stretch-website-template"
+---
+
+This is a Quarto website.
+
+To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+
+## Here is a header
+
+
+::: {.panel-tabset}
+
+
+#### 1
+![Photo caption: Olive Briscoe ](images/olive_b.jpeg){group="friends"} 
+
+#### 2
+![Photo caption: Olive Briscoe ](images/beanerz_yawn.png)
+:::
+
+<br> <br>
+
+## Here is another header
+
+::: panel-tabset
+### 1
+
+![](images/IMG_0379.jpeg){group="friends"}
+
+### 2
+
+
+
+![](images/olive_b.jpeg){group="friends"}
+
+
+### 3
+
+![](images/Tom_and_Betty_pic.jpeg){group="friends"}
+:::
