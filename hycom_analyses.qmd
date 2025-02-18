@@ -1,0 +1,35 @@
+---
+title: ""
+format: html
+engine: knitr
+filters:
+  # - include-files.lua
+  - lightbox
+  - quarto
+lightbox: 
+  match: auto
+  effect: zoom
+  desc-position: top
+---
+
+
+### HYCOM Hovm
+
+<br>
+Surface currents (u, v) plotted by latitude, averaged across 142°W to 130°W longitude: Sept - Oct (2023, 2024)
+<br> 
+
+[*Click images to zoom in*]{style="font-size: 80%;"} <br>
+
+::: {.panel-tabset}
+
+### Zonal (u)
+![A): Lat plotted on x axis](docs/images/plot_hovm_hycom_u_lons_142W_to_130W_sept_oct_2023_and_2024_ux_axis.png){group="hycom-hovm"}
+
+![B) Alternate view: Lat plotted on y axis](docs/images/plot_hovm_hycom_u_lons_142W_to_130W_sept_oct_2023_and_2024_uy_axis.png){group="hycom-hovm"}
+
+
+### Meridional (v)
+![A): Lat plotted on x axis](docs/images/plot_hovm_hycom_v_lons_142W_to_130W_sept_oct_2023_and_2024_vx_axis.png){group="hycom-hovm"}
+
+![B) Alternate view: Lat plotted on y axis](docs/images/plot_hovm_hycom_v_lons_142W_to_130W_sept_oct_2023_and_2024_vy_axis.png){group="hycom-hovm"}

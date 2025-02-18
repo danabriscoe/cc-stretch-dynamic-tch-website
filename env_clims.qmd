@@ -1,0 +1,119 @@
+---
+title: ""
+format: html
+engine: knitr
+filters:
+  # - include-files.lua
+  - lightbox
+  - quarto
+lightbox: 
+  match: auto
+  effect: zoom
+  desc-position: top
+---
+
+## Climatologies
+
+[*Click images to zoom in*]{style="font-size: 80%;"} <br>
+
+::: {.panel-tabset}
+
+### SST
+
+::: {layout-ncol=3}
+
+### [Jan]{style="font-size: 80%;"}
+![](docs/images/1_monthly_clims_1993_2024_plot_Jan_thetao.png){group="sst-clims"}
+
+### [Feb]{style="font-size: 80%;"}
+![](docs/images/2_monthly_clims_1993_2024_plot_Feb_thetao.png){group="sst-clims"}
+
+### [Mar]{style="font-size: 80%;"}
+![](docs/images/3_monthly_clims_1993_2024_plot_Mar_thetao.png){group="sst-clims"}
+
+### [Apr]{style="font-size: 80%;"}
+![](docs/images/4_monthly_clims_1993_2024_plot_Apr_thetao.png){group="sst-clims"}
+
+### [May]{style="font-size: 80%;"}
+![](docs/images/5_monthly_clims_1993_2024_plot_May_thetao.png){group="sst-clims"}
+
+### [Jun]{style="font-size: 80%;"}
+![](docs/images/6_monthly_clims_1993_2024_plot_Jun_thetao.png){group="sst-clims"}
+
+### [Jul]{style="font-size: 80%;"}
+![](docs/images/7_monthly_clims_1993_2024_plot_Jul_thetao.png){group="sst-clims"}
+
+### [Aug]{style="font-size: 80%;"}
+![](docs/images/8_monthly_clims_1993_2024_plot_Aug_thetao.png){group="sst-clims"}
+
+
+### [Sep]{style="font-size: 80%;"}
+![](docs/images/9_monthly_clims_1993_2024_plot_Sep_thetao.png){group="sst-clims"}
+
+
+### [Oct]{style="font-size: 80%;"}
+![](docs/images/10_monthly_clims_1993_2024_plot_Oct_thetao.png){group="sst-clims"}
+
+
+### [Nov]{style="font-size: 80%;"}
+![](docs/images/11_monthly_clims_1993_2024_plot_Nov_thetao.png){group="sst-clims"}
+
+
+### [Dec]{style="font-size: 80%;"}
+![](docs/images/12_monthly_clims_1993_2024_plot_Dec_thetao.png){group="sst-clims"}
+<!-- ::: -->
+
+:::
+
+<br>
+
+<!-- ::: {.panel-tabset} -->
+
+
+### Salinity
+
+::: {layout-ncol=3}
+
+### [Jan]{style="font-size: 80%;"}
+![](docs/images/1_monthly_clims_1993_2024_plot_Jan_so.png){group="sst-clims"}
+
+### [Feb]{style="font-size: 80%;"}
+![](docs/images/2_monthly_clims_1993_2024_plot_Feb_so.png){group="sst-clims"}
+
+### [Mar]{style="font-size: 80%;"}
+![](docs/images/3_monthly_clims_1993_2024_plot_Mar_so.png){group="sst-clims"}
+
+### [Apr]{style="font-size: 80%;"}
+![](docs/images/4_monthly_clims_1993_2024_plot_Apr_so.png){group="sst-clims"}
+
+### [May]{style="font-size: 80%;"}
+![](docs/images/5_monthly_clims_1993_2024_plot_May_so.png){group="sst-clims"}
+
+### [Jun]{style="font-size: 80%;"}
+![](docs/images/6_monthly_clims_1993_2024_plot_Jun_so.png){group="sst-clims"}
+
+### [Jul]{style="font-size: 80%;"}
+![](docs/images/7_monthly_clims_1993_2024_plot_Jul_so.png){group="sst-clims"}
+
+### [Aug]{style="font-size: 80%;"}
+![](docs/images/8_monthly_clims_1993_2024_plot_Aug_so.png){group="sst-clims"}
+
+
+### [Sep]{style="font-size: 80%;"}
+![](docs/images/9_monthly_clims_1993_2024_plot_Sep_so.png){group="sst-clims"}
+
+
+### [Oct]{style="font-size: 80%;"}
+![](docs/images/10_monthly_clims_1993_2024_plot_Oct_so.png){group="sst-clims"}
+
+
+### [Nov]{style="font-size: 80%;"}
+![](docs/images/11_monthly_clims_1993_2024_plot_Nov_so.png){group="sst-clims"}
+
+
+### [Dec]{style="font-size: 80%;"}
+![](docs/images/12_monthly_clims_1993_2024_plot_Dec_so.png){group="sst-clims"}
+
+:::
+
+<!-- ::: -->

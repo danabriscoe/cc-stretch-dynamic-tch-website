@@ -1,0 +1,70 @@
+---
+title: ""
+format: html
+engine: knitr
+filters:
+  # - include-files.lua
+  - lightbox
+  - quarto
+lightbox: 
+  match: auto
+  effect: zoom
+  desc-position: top
+---
+
+
+## Turtle - HYCOM Extractions
+
+<!-- <br> -->
+
+### Cohort Histograms: u, v
+
+Comparison of surface current values extracted underneath of daily turtle positions: Sept-Oct (2023, 2024)
+<br>
+
+::: {.panel-tabset}
+
+### Zonal (u)
+![](docs/images/plot_histogram_cc_hycom_u_sept_oct_2023_2024.png){group="cc-hists"}
+
+
+### Meridional (v)
+![](docs/images/plot_histogram_cc_hycom_v_sept_oct_2023_2024.png){group="cc-hists"}
+
+:::
+
+
+<br>
+
+### Individual Histograms: u, v
+
+Distribution of surface current values extracted underneath of Kanna, Mei, Fumi, & Anacapa vs rest of Cohort 2: Sept-Oct (2024)
+<br>
+
+::: {.panel-tabset}
+
+### Zonal (u)
+![](docs/images/plot_cc_cohort2_hycom_u_sept_oct_2024.png){group="cc-ggridges"}
+
+
+### Meridional (v)
+![](docs/images/plot_cc_cohort2_hycom_v_sept_oct_2024.png){group="cc-ggridges"}
+
+:::
+
+
+### Individual Tracks: u, v
+
+Surface current values extracted underneath of Kanna, Mei, Fumi, & Anacapa positions: Sept-Oct (2024)
+<br>
+
+::: {.panel-tabset}
+
+### Zonal (u)
+![](docs/images/plot_cc_cohort2_specs_hycom_u_color_coded_2024.png)
+
+
+### Meridional (v)
+![](docs/images/plot_cc_cohort2_specs_hycom_v_color_coded_2024.png)
+
+:::

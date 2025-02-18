@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  title: "cc-stretch-website-template"
+  title: "Project STRETCH"
   back-to-top-navigation: true
   page-navigation: true
   navbar:
@@ -13,7 +13,7 @@ website:
     collapse-below: lg
     left:
       - href: index.qmd
-        text: Home
+        text: "Dynamic Thermal Corridor Exploratory Analyses"
       # - href: tmp_page.qmd
       #   text: About
     right:
@@ -35,18 +35,26 @@ website:
     contents:
       - href: index.qmd
         text: Latest | Date
-      - section: tmp_2_date.qmd
-        text: Previous
+      - section: hycom_analyses.qmd
+        text: Env Analyses
         contents:
-          - href: tmp_2_date.qmd
-            text: Previous 2
-          - href: tmp_1_date.qmd
-            text: Previous 1
-      - href: tmp_page.qmd
-        text: Another Temp Page
+          - href: hycom_analyses.qmd
+            text: Hycom Analyses
+          - href: hycom_vs_oscar.qmd
+            text: Hycom vs Oscar
+          - href: env_clims.qmd
+            text: Climatologies
+      # - href: tmp_page.qmd
+      #   text: Another Temp Page
+      - section: cc_hycom_currents.qmd
+        text: Turtle-Env Analyses
+        contents:
+          - href: cc_hycom_currents.qmd
+            text: Turtle-Currents
+        
   page-footer:
     # right: "This page is built with ❤️ and [Quarto](https://quarto.org/)."
-    left: "&copy; CC-DBriscoe, 2024"
+    left: "&copy; CC-DBriscoe, 2025"
 
 format:
   html:

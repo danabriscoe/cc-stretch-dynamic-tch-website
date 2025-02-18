@@ -50,4 +50,11 @@ rsconnect/
 
 /.quarto/
 
+.DS_Store
+
 images/
+
+*.png
+*.jpg
+
+tmp_*.qmd
