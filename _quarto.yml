@@ -1,24 +1,21 @@
-project: 
+project:
   type: website
   output-dir: docs
-      
-website: 
-  title: "STRETCH"
-  # site-url: insert-here.com
-  page-navigation: true
+
+website:
+  title: "cc-stretch-website-template"
   back-to-top-navigation: true
+  page-navigation: true
   navbar:
     background: light
   #   # logo: quarto.png
   #   # logo-alt: "Quarto logo."
     collapse-below: lg
     left:
-      - text: "Dynamic Thermal Corridor : Exploratory Analyses"
-        href: index.qmd
-
-      # - text: "Blog"
-      #   href: materials/about.qmd
-    #   navbar:
+      - href: index.qmd
+        text: Home
+      # - href: tmp_page.qmd
+      #   text: About
     right:
       - text: "Wildlife Computers Maps"
         menu:
@@ -28,40 +25,28 @@ website:
           - text: "2023 Map"
             href: "https://my.wildlifecomputers.com/data/map/?id=646c14fae9b3514a9430a544"
             icon: globe
-
-
-
-      
-  page-footer:
-    # right: "This page is built with ❤️ and [Quarto](https://quarto.org/)."
-    left: "&copy; CC-DBriscoe, 2024"
     
   sidebar:
-    # logo: "images/openscapes_hex.png"
     pinned: true
     align: center
-    # tools: 
-    #   - icon: globe
-    #     href: https:www.loggerheadstretch.org
-    #     text: "www.loggerheadstretch.org"
-         
-
     style: "docked"
     search: true
     collapse-level: 1
     contents:
-      - href: materials/index.qmd
-        text: Latest (24 Dec 2024)
-      # - section: materials/2_about.qmd
-      #   text: Previous
-      #   contents:
-      #     - href: materials/2_about.qmd
-      #       text: Previous 2
-      #     - href: materials/2_about.qmd
-      #       text: Previous 1
-      # - href: materials/about.qmd
-      #   text: Transition from Rmd
-
+      - href: index.qmd
+        text: Latest | Date
+      - section: tmp_2_date.qmd
+        text: Previous
+        contents:
+          - href: tmp_2_date.qmd
+            text: Previous 2
+          - href: tmp_1_date.qmd
+            text: Previous 1
+      - href: tmp_page.qmd
+        text: Another Temp Page
+  page-footer:
+    # right: "This page is built with ❤️ and [Quarto](https://quarto.org/)."
+    left: "&copy; CC-DBriscoe, 2024"
 
 format:
   html:
@@ -74,29 +59,22 @@ format:
     link-external-newwindow: true
     link-external-filter: '^(?:http:|https:)\/\/www\.quarto\.org\/custom'
     # css: styles.css
-    fontsize: 25px
+    fontsize: 22px
     toc: true
+    toc-location: left
     toc-expand: true	
     number-sections: false
-    toc-location: left
     number-depth: 2
     smooth-scroll: true
     fig-cap-location: top
     scrollable: true
-    grid:
-      # sidebar-width: 300px
-      # body-width: 1350px
-      # margin-width: 300px
-      # gutter-width: 1.5rem
-      margin-width: 450px
-      body-width: 600px
-
 
 filters:
-  - include-files.lua
+  # - include-files.lua
   - lightbox
   - quarto
 lightbox: 
   match: auto
   effect: zoom
   desc-position: top
+
