@@ -1,0 +1,207 @@
+[
+  {
+    "objectID": "tmp_1_date.html",
+    "href": "tmp_1_date.html",
+    "title": "Project STRETCH",
+    "section": "",
+    "text": "Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see https://quarto.org.",
+    "crumbs": [
+      "Dynamic Thermal Corridor Exploratory Analyses",
+      "Previous",
+      "Previous 1"
+    ]
+  },
+  {
+    "objectID": "tmp_1_date.html#running-code",
+    "href": "tmp_1_date.html#running-code",
+    "title": "Project STRETCH",
+    "section": "Running Code",
+    "text": "Running Code\nWhen you click the Render button a document will be generated that includes both content and the output of embedded code. You can embed code like this:\n\n1 + 1\n\n[1] 2\n\n\nYou can add options to executable code like this\n\n\n[1] 4\n\n\nThe echo: false option disables the printing of code (only output is displayed).\nThis is a playground for Quarto.",
+    "crumbs": [
+      "Dynamic Thermal Corridor Exploratory Analyses",
+      "Previous",
+      "Previous 1"
+    ]
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Project STRETCH",
+    "section": "",
+    "text": "Back to top",
+    "crumbs": [
+      "Dynamic Thermal Corridor Exploratory Analyses",
+      "Latest | Date"
+    ]
+  },
+  {
+    "objectID": "index.html#here-is-a-header",
+    "href": "index.html#here-is-a-header",
+    "title": "Project STRETCH",
+    "section": "Here is a header",
+    "text": "Here is a header\n\n12\n\n\n\n\nPhoto caption: Olive Briscoe\n\n\n\n\n\n\n\nPhoto caption: Olive Briscoe",
+    "crumbs": [
+      "Dynamic Thermal Corridor Exploratory Analyses",
+      "Latest | Date"
+    ]
+  },
+  {
+    "objectID": "index.html#here-is-another-header",
+    "href": "index.html#here-is-another-header",
+    "title": "Project STRETCH",
+    "section": "Here is another header",
+    "text": "Here is another header\n\n123",
+    "crumbs": [
+      "Dynamic Thermal Corridor Exploratory Analyses",
+      "Latest | Date"
+    ]
+  },
+  {
+    "objectID": "tmp_page.html",
+    "href": "tmp_page.html",
+    "title": "Sample Page",
+    "section": "",
+    "text": "This is a temporary page\n\n\nWith a permanent picture ❤️\n\n\n\n\n\n\n Back to top",
+    "crumbs": [
+      "Dynamic Thermal Corridor Exploratory Analyses",
+      "Another Temp Page"
+    ]
+  },
+  {
+    "objectID": "tmp_2_date.html",
+    "href": "tmp_2_date.html",
+    "title": "Project STRETCH",
+    "section": "",
+    "text": "Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see https://quarto.org.",
+    "crumbs": [
+      "Dynamic Thermal Corridor Exploratory Analyses",
+      "Env Analyses"
+    ]
+  },
+  {
+    "objectID": "tmp_2_date.html#running-code",
+    "href": "tmp_2_date.html#running-code",
+    "title": "Project STRETCH",
+    "section": "Running Code",
+    "text": "Running Code\nWhen you click the Render button a document will be generated that includes both content and the output of embedded code. You can embed code like this:\n\n2 + 6\n\n[1] 8\n\n\nYou can add options to executable code like this\n\n\n[1] 4\n\n\nThe echo: false option disables the printing of code (only output is displayed).",
+    "crumbs": [
+      "Dynamic Thermal Corridor Exploratory Analyses",
+      "Env Analyses"
+    ]
+  },
+  {
+    "objectID": "tmp_2_date.html#quarto",
+    "href": "tmp_2_date.html#quarto",
+    "title": "Project STRETCH",
+    "section": "",
+    "text": "Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see https://quarto.org.",
+    "crumbs": [
+      "Dynamic Thermal Corridor Exploratory Analyses",
+      "Env Analyses"
+    ]
+  },
+  {
+    "objectID": "index.html#latest-additions",
+    "href": "index.html#latest-additions",
+    "title": "Project STRETCH",
+    "section": "Latest additions:",
+    "text": "Latest additions:\n4. Feb-19-2025:\n\nAdded Hycom Hovmoller plots\n\n\n3. Feb-13-2025:\n\nAdded Turtle-Hycom Extractions (1993 - 2024)\n\n\n2. Feb-06-2025:\n\nAdded Hycom vs Oscar Product Comparisons (1993 - 2024)\n\n\n1. Jan-25-2025:\n\nAdded SST & Salinity Climatologies (1993 - 2024)",
+    "crumbs": [
+      "Dynamic Thermal Corridor Exploratory Analyses",
+      "Latest | Date"
+    ]
+  },
+  {
+    "objectID": "tmp_1_date.html#quarto",
+    "href": "tmp_1_date.html#quarto",
+    "title": "Project STRETCH",
+    "section": "",
+    "text": "Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see https://quarto.org.",
+    "crumbs": [
+      "Dynamic Thermal Corridor Exploratory Analyses",
+      "Previous",
+      "Previous 1"
+    ]
+  },
+  {
+    "objectID": "env_clims.html",
+    "href": "env_clims.html",
+    "title": "Project STRETCH",
+    "section": "",
+    "text": "Click images to zoom in \n\nSSTSalinity",
+    "crumbs": [
+      "Dynamic Thermal Corridor Exploratory Analyses",
+      "Env Analyses",
+      "Climatologies"
+    ]
+  },
+  {
+    "objectID": "env_clims.html#climatologies",
+    "href": "env_clims.html#climatologies",
+    "title": "Project STRETCH",
+    "section": "",
+    "text": "Click images to zoom in \n\nSSTSalinity",
+    "crumbs": [
+      "Dynamic Thermal Corridor Exploratory Analyses",
+      "Env Analyses",
+      "Climatologies"
+    ]
+  },
+  {
+    "objectID": "hycom_vs_oscar.html",
+    "href": "hycom_vs_oscar.html",
+    "title": "Project STRETCH",
+    "section": "",
+    "text": "Comparison of HYCOM and OSCAR products within the NE Pacific: Sept & Oct (2023, 2024)\n\n\n\n\n20232024\n\n\n\nSeptOct\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSeptOct\n\n\n \n\n\n \n\n\n\n\n\n\n\n\n\n\nSee daily images in Google Drive folder",
+    "crumbs": [
+      "Dynamic Thermal Corridor Exploratory Analyses",
+      "Env Analyses",
+      "Hycom vs Oscar"
+    ]
+  },
+  {
+    "objectID": "hycom_vs_oscar.html#hycom-vs-oscar",
+    "href": "hycom_vs_oscar.html#hycom-vs-oscar",
+    "title": "Project STRETCH",
+    "section": "",
+    "text": "Comparison of HYCOM and OSCAR products within the NE Pacific: Sept & Oct (2023, 2024)\n\n\n\n\n20232024\n\n\n\nSeptOct\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSeptOct\n\n\n \n\n\n \n\n\n\n\n\n\n\n\n\n\nSee daily images in Google Drive folder",
+    "crumbs": [
+      "Dynamic Thermal Corridor Exploratory Analyses",
+      "Env Analyses",
+      "Hycom vs Oscar"
+    ]
+  },
+  {
+    "objectID": "cc_hycom_currents.html",
+    "href": "cc_hycom_currents.html",
+    "title": "Project STRETCH",
+    "section": "",
+    "text": "Comparison of surface current values extracted underneath of daily turtle positions: Sept-Oct (2023, 2024) \n\nZonal (u)Meridional (v)\n\n\n\n\n\n\n\n\n\n\n\n\n\nDistribution of surface current values extracted underneath of Kanna, Mei, Fumi, & Anacapa vs rest of Cohort 2: Sept-Oct (2024) \n\nZonal (u)Meridional (v)\n\n\n\n\n\n\n\n\n\n\n\n\nSurface current values extracted underneath of Kanna, Mei, Fumi, & Anacapa positions: Sept-Oct (2024) \n\nZonal (u)Meridional (v)",
+    "crumbs": [
+      "Dynamic Thermal Corridor Exploratory Analyses",
+      "Turtle-Env Analyses"
+    ]
+  },
+  {
+    "objectID": "cc_hycom_currents.html#turtle---hycom-extractions",
+    "href": "cc_hycom_currents.html#turtle---hycom-extractions",
+    "title": "Project STRETCH",
+    "section": "",
+    "text": "Comparison of surface current values extracted underneath of daily turtle positions: Sept-Oct (2023, 2024) \n\nZonal (u)Meridional (v)\n\n\n\n\n\n\n\n\n\n\n\n\n\nDistribution of surface current values extracted underneath of Kanna, Mei, Fumi, & Anacapa vs rest of Cohort 2: Sept-Oct (2024) \n\nZonal (u)Meridional (v)\n\n\n\n\n\n\n\n\n\n\n\n\nSurface current values extracted underneath of Kanna, Mei, Fumi, & Anacapa positions: Sept-Oct (2024) \n\nZonal (u)Meridional (v)",
+    "crumbs": [
+      "Dynamic Thermal Corridor Exploratory Analyses",
+      "Turtle-Env Analyses"
+    ]
+  },
+  {
+    "objectID": "hycom_analyses.html",
+    "href": "hycom_analyses.html",
+    "title": "Project STRETCH",
+    "section": "",
+    "text": "HYCOM Hovm\n Surface currents (u, v) plotted by latitude, averaged across 142°W to 130°W longitude: Sept - Oct (2023, 2024) \nClick images to zoom in \n\nZonal (u)Meridional (v)\n\n\n\n\nA): Lat plotted on x axis\n\n\n\n\n\nB) Alternate view: Lat plotted on y axis\n\n\n\n\n\n\n\nA): Lat plotted on x axis\n\n\n\n\n\nB) Alternate view: Lat plotted on y axis\n\n\n\n\n\n\n\n\n\n\n Back to top",
+    "crumbs": [
+      "Dynamic Thermal Corridor Exploratory Analyses",
+      "Env Analyses"
+    ]
+  }
+]
