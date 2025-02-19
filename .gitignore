@@ -59,3 +59,4 @@ _site/
 #*.jpg
 
 tmp_*.qmd
+tmp_*.html
