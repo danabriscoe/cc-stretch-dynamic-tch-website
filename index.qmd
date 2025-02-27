@@ -9,7 +9,18 @@ engine: knitr
 
 ## Latest additions: 
 
-**4. `{r} Sys.Date() |> format("%b-%d-%Y")`:**
+**5. `{r} Sys.Date() |> format("%b-%d-%Y")`:**
+
+- [x]  [Added Monthly Mean [Turtle Latitude plots](cc_analyses.qmd)]{style="font-size: 90%;"}
+- [x]  [Added Map of [CCS vs CCLME spatial boundaries](cc_analyses.qmd)]{style="font-size: 90%;"}
+- [x]  [Added Turtle Movements [into CCS plots](cc_analyses.qmd)]{style="font-size: 90%;"}
+- [x]  [Added Turtle-Hycom [Hovmoller plots](hycom_analyses.qmd)]{style="font-size: 90%;"}
+- [x]  [Added Turtle-SST [Hovmoller plots](hycom_analyses.qmd)]{style="font-size: 90%;"}
+- [x]  [Added Map of Monthly Turtle-Hycom [Sept-Oct plots](cc_hycom_currents.qmd)]{style="font-size: 90%;"}
+
+<br>
+
+**4. `{r} "2025-02-20" |> as.Date() |> format("%b-%d-%Y")`:**
 
 - [x]  [Added Hycom [Hovmoller plots](hycom_analyses.qmd)]{style="font-size: 90%;"}
 

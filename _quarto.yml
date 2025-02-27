@@ -35,11 +35,14 @@ website:
     contents:
       - href: index.qmd
         text: Latest | Date
+      - href: cc_analyses.qmd
+        text: Turtle Analyses
+        contents:
       - section: hycom_analyses.qmd
         text: Env Analyses
         contents:
           - href: hycom_analyses.qmd
-            text: Hycom Hovm
+            text: Hovmoller plots
           - href: hycom_vs_oscar.qmd
             text: Hycom vs Oscar
           - href: env_clims.qmd

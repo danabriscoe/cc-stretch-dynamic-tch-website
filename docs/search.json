@@ -4,18 +4,7 @@
     "href": "cc_hycom_currents.html",
     "title": "Project STRETCH",
     "section": "",
-    "text": "Comparison of surface current values extracted underneath of daily turtle positions: Sept-Oct (2023, 2024) \n\nZonal (u)Meridional (v)\n\n\n\n\n\n\n\n\n\n\n\n\n\nDistribution of surface current values extracted underneath of Kanna, Mei, Fumi, & Anacapa vs rest of Cohort 2: Sept-Oct (2024) \n\nZonal (u)Meridional (v)\n\n\n\n\n\n\n\n\n\n\n\n\nSurface current values extracted underneath of Kanna, Mei, Fumi, & Anacapa positions: Sept-Oct (2024) \n\nZonal (u)Meridional (v)",
-    "crumbs": [
-      "Dynamic Thermal Corridor Exploratory Analyses",
-      "Turtle-Env Analyses"
-    ]
-  },
-  {
-    "objectID": "cc_hycom_currents.html#turtle---hycom-extractions",
-    "href": "cc_hycom_currents.html#turtle---hycom-extractions",
-    "title": "Project STRETCH",
-    "section": "",
-    "text": "Comparison of surface current values extracted underneath of daily turtle positions: Sept-Oct (2023, 2024) \n\nZonal (u)Meridional (v)\n\n\n\n\n\n\n\n\n\n\n\n\n\nDistribution of surface current values extracted underneath of Kanna, Mei, Fumi, & Anacapa vs rest of Cohort 2: Sept-Oct (2024) \n\nZonal (u)Meridional (v)\n\n\n\n\n\n\n\n\n\n\n\n\nSurface current values extracted underneath of Kanna, Mei, Fumi, & Anacapa positions: Sept-Oct (2024) \n\nZonal (u)Meridional (v)",
+    "text": "Cohort Histograms: u, v\nComparison of surface current values extracted underneath of daily turtle positions: Sept-Oct (2023, 2024) \n\nZonal (u)Meridional (v)\n\n\n\n\n\n\n\n\n\n\n\n\nIndividual Histograms: u, v\nDistribution of surface current values extracted underneath of Kanna, Mei, Fumi, & Anacapa vs rest of Cohort 2: Sept-Oct (2024) \n\nZonal (u)Meridional (v)\n\n\n\n\n\n\n\n\n\n\n\n\nIndividual Tracks: u, v\nSurface current values extracted underneath of Kanna, Mei, Fumi, & Anacapa positions: Sept-Oct (2024) \n\nZonal (u)Meridional (v)\n\n\n\n\n\n\n\n\n\n\n\n\nTurtle-Hycom Tracks (Sept-Oct)\nCohort 1 & 2 turtle movements with Hycom monthly means (u, v) for Sept-Oct (2023, 2024) \n\nZonal (u) - SeptOct\n\n\n\n\nSeptember 2023 & 2024\n\n\n\n\n\n\n\nOctober 2023 & 2024\n\n\n\n\n\n\n\n\n\nMeridional (v) - SeptOct\n\n\n\n\nSeptember 2023 & 2024\n\n\n\n\n\n\n\nOctober 2023 & 2024\n\n\n\n\n\n\n\n\n\n\n Back to top",
     "crumbs": [
       "Dynamic Thermal Corridor Exploratory Analyses",
       "Turtle-Env Analyses"
@@ -70,14 +59,14 @@
     ]
   },
   {
-    "objectID": "index.html#latest-additions",
-    "href": "index.html#latest-additions",
+    "objectID": "cc_analyses.html",
+    "href": "cc_analyses.html",
     "title": "Project STRETCH",
-    "section": "Latest additions:",
-    "text": "Latest additions:\n4. Feb-19-2025:\n\nAdded Hycom Hovmoller plots\n\n\n3. Feb-13-2025:\n\nAdded Turtle-Hycom Extractions (1993 - 2024)\n\n\n2. Feb-06-2025:\n\nAdded Hycom vs Oscar Product Comparisons (1993 - 2024)\n\n\n1. Jan-25-2025:\n\nAdded SST & Salinity Climatologies (1993 - 2024)",
+    "section": "",
+    "text": "Average Lats by Date\n\n\n\nCCS vs CCLME extent\nSpatial comparison of the California Current System (CCS) as defined by Kahru et al. 2018 vs California Current Large Marine Ecosystem (CCLME) boundary (see ref).\nA coarse resolution buffer was applied from the North American Coast to delineate the CCS Transition (300 km) and Offshore (1000 km) boundaries.\n \n\n\nTurtle-CCS Movements\nMaps showing individual movement into the CCS region by group: Historic, Cohort 1, and Cohort 2 \nThe portion of the track during Sept-Oct is shown in red \n\nHistoricCohort 1 (2023)Cohort 2 (2024)\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n Back to top",
     "crumbs": [
       "Dynamic Thermal Corridor Exploratory Analyses",
-      "Latest | Date"
+      "Turtle Analyses"
     ]
   },
   {
@@ -102,11 +91,44 @@
     "text": "Running Code\nWhen you click the Render button a document will be generated that includes both content and the output of embedded code. You can embed code like this:\n\n1 + 1\n\n[1] 2\n\n\nYou can add options to executable code like this\n\n\n[1] 4\n\n\nThe echo: false option disables the printing of code (only output is displayed).\nThis is a playground for Quarto."
   },
   {
+    "objectID": "index.html#latest-additions",
+    "href": "index.html#latest-additions",
+    "title": "Project STRETCH",
+    "section": "Latest additions:",
+    "text": "Latest additions:\n5. Feb-27-2025:\n\nAdded Monthly Mean Turtle Latitude plots\nAdded Map of CCS vs CCLME spatial boundaries\nAdded Turtle Movements into CCS plots\nAdded Turtle-Hycom Hovmoller plots\nAdded Turtle-SST Hovmoller plots\nAdded Map of Monthly Turtle-Hycom Sept-Oct plots\n\n\n4. Feb-20-2025:\n\nAdded Hycom Hovmoller plots\n\n\n3. Feb-13-2025:\n\nAdded Turtle-Hycom Extractions (1993 - 2024)\n\n\n2. Feb-06-2025:\n\nAdded Hycom vs Oscar Product Comparisons (1993 - 2024)\n\n\n1. Jan-25-2025:\n\nAdded SST & Salinity Climatologies (1993 - 2024)",
+    "crumbs": [
+      "Dynamic Thermal Corridor Exploratory Analyses",
+      "Latest | Date"
+    ]
+  },
+  {
     "objectID": "hycom_analyses.html",
     "href": "hycom_analyses.html",
     "title": "Project STRETCH",
     "section": "",
-    "text": "HYCOM Hovm\n Surface currents (u, v) plotted by latitude, averaged across 142°W to 130°W longitude: Sept - Oct (2023, 2024) \nClick images to zoom in \n\nZonal (u)Meridional (v)\n\n\n\n\nA): Lat plotted on y axis\n\n\n\n\n\nB) Alternate view: Lat plotted on x axis\n\n\n\n\n\n\n\nA): Lat plotted on y axis\n\n\n\n\n\nB) Alternate view: Lat plotted on x axis\n\n\n\n\n\n\n\n\n\n\n Back to top",
+    "text": "Surface currents (u, v) plotted by latitude, averaged across 142°W to 130°W longitude: Sept - Oct (2023, 2024) \nClick images to zoom in \n\nZonal (u)Meridional (v)\n\n\n\n\nA): Lat plotted on y axis\n\n\n\n\n\nB) Alternate view: Lat plotted on x axis\n\n\n\n\n\n\n\nA): Lat plotted on y axis\n\n\n\n\n\nB) Alternate view: Lat plotted on x axis",
+    "crumbs": [
+      "Dynamic Thermal Corridor Exploratory Analyses",
+      "Env Analyses"
+    ]
+  },
+  {
+    "objectID": "hycom_analyses.html#hycom-hovm-with-turtles",
+    "href": "hycom_analyses.html#hycom-hovm-with-turtles",
+    "title": "Project STRETCH",
+    "section": "HYCOM Hovm with Turtles",
+    "text": "HYCOM Hovm with Turtles\nMonthly mean Hycom (u, v) and turtle latitudes between 142°W to 130°W longitude.\nPurple circles: individuals that eventually moved into the CCS  Green circles: all other individual turtle locations \nClick images to zoom in \n\nZonal (u)Meridional (v)\n\n\n\n\nLat plotted on y axis\n\n\n\n\n\n\n\nLat plotted on y axis",
+    "crumbs": [
+      "Dynamic Thermal Corridor Exploratory Analyses",
+      "Env Analyses"
+    ]
+  },
+  {
+    "objectID": "hycom_analyses.html#sst-hovm-with-turtles",
+    "href": "hycom_analyses.html#sst-hovm-with-turtles",
+    "title": "Project STRETCH",
+    "section": "SST Hovm with Turtles",
+    "text": "SST Hovm with Turtles\nMonthly mean SST and turtle latitudes between 142°W to 130°W longitude.\nPurple circles: individuals that eventually moved into the CCS  Green circles: all other individual turtle locations  White circle: Average latitude of the 18°C SST isotherm\nClick images to zoom in",
     "crumbs": [
       "Dynamic Thermal Corridor Exploratory Analyses",
       "Env Analyses"

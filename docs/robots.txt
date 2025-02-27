@@ -1,1 +1,1 @@
-Sitemap: https://29376ec8-6a14-4393-95df-eef6916ff20a.netlify.app/sitemap.xml
+Sitemap: https://danabriscoe.github.io/cc-stretch-dynamic-tch-website/sitemap.xml

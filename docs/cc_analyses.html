@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Project STRETCH</title>
+<title>cc_analyses – Project STRETCH</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -29,7 +29,8 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-search/fuse.min.js"></script>
 <script src="site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="./">
-<link href="./cc_analyses.html" rel="next">
+<link href="./hycom_analyses.html" rel="next">
+<link href="./index.html" rel="prev">
 <script src="site_libs/quarto-html/quarto.js"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
@@ -41,6 +42,9 @@ ul.task-list li input[type="checkbox"] {
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
 <link href="site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
 <link href="site_libs/bootstrap/bootstrap-dark.min.css" rel="prefetch" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="dark">
+<script src="site_libs/quarto-contrib/glightbox/glightbox.min.js"></script>
+<link href="site_libs/quarto-contrib/glightbox/glightbox.min.css" rel="stylesheet">
+<link href="site_libs/quarto-contrib/glightbox/lightbox.css" rel="stylesheet">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -125,7 +129,7 @@ ul.task-list li input[type="checkbox"] {
       <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" role="button" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
         <i class="bi bi-layout-text-sidebar-reverse"></i>
       </button>
-        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./index.html">Latest | Date</a></li></ol></nav>
+        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./cc_analyses.html">Turtle Analyses</a></li></ol></nav>
         <a class="flex-grow-1" role="navigation" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
         </a>
       <button type="button" class="btn quarto-search-button" aria-label="Search" onclick="window.quartoOpenSearch();">
@@ -147,13 +151,13 @@ ul.task-list li input[type="checkbox"] {
     <ul class="list-unstyled mt-1">
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./index.html" class="sidebar-item-text sidebar-link active">
+  <a href="./index.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Latest | Date</span></a>
   </div>
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./cc_analyses.html" class="sidebar-item-text sidebar-link">
+  <a href="./cc_analyses.html" class="sidebar-item-text sidebar-link active">
  <span class="menu-text">Turtle Analyses</span></a>
   </div>
 </li>
@@ -209,7 +213,9 @@ ul.task-list li input[type="checkbox"] {
     <h2 id="toc-title">On this page</h2>
    
   <ul>
-  <li><a href="#latest-additions" id="toc-latest-additions" class="nav-link active" data-scroll-target="#latest-additions">Latest additions:</a></li>
+  <li><a href="#average-lats-by-date" id="toc-average-lats-by-date" class="nav-link active" data-scroll-target="#average-lats-by-date">Average Lats by Date</a></li>
+  <li><a href="#ccs-vs-cclme-extent" id="toc-ccs-vs-cclme-extent" class="nav-link" data-scroll-target="#ccs-vs-cclme-extent">CCS vs CCLME extent</a></li>
+  <li><a href="#turtle-ccs-movements" id="toc-turtle-ccs-movements" class="nav-link" data-scroll-target="#turtle-ccs-movements">Turtle-CCS Movements</a></li>
   </ul>
 </nav>
 </nav>
@@ -223,38 +229,34 @@ ul.task-list li input[type="checkbox"] {
 
 
 
-<p><br> <br></p>
-<section id="latest-additions" class="level2">
-<h2 class="anchored" data-anchor-id="latest-additions">Latest additions:</h2>
-<p><strong>5. Feb-27-2025:</strong></p>
-<ul class="task-list">
-<li><label><input type="checkbox" checked=""><span style="font-size: 90%;">Added Monthly Mean <a href="./cc_analyses.html">Turtle Latitude plots</a></span></label></li>
-<li><label><input type="checkbox" checked=""><span style="font-size: 90%;">Added Map of <a href="./cc_analyses.html">CCS vs CCLME spatial boundaries</a></span></label></li>
-<li><label><input type="checkbox" checked=""><span style="font-size: 90%;">Added Turtle Movements <a href="./cc_analyses.html">into CCS plots</a></span></label></li>
-<li><label><input type="checkbox" checked=""><span style="font-size: 90%;">Added Turtle-Hycom <a href="./hycom_analyses.html">Hovmoller plots</a></span></label></li>
-<li><label><input type="checkbox" checked=""><span style="font-size: 90%;">Added Turtle-SST <a href="./hycom_analyses.html">Hovmoller plots</a></span></label></li>
-<li><label><input type="checkbox" checked=""><span style="font-size: 90%;">Added Map of Monthly Turtle-Hycom <a href="./cc_hycom_currents.html">Sept-Oct plots</a></span></label></li>
-</ul>
-<p><br></p>
-<p><strong>4. Feb-20-2025:</strong></p>
-<ul class="task-list">
-<li><label><input type="checkbox" checked=""><span style="font-size: 90%;">Added Hycom <a href="./hycom_analyses.html">Hovmoller plots</a></span></label></li>
-</ul>
-<p><br></p>
-<p><strong>3. Feb-13-2025:</strong></p>
-<ul class="task-list">
-<li><label><input type="checkbox" checked=""><span style="font-size: 90%;">Added Turtle-Hycom <a href="./cc_hycom_currents.html">Extractions</a> (1993 - 2024)</span></label></li>
-</ul>
-<p><br></p>
-<p><strong>2. Feb-06-2025:</strong></p>
-<ul class="task-list">
-<li><label><input type="checkbox" checked=""><span style="font-size: 90%;">Added Hycom vs Oscar Product <a href="./hycom_vs_oscar.html">Comparisons</a> (1993 - 2024)</span></label></li>
-</ul>
-<p><br></p>
-<p><strong>1. Jan-25-2025:</strong></p>
-<ul class="task-list">
-<li><label><input type="checkbox" checked=""><span style="font-size: 90%;">Added SST &amp; Salinity <a href="./env_clims.html">Climatologies</a> (1993 - 2024)</span></label></li>
-</ul>
+<section id="average-lats-by-date" class="level3">
+<h3 class="anchored" data-anchor-id="average-lats-by-date">Average Lats by Date</h3>
+<p><a href="docs/images/plot_avg_turtle_lats_by_month_july_march.png" class="lightbox" data-gallery="quarto-lightbox-gallery-1"><img src="docs/images/plot_avg_turtle_lats_by_month_july_march.png" class="img-fluid"></a></p>
+</section>
+<section id="ccs-vs-cclme-extent" class="level3">
+<h3 class="anchored" data-anchor-id="ccs-vs-cclme-extent">CCS vs CCLME extent</h3>
+<p>Spatial comparison of the California Current System (CCS) as defined by <a href="https://sci-hub.se/10.1016/j.dsr.2018.04.007">Kahru et al.&nbsp;2018</a> vs California Current Large Marine Ecosystem (CCLME) boundary (<a href="https://www.researchgate.net/publication/229042854_Developing_the_California_Current_Integrated_Ecosystem_Assessment_Module_I_Select_Time-Series_of_Ecosystem_State">see ref</a>).<br></p>
+<p>A coarse resolution buffer was applied from the North American Coast to delineate the CCS Transition (300 km) and Offshore (1000 km) boundaries.<br></p>
+<p><img src="docs/images/map_with_ccs_buffers_and_cclme.png" class="img-fluid"> <br></p>
+</section>
+<section id="turtle-ccs-movements" class="level3">
+<h3 class="anchored" data-anchor-id="turtle-ccs-movements">Turtle-CCS Movements</h3>
+<p>Maps showing individual movement into the CCS region by group: Historic, Cohort 1, and Cohort 2 <br></p>
+<p>The portion of the track during <span style="color:red"><strong>Sept-Oct</strong></span> is shown in <span style="color:red"><strong>red</strong></span> <br></p>
+<div class="tabset-margin-container"></div><div class="panel-tabset">
+<ul class="nav nav-tabs" role="tablist"><li class="nav-item" role="presentation"><a class="nav-link active" id="tabset-1-1-tab" data-bs-toggle="tab" data-bs-target="#tabset-1-1" role="tab" aria-controls="tabset-1-1" aria-selected="true">Historic</a></li><li class="nav-item" role="presentation"><a class="nav-link" id="tabset-1-2-tab" data-bs-toggle="tab" data-bs-target="#tabset-1-2" role="tab" aria-controls="tabset-1-2" aria-selected="false">Cohort 1 (2023)</a></li><li class="nav-item" role="presentation"><a class="nav-link" id="tabset-1-3-tab" data-bs-toggle="tab" data-bs-target="#tabset-1-3" role="tab" aria-controls="tabset-1-3" aria-selected="false">Cohort 2 (2024)</a></li></ul>
+<div class="tab-content">
+<div id="tabset-1-1" class="tab-pane active" role="tabpanel" aria-labelledby="tabset-1-1-tab">
+<p><a href="docs/images/plot_facet_ccs_pf_hist.png" class="lightbox" data-gallery="quarto-lightbox-gallery-2"><img src="docs/images/plot_facet_ccs_pf_hist.png" class="img-fluid"></a></p>
+</div>
+<div id="tabset-1-2" class="tab-pane" role="tabpanel" aria-labelledby="tabset-1-2-tab">
+<p><a href="docs/images/plot_facet_ccs_pf_cohort1.png" class="lightbox" data-gallery="quarto-lightbox-gallery-3"><img src="docs/images/plot_facet_ccs_pf_cohort1.png" class="img-fluid"></a></p>
+</div>
+<div id="tabset-1-3" class="tab-pane" role="tabpanel" aria-labelledby="tabset-1-3-tab">
+<p><a href="docs/images/plot_facet_ccs_pf_cohort2.png" class="lightbox" data-gallery="quarto-lightbox-gallery-4"><img src="docs/images/plot_facet_ccs_pf_cohort2.png" class="img-fluid"></a></p>
+</div>
+</div>
+</div>
 
 
 </section>
@@ -831,10 +833,13 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 </script>
 <nav class="page-navigation">
   <div class="nav-page nav-page-previous">
+      <a href="./index.html" class="pagination-link" aria-label="Latest | Date">
+        <i class="bi bi-arrow-left-short"></i> <span class="nav-page-text">Latest | Date</span>
+      </a>          
   </div>
   <div class="nav-page nav-page-next">
-      <a href="./cc_analyses.html" class="pagination-link" aria-label="Turtle Analyses">
-        <span class="nav-page-text">Turtle Analyses</span> <i class="bi bi-arrow-right-short"></i>
+      <a href="./hycom_analyses.html" class="pagination-link" aria-label="Env Analyses">
+        <span class="nav-page-text">Env Analyses</span> <i class="bi bi-arrow-right-short"></i>
       </a>
   </div>
 </nav>
@@ -852,6 +857,38 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     </div>
   </div>
 </footer>
+<script>var lightboxQuarto = GLightbox({"selector":".lightbox","loop":false,"descPosition":"top","closeEffect":"zoom","openEffect":"zoom"});
+(function() {
+  let previousOnload = window.onload;
+  window.onload = () => {
+    if (previousOnload) {
+      previousOnload();
+    }
+    lightboxQuarto.on('slide_before_load', (data) => {
+      const { slideIndex, slideNode, slideConfig, player, trigger } = data;
+      const href = trigger.getAttribute('href');
+      if (href !== null) {
+        const imgEl = window.document.querySelector(`a[href="${href}"] img`);
+        if (imgEl !== null) {
+          const srcAttr = imgEl.getAttribute("src");
+          if (srcAttr && srcAttr.startsWith("data:")) {
+            slideConfig.href = srcAttr;
+          }
+        }
+      } 
+    });
+  
+    lightboxQuarto.on('slide_after_load', (data) => {
+      const { slideIndex, slideNode, slideConfig, player, trigger } = data;
+      if (window.Quarto?.typesetMath) {
+        window.Quarto.typesetMath(slideNode);
+      }
+    });
+  
+  };
+  
+})();
+          </script>
 
 
 

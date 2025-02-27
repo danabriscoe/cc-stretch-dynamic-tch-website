@@ -13,7 +13,7 @@ lightbox:
 ---
 
 
-## Turtle - HYCOM Extractions
+<!-- ### Turtle - HYCOM Extractions -->
 
 <!-- <br> -->
 
@@ -52,6 +52,8 @@ Distribution of surface current values extracted underneath of Kanna, Mei, Fumi,
 
 :::
 
+<br>
+
 
 ### Individual Tracks: u, v
 
@@ -61,10 +63,55 @@ Surface current values extracted underneath of Kanna, Mei, Fumi, & Anacapa posit
 ::: {.panel-tabset}
 
 ### Zonal (u)
-![](docs/images/plot_cc_cohort2_specs_hycom_u_color_coded_2024.png)
+
+![](docs/images/plot_cc_cohort2_specs_hycom_u_color_coded_2024.png){group="cc-hycom"}
 
 
 ### Meridional (v)
-![](docs/images/plot_cc_cohort2_specs_hycom_v_color_coded_2024.png)
+
+![](docs/images/plot_cc_cohort2_specs_hycom_v_color_coded_2024.png){group="cc-hycom"}
+
+:::
+
+<br>
+
+
+### Turtle-Hycom Tracks (Sept-Oct)
+
+Cohort 1 & 2 turtle movements with Hycom monthly means (u, v) for Sept-Oct (2023, 2024) <br>
+
+
+::: {.panel-tabset}
+
+
+
+### Zonal (u) - Sept
+
+![September 2023 & 2024](docs/images/cc_hycom_enpac_plots_u_Sep_2023_2024.png){group="cc-hycom"} 
+
+### Oct
+
+![October 2023 & 2024](docs/images/cc_hycom_enpac_plots_u_Oct_2023_2024.png){group="cc-hycom"} 
+
+
+<br>
+
+:::
+
+<br>
+
+::: {.panel-tabset}
+
+
+
+### Meridional (v) - Sept
+
+![September 2023 & 2024](docs/images/cc_hycom_enpac_plots_v_Sep_2023_2024.png){group="cc-hycom"}
+
+
+### Oct
+
+![October 2023 & 2024](docs/images/cc_hycom_enpac_plots_v_Oct_2023_2024.png){group="cc-hycom"} 
+
 
 :::

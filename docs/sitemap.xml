@@ -1,35 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://29376ec8-6a14-4393-95df-eef6916ff20a.netlify.app/cc_hycom_currents.html</loc>
-    <lastmod>2025-02-18T09:53:22.311Z</lastmod>
+    <loc>https://danabriscoe.github.io/cc-stretch-dynamic-tch-website/cc_hycom_currents.html</loc>
+    <lastmod>2025-02-27T10:28:37.480Z</lastmod>
   </url>
   <url>
-    <loc>https://29376ec8-6a14-4393-95df-eef6916ff20a.netlify.app/hycom_vs_oscar.html</loc>
+    <loc>https://danabriscoe.github.io/cc-stretch-dynamic-tch-website/hycom_vs_oscar.html</loc>
     <lastmod>2025-02-18T09:05:05.588Z</lastmod>
   </url>
   <url>
-    <loc>https://29376ec8-6a14-4393-95df-eef6916ff20a.netlify.app/env_clims.html</loc>
+    <loc>https://danabriscoe.github.io/cc-stretch-dynamic-tch-website/env_clims.html</loc>
     <lastmod>2025-02-18T05:28:54.978Z</lastmod>
   </url>
   <url>
-    <loc>https://29376ec8-6a14-4393-95df-eef6916ff20a.netlify.app/index.html</loc>
-    <lastmod>2025-02-18T22:42:25.440Z</lastmod>
+    <loc>https://danabriscoe.github.io/cc-stretch-dynamic-tch-website/cc_analyses.html</loc>
+    <lastmod>2025-02-27T10:11:11.993Z</lastmod>
   </url>
   <url>
-    <loc>https://29376ec8-6a14-4393-95df-eef6916ff20a.netlify.app/tmp_1_date.html</loc>
+    <loc>https://danabriscoe.github.io/cc-stretch-dynamic-tch-website/tmp_1_date.html</loc>
     <lastmod>2024-12-24T04:44:48.144Z</lastmod>
   </url>
   <url>
-    <loc>https://29376ec8-6a14-4393-95df-eef6916ff20a.netlify.app/hycom_analyses.html</loc>
-    <lastmod>2025-02-19T00:16:18.419Z</lastmod>
+    <loc>https://danabriscoe.github.io/cc-stretch-dynamic-tch-website/index.html</loc>
+    <lastmod>2025-02-27T10:32:42.328Z</lastmod>
   </url>
   <url>
-    <loc>https://29376ec8-6a14-4393-95df-eef6916ff20a.netlify.app/tmp_page.html</loc>
+    <loc>https://danabriscoe.github.io/cc-stretch-dynamic-tch-website/hycom_analyses.html</loc>
+    <lastmod>2025-02-27T09:41:14.012Z</lastmod>
+  </url>
+  <url>
+    <loc>https://danabriscoe.github.io/cc-stretch-dynamic-tch-website/tmp_page.html</loc>
     <lastmod>2024-12-24T04:45:15.241Z</lastmod>
   </url>
   <url>
-    <loc>https://29376ec8-6a14-4393-95df-eef6916ff20a.netlify.app/tmp_2_date.html</loc>
+    <loc>https://danabriscoe.github.io/cc-stretch-dynamic-tch-website/tmp_2_date.html</loc>
     <lastmod>2024-12-24T04:45:37.611Z</lastmod>
   </url>
 </urlset>

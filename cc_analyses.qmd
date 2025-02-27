@@ -1,0 +1,52 @@
+---
+title: ""
+format: html
+engine: knitr
+filters:
+  # - include-files.lua
+  - lightbox
+  - quarto
+lightbox: 
+  match: auto
+  effect: zoom
+  desc-position: top
+---
+
+
+
+
+### Average Lats by Date
+
+
+![](docs/images/plot_avg_turtle_lats_by_month_july_march.png)    
+
+### CCS vs CCLME extent
+
+Spatial comparison of the California Current System (CCS) as defined by [Kahru et al. 2018](https://sci-hub.se/10.1016/j.dsr.2018.04.007) vs California Current Large Marine Ecosystem (CCLME) boundary ([see ref](https://www.researchgate.net/publication/229042854_Developing_the_California_Current_Integrated_Ecosystem_Assessment_Module_I_Select_Time-Series_of_Ecosystem_State)).<br>
+
+A coarse resolution buffer was applied from the North American Coast to delineate the CCS Transition (300 km) and Offshore (1000 km) boundaries.<br>
+
+![](docs/images/map_with_ccs_buffers_and_cclme.png)
+<br>
+
+### Turtle-CCS Movements
+
+Maps showing individual movement into the CCS region by group: Historic, Cohort 1, and Cohort 2 <br>
+
+The portion of the track during [**Sept-Oct**]{style="color:red"} is shown in [**red**]{style="color:red"} <br>
+
+::: {.panel-tabset}
+
+### Historic
+
+![](docs/images/plot_facet_ccs_pf_hist.png)
+
+### Cohort 1 (2023)
+
+![](docs/images/plot_facet_ccs_pf_cohort1.png)
+
+### Cohort 2 (2024)
+
+![](docs/images/plot_facet_ccs_pf_cohort2.png)
+:::
+
