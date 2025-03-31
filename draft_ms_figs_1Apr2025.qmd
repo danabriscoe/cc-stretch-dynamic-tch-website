@@ -1,0 +1,51 @@
+---
+title: ""
+format: html
+engine: knitr
+filters:
+  # - include-files.lua
+  - lightbox
+  - quarto
+lightbox: 
+  match: auto
+  effect: zoom
+  desc-position: top
+---
+
+
+
+
+### Draft MS Figures
+
+
+### ENP Current Climatology
+
+![](docs/images/plot_globtotal_u_and_vectors_enpac_0m_depth.png)
+
+<br>
+
+### Turtle Tracks in ENP by Group
+A. All tracks (Historic + STRETCH), B. Historic (2006-2008), C. STRETCH Cohort 1 (2023), D. STRETCH Cohort 2 (2024)
+
+![](docs/images/draft_ms_fig_1_all_tracks_enpac_w_insets.png)
+
+<br>
+
+
+### Weekly Turtle-Current Averages
+*To be added*
+
+<br>
+
+
+### 4 Cohort 2 Turtles in CC & Chl-a (Sept/Oct 2024)
+
+![](docs/images/draft_ms_fig_3_cc_chla_enpac.png)
+
+<br>
+
+
+### Current Corrected Turtle Speeds
+*To be added*
+
+<br>
