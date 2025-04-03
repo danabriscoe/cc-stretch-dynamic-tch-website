@@ -14,38 +14,41 @@ lightbox:
 
 
 
+### Fig 1. ENP Current Climatology
 
-### Draft MS Figures
+*see* here for other spatial resolution examples
 
-
-### ENP Current Climatology
-
-![](docs/images/plot_globtotal_u_and_vectors_enpac_0m_depth.png)
-
-<br>
-
-### Turtle Tracks in ENP by Group
-A. All tracks (Historic + STRETCH), B. Historic (2006-2008), C. STRETCH Cohort 1 (2023), D. STRETCH Cohort 2 (2024)
-
-![](docs/images/draft_ms_fig_1_all_tracks_enpac_w_insets.png)
+![](docs/images/plot_fig1_u_vectors_cc_w_captions.png)
 
 <br>
 
 
-### Weekly Turtle-Current Averages
-*To be added*
 
 <br>
 
 
-### 4 Cohort 2 Turtles in CC & Chl-a (Sept/Oct 2024)
+### Fig 2. Mean Turtle Latitude by Year Group 
+
+*Figure from: Briscoe et al. (2025)*
+
+![](docs/images/5A_Figure_turtle_yr_groups_ms_with_Q1_Q3_labels_Nov2024.jpg)
+
+<br>
+
+
+### Fig 3. Four Cohort 2 Turtles in CC & Chl-a (Sept/Oct 2024)
 
 ![](docs/images/draft_ms_fig_3_cc_chla_enpac.png)
 
 <br>
 
 
-### Current Corrected Turtle Speeds
-*To be added*
+### Fig 4. Comparison of Sept 2014 & 2024 currents & isotherm
+*Compare warming events and show possible corridor/presence of turtles within CC*
+
+<br>
+
+### *Possible Fig or Table:* Current Corrected Turtle Speeds
+*To be added using Copernicus GlobalTotal product instead of HYCOM*
 
 <br>
