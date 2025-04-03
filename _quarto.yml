@@ -39,7 +39,7 @@ website:
         text: Draft MS Figures
         contents:
           - href: draft_ms_figs_1Apr2025.qmd
-            text: 31-Mar-2025
+            text: 03-Apr-2025
       - section: cc_analyses.qmd
         text: Exploratory Analyses
         contents:
@@ -47,7 +47,7 @@ website:
           - href: cc_analyses.qmd
             text: Turtle Analyses
             contents:
-          - section: hycom_analyses.qmd
+          - section: env_clims.qmd
             text: Env Analyses
             contents:
               - href: env_clims.qmd

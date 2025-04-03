@@ -13,10 +13,16 @@ lightbox:
 ---
 
 
+## Draft Manuscript Figures (in progress)
 
 ### Fig 1. ENP Current Climatology
 
-*see* here for other spatial resolution examples
+
+<br>
+
+*see* [here](env_clims.qmd#currents-sept---oct-2014---2024-1-panel) for other spatial resolution examples
+
+<br>
 
 ![](docs/images/plot_fig1_u_vectors_cc_w_captions.png)
 

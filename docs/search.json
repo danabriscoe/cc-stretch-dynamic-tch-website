@@ -4,7 +4,7 @@
     "href": "draft_ms_figs_1Apr2025.html",
     "title": "Project STRETCH",
     "section": "",
-    "text": "Fig 1. ENP Current Climatology\nsee here for other spatial resolution examples\n\n\n\n\n\nFig 2. Mean Turtle Latitude by Year Group\nFigure from: Briscoe et al. (2025)\n\n\n\n\nFig 3. Four Cohort 2 Turtles in CC & Chl-a (Sept/Oct 2024)\n\n\n\n\nFig 4. Comparison of Sept 2014 & 2024 currents & isotherm\nCompare warming events and show possible corridor/presence of turtles within CC\n\n\n\nPossible Fig or Table: Current Corrected Turtle Speeds\nTo be added using Copernicus GlobalTotal product instead of HYCOM\n\n\n\n\n\n Back to top",
+    "text": "see here for other spatial resolution examples\n\n\n\n\n\n\n\nFigure from: Briscoe et al. (2025)\n\n\n\n\n\n\n\n\n\n\nCompare warming events and show possible corridor/presence of turtles within CC\n\n\n\n\nTo be added using Copernicus GlobalTotal product instead of HYCOM",
     "crumbs": [
       "Dynamic Thermal Corridor Exploratory Analyses",
       "Draft MS Figures"
@@ -47,7 +47,8 @@
     "crumbs": [
       "Dynamic Thermal Corridor Exploratory Analyses",
       "Exploratory Analyses",
-      "Env Analyses"
+      "Env Analyses",
+      "Hovmoller plots"
     ]
   },
   {
@@ -79,7 +80,7 @@
     "href": "index.html#latest-additions",
     "title": "Project STRETCH",
     "section": "Latest additions:",
-    "text": "Latest additions:\n7. Apr-03-2025:\n\nAdded Draft Figure 1: Currents, 18C isotherm, & turtles Climatology (2014-2024)\nAdded Draft Figure 2: Avg Turtle Lat by Year Group from Briscoe et al. (2025) FMS paper\nAdded Draft Figure 3: 4 Cohort 2 Turtles in CC & Chl-a (Sept/Oct 2024) \nAdded Sept/Oct Currents Climatologies (2014 - 2024): 1°, 2°, 5° spatial grids plots\nAdded Monthly Sept/Oct SST + 18°C Isotherm (2014 - 2024)) plots\nAdded Individual Historic Turtle Tracks (2005 - 2008) & Sept/Oct Zonal Clim (2014 - 2024) plots\n\n\n6. Mar-31-2025:\n\nAdded Turtle Tracks in ENP by Group: Historic, STRETCH Cohorts 1 & 2\n\n\n5. Feb-27-2025:\n\nAdded Monthly Mean Turtle Latitude plots\nAdded Map of CCS vs CCLME spatial boundaries\nAdded Turtle Movements into CCS plots\nAdded Turtle-Hycom Hovmoller plots\nAdded Turtle-SST Hovmoller plots\nAdded Map of Monthly Turtle-Hycom Sept-Oct plots\n\n\n4. Feb-20-2025:\n\nAdded Hycom Hovmoller plots\n\n\n3. Feb-13-2025:\n\nAdded Turtle-Hycom Histograms (1993 - 2024)\n\n\n2. Feb-06-2025:\n\nAdded Hycom vs Oscar Product Comparisons (1993 - 2024)\n\n\n1. Jan-25-2025:\n\nAdded SST & Salinity Climatologies (1993 - 2024)",
+    "text": "Latest additions:\n7. Apr-03-2025:\n\nAdded Draft Figure 1: Currents, 18C Isotherm, & Turtles Climatology (2014-2024)\nAdded Draft Figure 2: Avg Turtle Lat by Year Group from Briscoe et al. (2025) FMS paper\nAdded Draft Figure 3: 4 Cohort 2 Turtles in CC & Chl-a (Sept/Oct 2024) \nAdded Sept/Oct Currents Climatologies (2014 - 2024): 1°, 2°, 5° spatial grids plots\nAdded Monthly Sept/Oct SST + 18°C Isotherm (2014 - 2024)) plots\nAdded Individual Historic Turtle Tracks (2005 - 2008) & Sept/Oct Zonal Clim (2014 - 2024) plots\n\n\n6. Mar-31-2025:\n\nAdded Turtle Tracks in ENP by Group: Historic, STRETCH Cohorts 1 & 2\n\n\n5. Feb-27-2025:\n\nAdded Monthly Mean Turtle Latitude plots\nAdded Map of CCS vs CCLME spatial boundaries\nAdded Turtle Movements into CCS plots\nAdded Turtle-Hycom Hovmoller plots\nAdded Turtle-SST Hovmoller plots\nAdded Map of Monthly Turtle-Hycom Sept-Oct plots\n\n\n4. Feb-20-2025:\n\nAdded Hycom Hovmoller plots\n\n\n3. Feb-13-2025:\n\nAdded Turtle-Hycom Histograms (1993 - 2024)\n\n\n2. Feb-06-2025:\n\nAdded Hycom vs Oscar Product Comparisons (1993 - 2024)\n\n\n1. Jan-25-2025:\n\nAdded SST & Salinity Climatologies (1993 - 2024)",
     "crumbs": [
       "Dynamic Thermal Corridor Exploratory Analyses",
       "Latest | Date"
@@ -126,8 +127,7 @@
     "crumbs": [
       "Dynamic Thermal Corridor Exploratory Analyses",
       "Exploratory Analyses",
-      "Env Analyses",
-      "Climatologies"
+      "Env Analyses"
     ]
   },
   {
@@ -139,8 +139,7 @@
     "crumbs": [
       "Dynamic Thermal Corridor Exploratory Analyses",
       "Exploratory Analyses",
-      "Env Analyses",
-      "Climatologies"
+      "Env Analyses"
     ]
   },
   {
@@ -174,7 +173,7 @@
     "href": "cc_hycom_currents.html",
     "title": "Project STRETCH",
     "section": "",
-    "text": "Cohort Histograms: u, v\nComparison of surface current values extracted underneath of daily turtle positions: Sept-Oct (2023, 2024) \n\nZonal (u)Meridional (v)\n\n\n\n\n\n\n\n\n\n\n\n\nIndividual Histograms: u, v\nDistribution of surface current values extracted underneath of Kanna, Mei, Fumi, & Anacapa vs rest of Cohort 2: Sept-Oct (2024) \n\nZonal (u)Meridional (v)\n\n\n\n\n\n\n\n\n\n\n\n\nIndividual Tracks: u, v\nSurface current values extracted underneath of Kanna, Mei, Fumi, & Anacapa positions: Sept-Oct (2024) \n\nZonal (u)Meridional (v)\n\n\n\n\n\n\n\n\n\n\n\n\nTurtle-Hycom Tracks (Sept-Oct)\nCohort 1 & 2 turtle movements with Hycom monthly means (u, v) for Sept-Oct (2023, 2024) \n\nZonal (u) - SeptOct\n\n\n\n\nSeptember 2023 & 2024\n\n\n\n\n\n\n\nOctober 2023 & 2024\n\n\n\n\n\n\n\n\n\nMeridional (v) - SeptOct\n\n\n\n\nSeptember 2023 & 2024\n\n\n\n\n\n\n\nOctober 2023 & 2024\n\n\n\n\n\n\n\n\n\nHistoric tracks in ENP with Zonal Average\n\nIndividual turtle tracks from the historic data set (n = 2005 - 2008) that moved into the ENP.\nTheir annual Sept-Oct positions are shown in black.\n\nThe 2014-2024 Sept-Oct climatology of zonal (u) flow is shown as the base layer. (Source: Copernicus GlobalTotal, processed to a 0.25 spatial grid).\n\n\n\n\n\n Back to top",
+    "text": "Comparison of surface current values extracted underneath of daily turtle positions: Sept-Oct (2023, 2024) \n\nZonal (u)Meridional (v)\n\n\n\n\n\n\n\n\n\n\n\n\n\nDistribution of surface current values extracted underneath of Kanna, Mei, Fumi, & Anacapa vs rest of Cohort 2: Sept-Oct (2024) \n\nZonal (u)Meridional (v)\n\n\n\n\n\n\n\n\n\n\n\n\n\nSurface current values extracted underneath of Kanna, Mei, Fumi, & Anacapa positions: Sept-Oct (2024) \n\nZonal (u)Meridional (v)\n\n\n\n\n\n\n\n\n\n\n\n\n\nCohort 1 & 2 turtle movements with Hycom monthly means (u, v) for Sept-Oct (2023, 2024) \n\nZonal (u) - SeptOct\n\n\n\n\nSeptember 2023 & 2024\n\n\n\n\n\n\n\nOctober 2023 & 2024\n\n\n\n\n\n\n\n\n\nMeridional (v) - SeptOct\n\n\n\n\nSeptember 2023 & 2024\n\n\n\n\n\n\n\nOctober 2023 & 2024\n\n\n\n\n\n\n\n\n\n\nIndividual turtle tracks from the historic data set (n = 2005 - 2008) that moved into the ENP.\nTheir annual Sept-Oct positions are shown in black.\n\nThe 2014-2024 Sept-Oct climatology of zonal (u) flow is shown as the base layer. (Source: Copernicus GlobalTotal, processed to a 0.25 spatial grid).",
     "crumbs": [
       "Dynamic Thermal Corridor Exploratory Analyses",
       "Exploratory Analyses",
@@ -229,8 +228,7 @@
     "crumbs": [
       "Dynamic Thermal Corridor Exploratory Analyses",
       "Exploratory Analyses",
-      "Env Analyses",
-      "Climatologies"
+      "Env Analyses"
     ]
   },
   {
@@ -281,8 +279,7 @@
     "crumbs": [
       "Dynamic Thermal Corridor Exploratory Analyses",
       "Exploratory Analyses",
-      "Env Analyses",
-      "Climatologies"
+      "Env Analyses"
     ]
   },
   {
@@ -294,8 +291,7 @@
     "crumbs": [
       "Dynamic Thermal Corridor Exploratory Analyses",
       "Exploratory Analyses",
-      "Env Analyses",
-      "Climatologies"
+      "Env Analyses"
     ]
   },
   {
@@ -307,8 +303,7 @@
     "crumbs": [
       "Dynamic Thermal Corridor Exploratory Analyses",
       "Exploratory Analyses",
-      "Env Analyses",
-      "Climatologies"
+      "Env Analyses"
     ]
   },
   {
@@ -348,6 +343,29 @@
       "Exploratory Analyses",
       "Turtle-Env Analyses",
       "Turtle-Hovm"
+    ]
+  },
+  {
+    "objectID": "cc_hycom_currents.html#turtle-current-analyses",
+    "href": "cc_hycom_currents.html#turtle-current-analyses",
+    "title": "Project STRETCH",
+    "section": "",
+    "text": "Comparison of surface current values extracted underneath of daily turtle positions: Sept-Oct (2023, 2024) \n\nZonal (u)Meridional (v)\n\n\n\n\n\n\n\n\n\n\n\n\n\nDistribution of surface current values extracted underneath of Kanna, Mei, Fumi, & Anacapa vs rest of Cohort 2: Sept-Oct (2024) \n\nZonal (u)Meridional (v)\n\n\n\n\n\n\n\n\n\n\n\n\n\nSurface current values extracted underneath of Kanna, Mei, Fumi, & Anacapa positions: Sept-Oct (2024) \n\nZonal (u)Meridional (v)\n\n\n\n\n\n\n\n\n\n\n\n\n\nCohort 1 & 2 turtle movements with Hycom monthly means (u, v) for Sept-Oct (2023, 2024) \n\nZonal (u) - SeptOct\n\n\n\n\nSeptember 2023 & 2024\n\n\n\n\n\n\n\nOctober 2023 & 2024\n\n\n\n\n\n\n\n\n\nMeridional (v) - SeptOct\n\n\n\n\nSeptember 2023 & 2024\n\n\n\n\n\n\n\nOctober 2023 & 2024\n\n\n\n\n\n\n\n\n\n\nIndividual turtle tracks from the historic data set (n = 2005 - 2008) that moved into the ENP.\nTheir annual Sept-Oct positions are shown in black.\n\nThe 2014-2024 Sept-Oct climatology of zonal (u) flow is shown as the base layer. (Source: Copernicus GlobalTotal, processed to a 0.25 spatial grid).",
+    "crumbs": [
+      "Dynamic Thermal Corridor Exploratory Analyses",
+      "Exploratory Analyses",
+      "Turtle-Env Analyses"
+    ]
+  },
+  {
+    "objectID": "draft_ms_figs_1Apr2025.html#draft-manuscript-figures-in-progress",
+    "href": "draft_ms_figs_1Apr2025.html#draft-manuscript-figures-in-progress",
+    "title": "Project STRETCH",
+    "section": "",
+    "text": "see here for other spatial resolution examples\n\n\n\n\n\n\n\nFigure from: Briscoe et al. (2025)\n\n\n\n\n\n\n\n\n\n\nCompare warming events and show possible corridor/presence of turtles within CC\n\n\n\n\nTo be added using Copernicus GlobalTotal product instead of HYCOM",
+    "crumbs": [
+      "Dynamic Thermal Corridor Exploratory Analyses",
+      "Draft MS Figures"
     ]
   }
 ]

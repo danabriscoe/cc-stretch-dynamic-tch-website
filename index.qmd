@@ -11,7 +11,7 @@ engine: knitr
 
 **7. `{r} "2025-04-03" |> as.Date() |> format("%b-%d-%Y")`:**
 
-- [x]  [Added Draft Figure 1: [Currents, 18C isotherm, & turtles Climatology (2014-2024)](draft_ms_figs_1Apr2025.qmd)]{style="font-size: 90%;"}
+- [x]  [Added Draft Figure 1: [Currents, 18C Isotherm, & Turtles Climatology (2014-2024)](draft_ms_figs_1Apr2025.qmd)]{style="font-size: 90%;"}
 - [x]  [Added Draft Figure 2: [Avg Turtle Lat by Year Group](draft_ms_figs_1Apr2025.qmd#fig-2.-mean-turtle-latitude-by-year-group) from Briscoe et al. (2025) FMS paper]{style="font-size: 90%;"}
 - [x]  [Added Draft Figure 3: [4 Cohort 2 Turtles in CC & Chl-a (Sept/Oct 2024)](draft_ms_figs_1Apr2025.qmd#fig-3.-four-cohort-2-turtles-in-cc-chl-a-septoct-2024)]{style="font-size: 90%;"}
 <br>
