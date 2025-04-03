@@ -1,0 +1,49 @@
+---
+title: ""
+format: html
+engine: knitr
+filters:
+  # - include-files.lua
+  - lightbox
+  - quarto
+lightbox: 
+  match: auto
+  effect: zoom
+  desc-position: top
+---
+
+
+
+## Turtle-HYCOM Hovm 
+
+Monthly mean Hycom (u, v) and turtle latitudes between 142°W to 130°W longitude.
+
+[Purple circles: individuals that eventually moved into the CCS]{style="color:#231942"} <br>
+[Green circles: all other individual turtle locations]{style="color: #22577a"} <br>
+
+[*Click images to zoom in*]{style="font-size: 80%;"} <br>
+
+::: {.panel-tabset}
+
+### Zonal (u)
+![Lat plotted on y axis](docs/images/plot_hovm_hycom_u_lons_142W_to_130W_sept_oct_2023_and_2024_ux_axis_w_cohort_cc.png){group="cc-hycom-hovm"}
+
+### Meridional (v)
+
+![Lat plotted on y axis](docs/images/plot_hovm_hycom_v_lons_142W_to_130W_sept_oct_2023_and_2024_vx_axis_w_cohort_cc.png){group="cc-hycom-hovm"}
+
+:::
+
+
+## Turtle-SST Hovm 
+
+Monthly mean SST and turtle latitudes between 142°W to 130°W longitude.
+
+[Purple circles: individuals that eventually moved into the CCS]{style="color:#231942"} <br>
+[Green circles: all other individual turtle locations]{style="color: #22577a"} <br>
+White circle: Average latitude of the 18°C SST isotherm
+
+[*Click images to zoom in*]{style="font-size: 80%;"} <br>
+
+
+![](docs/images/plot_hovm_sst_lons_142W_to_130W_sept_oct_2023_and_2024_ux_axis_w_cohort_cc.png){group="cc-sst-hovm"}

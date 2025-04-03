@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>hycom_analyses – Project STRETCH</title>
+<title>cc_hovm – Project STRETCH</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -29,8 +29,7 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-search/fuse.min.js"></script>
 <script src="site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="./">
-<link href="./env_clims.html" rel="next">
-<link href="./cc_analyses.html" rel="prev">
+<link href="./cc_hycom_currents.html" rel="prev">
 <script src="site_libs/quarto-html/quarto.js"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
@@ -129,7 +128,7 @@ ul.task-list li input[type="checkbox"] {
       <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" role="button" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
         <i class="bi bi-layout-text-sidebar-reverse"></i>
       </button>
-        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./cc_analyses.html">Exploratory Analyses</a></li><li class="breadcrumb-item"><a href="./hycom_analyses.html">Env Analyses</a></li></ol></nav>
+        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./cc_analyses.html">Exploratory Analyses</a></li><li class="breadcrumb-item"><a href="./cc_hycom_currents.html">Turtle-Env Analyses</a></li><li class="breadcrumb-item"><a href="./cc_hovm.html">Turtle-Hovm</a></li></ol></nav>
         <a class="flex-grow-1" role="navigation" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
         </a>
       <button type="button" class="btn quarto-search-button" aria-label="Search" onclick="window.quartoOpenSearch();">
@@ -189,13 +188,13 @@ ul.task-list li input[type="checkbox"] {
 </li>
           <li class="sidebar-item sidebar-item-section">
       <div class="sidebar-item-container"> 
-            <a href="./hycom_analyses.html" class="sidebar-item-text sidebar-link active">
+            <a href="./hycom_analyses.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Env Analyses</span></a>
-          <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-3" role="navigation" aria-expanded="true" aria-label="Toggle section">
+          <a class="sidebar-item-toggle text-start collapsed" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-3" role="navigation" aria-expanded="false" aria-label="Toggle section">
             <i class="bi bi-chevron-right ms-2"></i>
           </a> 
       </div>
-      <ul id="quarto-sidebar-section-3" class="collapse list-unstyled sidebar-section depth2 show">  
+      <ul id="quarto-sidebar-section-3" class="collapse list-unstyled sidebar-section depth2 ">  
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
   <a href="./env_clims.html" class="sidebar-item-text sidebar-link">
@@ -204,7 +203,7 @@ ul.task-list li input[type="checkbox"] {
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./hycom_analyses.html" class="sidebar-item-text sidebar-link active">
+  <a href="./hycom_analyses.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Hovmoller plots</span></a>
   </div>
 </li>
@@ -220,11 +219,11 @@ ul.task-list li input[type="checkbox"] {
       <div class="sidebar-item-container"> 
             <a href="./cc_hycom_currents.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Turtle-Env Analyses</span></a>
-          <a class="sidebar-item-toggle text-start collapsed" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-4" role="navigation" aria-expanded="false" aria-label="Toggle section">
+          <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-4" role="navigation" aria-expanded="true" aria-label="Toggle section">
             <i class="bi bi-chevron-right ms-2"></i>
           </a> 
       </div>
-      <ul id="quarto-sidebar-section-4" class="collapse list-unstyled sidebar-section depth2 ">  
+      <ul id="quarto-sidebar-section-4" class="collapse list-unstyled sidebar-section depth2 show">  
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
   <a href="./cc_hycom_currents.html" class="sidebar-item-text sidebar-link">
@@ -233,7 +232,7 @@ ul.task-list li input[type="checkbox"] {
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./cc_hovm.html" class="sidebar-item-text sidebar-link">
+  <a href="./cc_hovm.html" class="sidebar-item-text sidebar-link active">
  <span class="menu-text">Turtle-Hovm</span></a>
   </div>
 </li>
@@ -247,7 +246,8 @@ ul.task-list li input[type="checkbox"] {
     <h2 id="toc-title">On this page</h2>
    
   <ul>
-  <li><a href="#hycom-hovm" id="toc-hycom-hovm" class="nav-link active" data-scroll-target="#hycom-hovm">HYCOM Hovm</a></li>
+  <li><a href="#turtle-hycom-hovm" id="toc-turtle-hycom-hovm" class="nav-link active" data-scroll-target="#turtle-hycom-hovm">Turtle-HYCOM Hovm</a></li>
+  <li><a href="#turtle-sst-hovm" id="toc-turtle-sst-hovm" class="nav-link" data-scroll-target="#turtle-sst-hovm">Turtle-SST Hovm</a></li>
   </ul>
 </nav>
 </nav>
@@ -261,9 +261,10 @@ ul.task-list li input[type="checkbox"] {
 
 
 
-<section id="hycom-hovm" class="level3">
-<h3 class="anchored" data-anchor-id="hycom-hovm">HYCOM Hovm</h3>
-<p><br> Surface currents (u, v) plotted by latitude, averaged across 142°W to 130°W longitude: Sept - Oct (2023, 2024) <br></p>
+<section id="turtle-hycom-hovm" class="level2">
+<h2 class="anchored" data-anchor-id="turtle-hycom-hovm">Turtle-HYCOM Hovm</h2>
+<p>Monthly mean Hycom (u, v) and turtle latitudes between 142°W to 130°W longitude.</p>
+<p><span style="color:#231942">Purple circles: individuals that eventually moved into the CCS</span> <br> <span style="color: #22577a">Green circles: all other individual turtle locations</span> <br></p>
 <p><span style="font-size: 80%;"><em>Click images to zoom in</em></span> <br></p>
 <div class="tabset-margin-container"></div><div class="panel-tabset">
 <ul class="nav nav-tabs" role="tablist"><li class="nav-item" role="presentation"><a class="nav-link active" id="tabset-1-1-tab" data-bs-toggle="tab" data-bs-target="#tabset-1-1" role="tab" aria-controls="tabset-1-1" aria-selected="true">Zonal (u)</a></li><li class="nav-item" role="presentation"><a class="nav-link" id="tabset-1-2-tab" data-bs-toggle="tab" data-bs-target="#tabset-1-2" role="tab" aria-controls="tabset-1-2" aria-selected="false">Meridional (v)</a></li></ul>
@@ -271,34 +272,28 @@ ul.task-list li input[type="checkbox"] {
 <div id="tabset-1-1" class="tab-pane active" role="tabpanel" aria-labelledby="tabset-1-1-tab">
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<figcaption>A): Lat plotted on y axis</figcaption>
-<p><a href="docs/images/plot_hovm_hycom_u_lons_142W_to_130W_sept_oct_2023_and_2024_ux_axis.png" class="lightbox" data-gallery="hycom-hovm" title="A): Lat plotted on y axis"><img src="docs/images/plot_hovm_hycom_u_lons_142W_to_130W_sept_oct_2023_and_2024_ux_axis.png" class="img-fluid figure-img" alt="A): Lat plotted on y axis"></a></p>
-</figure>
-</div>
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<figcaption>B) Alternate view: Lat plotted on x axis</figcaption>
-<p><a href="docs/images/plot_hovm_hycom_u_lons_142W_to_130W_sept_oct_2023_and_2024_uy_axis.png" class="lightbox" data-gallery="hycom-hovm" title="B) Alternate view: Lat plotted on x axis"><img src="docs/images/plot_hovm_hycom_u_lons_142W_to_130W_sept_oct_2023_and_2024_uy_axis.png" class="img-fluid figure-img" alt="B) Alternate view: Lat plotted on x axis"></a></p>
+<figcaption>Lat plotted on y axis</figcaption>
+<p><a href="docs/images/plot_hovm_hycom_u_lons_142W_to_130W_sept_oct_2023_and_2024_ux_axis_w_cohort_cc.png" class="lightbox" data-gallery="cc-hycom-hovm" title="Lat plotted on y axis"><img src="docs/images/plot_hovm_hycom_u_lons_142W_to_130W_sept_oct_2023_and_2024_ux_axis_w_cohort_cc.png" class="img-fluid figure-img" alt="Lat plotted on y axis"></a></p>
 </figure>
 </div>
 </div>
 <div id="tabset-1-2" class="tab-pane" role="tabpanel" aria-labelledby="tabset-1-2-tab">
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<figcaption>A): Lat plotted on y axis</figcaption>
-<p><a href="docs/images/plot_hovm_hycom_v_lons_142W_to_130W_sept_oct_2023_and_2024_vx_axis.png" class="lightbox" data-gallery="hycom-hovm" title="A): Lat plotted on y axis"><img src="docs/images/plot_hovm_hycom_v_lons_142W_to_130W_sept_oct_2023_and_2024_vx_axis.png" class="img-fluid figure-img" alt="A): Lat plotted on y axis"></a></p>
-</figure>
-</div>
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<figcaption>B) Alternate view: Lat plotted on x axis</figcaption>
-<p><a href="docs/images/plot_hovm_hycom_v_lons_142W_to_130W_sept_oct_2023_and_2024_vy_axis.png" class="lightbox" data-gallery="hycom-hovm" title="B) Alternate view: Lat plotted on x axis"><img src="docs/images/plot_hovm_hycom_v_lons_142W_to_130W_sept_oct_2023_and_2024_vy_axis.png" class="img-fluid figure-img" alt="B) Alternate view: Lat plotted on x axis"></a></p>
+<figcaption>Lat plotted on y axis</figcaption>
+<p><a href="docs/images/plot_hovm_hycom_v_lons_142W_to_130W_sept_oct_2023_and_2024_vx_axis_w_cohort_cc.png" class="lightbox" data-gallery="cc-hycom-hovm" title="Lat plotted on y axis"><img src="docs/images/plot_hovm_hycom_v_lons_142W_to_130W_sept_oct_2023_and_2024_vx_axis_w_cohort_cc.png" class="img-fluid figure-img" alt="Lat plotted on y axis"></a></p>
 </figure>
 </div>
 </div>
 </div>
 </div>
-<p><br></p>
+</section>
+<section id="turtle-sst-hovm" class="level2">
+<h2 class="anchored" data-anchor-id="turtle-sst-hovm">Turtle-SST Hovm</h2>
+<p>Monthly mean SST and turtle latitudes between 142°W to 130°W longitude.</p>
+<p><span style="color:#231942">Purple circles: individuals that eventually moved into the CCS</span> <br> <span style="color: #22577a">Green circles: all other individual turtle locations</span> <br> White circle: Average latitude of the 18°C SST isotherm</p>
+<p><span style="font-size: 80%;"><em>Click images to zoom in</em></span> <br></p>
+<p><a href="docs/images/plot_hovm_sst_lons_142W_to_130W_sept_oct_2023_and_2024_ux_axis_w_cohort_cc.png" class="lightbox" data-gallery="cc-sst-hovm"><img src="docs/images/plot_hovm_sst_lons_142W_to_130W_sept_oct_2023_and_2024_ux_axis_w_cohort_cc.png" class="img-fluid"></a></p>
 
 
 </section>
@@ -875,14 +870,11 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 </script>
 <nav class="page-navigation">
   <div class="nav-page nav-page-previous">
-      <a href="./cc_analyses.html" class="pagination-link" aria-label="Exploratory Analyses">
-        <i class="bi bi-arrow-left-short"></i> <span class="nav-page-text">Exploratory Analyses</span>
+      <a href="./cc_hycom_currents.html" class="pagination-link" aria-label="Turtle-Env Analyses">
+        <i class="bi bi-arrow-left-short"></i> <span class="nav-page-text">Turtle-Env Analyses</span>
       </a>          
   </div>
   <div class="nav-page nav-page-next">
-      <a href="./env_clims.html" class="pagination-link" aria-label="Climatologies">
-        <span class="nav-page-text">Climatologies</span> <i class="bi bi-arrow-right-short"></i>
-      </a>
   </div>
 </nav>
 </div> <!-- /content -->
@@ -899,7 +891,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     </div>
   </div>
 </footer>
-<script>var lightboxQuarto = GLightbox({"selector":".lightbox","closeEffect":"zoom","openEffect":"zoom","loop":false,"descPosition":"top"});
+<script>var lightboxQuarto = GLightbox({"descPosition":"top","openEffect":"zoom","closeEffect":"zoom","selector":".lightbox","loop":false});
 (function() {
   let previousOnload = window.onload;
   window.onload = () => {
