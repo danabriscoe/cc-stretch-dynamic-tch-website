@@ -57,6 +57,7 @@ _site/
 
 #*.png
 #*.jpg
+/rm/*
 
 tmp_*.qmd
 tmp_*.html
