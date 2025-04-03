@@ -16,9 +16,83 @@ lightbox:
 
 [*Click images to zoom in*]{style="font-size: 80%;"} <br>
 
+
+## Currents: Sept - Oct (2014 - 2024) | 1 Panel
+
+Sept and Oct values averaged together on a 2° x 2° spatial grid. Figure shown using either a *discrete* or *continuous* colorbar
+
+<!-- ::: {layout-ncol=2} -->
+
+![Discrete Colorbar](docs/images/plot_globtotal_u_and_vectors_enpac_0m_depth_2deg_discrete.png) 
+
+<br>
+
+![Continuous Colorbar](docs/images/plot_globtotal_u_and_vectors_enpac_0m_depth_2deg_continuous.png) 
+
+
+:::
+
+<br>
+
+
+## Currents: Sept and Oct (2014 - 2024) | 2 Panel
+
+Copernicus GlobalTotal Current product (0.25° x 0.25° spatial resolution) down-scaled to various grid sizes:
+
 ::: {.panel-tabset}
 
-### SST
+### 1° x 1° grid 
+![](docs/images/plot_globtotal_u_and_vectors_enpac_0m_depth_1deg.png){group="grids"}
+
+<br>
+
+### 2° x 2° grid 
+![](docs/images/plot_globtotal_u_and_vectors_enpac_0m_depth_2deg.png){group="grids"}
+
+<br>
+
+### 5° x 5° grid 
+![](docs/images/plot_globtotal_u_and_vectors_enpac_0m_depth.png){group="grids"}
+:::
+
+<br>
+<br>
+
+## SST: Sept - Oct (2014 - 2024)
+
+::: {.panel-tabset}
+
+### September SSTs (2014 - 2024) \
+
+The **18°C SST isotherm shown as dark gray** contour line. \
+The 45N, 140W lat/lon grid lines shown in gray. \
+
+*Source: NOAA Coral Reef Watch Monthly SST (5km spatial resolution)*
+
+![](docs/images/plot_monthly_sst_and_18C_isotherm_sept_2014_2024.png){group="clims"}
+
+### October SSTs (2014 - 2024) \
+
+The **18°C SST isotherm shown as dark gray** contour line. \
+The 45N, 140W lat/lon grid lines shown in gray. \
+
+*Source: NOAA Coral Reef Watch Monthly SST (5km spatial resolution)*
+
+![](docs/images/plot_monthly_sst_and_18C_isotherm_oct_2014_2024.png){group="clims"}
+
+::: 
+
+<br>
+<br>
+
+
+## SST, Salinity: All Months (1993 - 2024)
+
+::: {.panel-tabset}
+
+### SST by Month (1993 - 2024) \
+
+*Source: GLORYS Monthly SST, Copernicus (1/12° spatial resolution)*
 
 ::: {layout-ncol=3}
 
@@ -69,8 +143,11 @@ lightbox:
 
 <!-- ::: {.panel-tabset} -->
 
+##
 
-### Salinity
+### Salinity by Month (1993 - 2024)
+
+*Source: GLORYS Monthly Salinity, Copernicus (1/12° spatial resolution)*
 
 ::: {layout-ncol=3}
 

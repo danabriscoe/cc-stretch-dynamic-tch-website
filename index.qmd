@@ -9,14 +9,35 @@ engine: knitr
 
 ## Latest additions: 
 
-**5. `{r} Sys.Date() |> format("%b-%d-%Y")`:**
+**7. `{r} "2025-04-03" |> as.Date() |> format("%b-%d-%Y")`:**
+
+- [x]  [Added Draft Figure 1: [Currents, 18C isotherm, & turtles Climatology (2014-2024)](draft_ms_figs_1Apr2025.qmd)]{style="font-size: 90%;"}
+- [x]  [Added Draft Figure 2: [Avg Turtle Lat by Year Group](draft_ms_figs_1Apr2025.qmd#fig-2.-mean-turtle-latitude-by-year-group) from Briscoe et al. (2025) FMS paper]{style="font-size: 90%;"}
+- [x]  [Added Draft Figure 3: [4 Cohort 2 Turtles in CC & Chl-a (Sept/Oct 2024)](draft_ms_figs_1Apr2025.qmd#fig-3.-four-cohort-2-turtles-in-cc-chl-a-septoct-2024)]{style="font-size: 90%;"}
+<br>
+
+- [x]  [Added [Sept/Oct Currents Climatologies (2014 - 2024): 1°, 2°, 5° spatial grids ](env_clims.qmd#currents-sept---oct-2014---2024-1-panel) plots]{style="font-size: 90%;"}
+- [x]  [Added Monthly [Sept/Oct SST + 18°C Isotherm (2014 - 2024)](env_clims.qmd#sst-sept---oct-2014---2024)) plots]{style="font-size: 90%;"}
+- [x]  [Added [Individual Historic Turtle Tracks (2005 - 2008) & Sept/Oct Zonal Clim (2014 - 2024)](cc_hycom_currents.qmd#cohort-2-tracks-in-enp-by-individual) plots]{style="font-size: 90%;"}
+
+
+<br>
+
+**6. `{r} "2025-03-31" |> as.Date() |> format("%b-%d-%Y")`:**
+
+- [x]  [Added [Turtle Tracks in ENP by Group](cc_analyses.qmd#turtle-tracks-in-enp-by-group): Historic, STRETCH Cohorts 1 & 2]{style="font-size: 90%;"}
+
+
+<br>
+
+**5. `{r} "2025-02-27" |> as.Date() |> format("%b-%d-%Y")`:**
 
 - [x]  [Added Monthly Mean [Turtle Latitude plots](cc_analyses.qmd)]{style="font-size: 90%;"}
-- [x]  [Added Map of [CCS vs CCLME spatial boundaries](cc_analyses.qmd)]{style="font-size: 90%;"}
-- [x]  [Added Turtle Movements [into CCS plots](cc_analyses.qmd)]{style="font-size: 90%;"}
-- [x]  [Added Turtle-Hycom [Hovmoller plots](hycom_analyses.qmd)]{style="font-size: 90%;"}
-- [x]  [Added Turtle-SST [Hovmoller plots](hycom_analyses.qmd)]{style="font-size: 90%;"}
-- [x]  [Added Map of Monthly Turtle-Hycom [Sept-Oct plots](cc_hycom_currents.qmd)]{style="font-size: 90%;"}
+- [x]  [Added Map of [CCS vs CCLME spatial boundaries](cc_analyses.qmd#ccs-vs-cclme-extent)]{style="font-size: 90%;"}
+- [x]  [Added Turtle Movements [into CCS plots](cc_analyses.qmd#turtle-ccs-movements)]{style="font-size: 90%;"}
+- [x]  [Added Turtle-Hycom [Hovmoller plots](cc_hovm.qmd#turtle-hycom-hovm)]{style="font-size: 90%;"}
+- [x]  [Added Turtle-SST [Hovmoller plots](cc_hovm.qmd#turtle-sst-hovm)]{style="font-size: 90%;"}
+- [x]  [Added Map of Monthly Turtle-Hycom [Sept-Oct plots](cc_hycom_currents.qmd#individual-tracks-u-v)]{style="font-size: 90%;"}
 
 <br>
 
@@ -28,7 +49,7 @@ engine: knitr
 
 **3. `{r} "2025-02-13" |> as.Date() |> format("%b-%d-%Y")`:**
 
-- [x]  [Added Turtle-Hycom [Extractions](cc_hycom_currents.qmd) (1993 - 2024)]{style="font-size: 90%;"}
+- [x]  [Added Turtle-Hycom [Histograms](cc_hycom_currents.qmd) (1993 - 2024)]{style="font-size: 90%;"}
 
 
 <br>
@@ -42,6 +63,6 @@ engine: knitr
 
 **1. `{r} "2025-01-25" |> as.Date() |> format("%b-%d-%Y")`:**
 
-- [x]  [Added SST & Salinity [Climatologies](env_clims.qmd) (1993 - 2024)]{style="font-size: 90%;"}
+- [x]  [Added SST & Salinity [Climatologies](env_clims.qmd#sst-salinity-all-months-1993---2024) (1993 - 2024)]{style="font-size: 90%;"}
 
 

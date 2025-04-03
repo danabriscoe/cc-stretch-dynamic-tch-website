@@ -20,6 +20,8 @@ lightbox:
 
 ![](docs/images/plot_avg_turtle_lats_by_month_july_march.png)    
 
+<br>
+
 ### CCS vs CCLME extent
 
 Spatial comparison of the California Current System (CCS) as defined by [Kahru et al. 2018](https://sci-hub.se/10.1016/j.dsr.2018.04.007) vs California Current Large Marine Ecosystem (CCLME) boundary ([see ref](https://www.researchgate.net/publication/229042854_Developing_the_California_Current_Integrated_Ecosystem_Assessment_Module_I_Select_Time-Series_of_Ecosystem_State)).<br>
@@ -50,3 +52,22 @@ The portion of the track during [**Sept-Oct**]{style="color:red"} is shown in [*
 ![](docs/images/plot_facet_ccs_pf_cohort2.png)
 :::
 
+<br>
+
+### Turtle Tracks in ENP by Group
+A. All tracks (Historic + STRETCH), B. Historic (2006-2008), C. STRETCH Cohort 1 (2023), D. STRETCH Cohort 2 (2024)
+
+![](docs/images/draft_ms_fig_1_all_tracks_enpac_w_insets.png)
+
+<br>
+
+### Cohort 2 Tracks in ENP by Individual
+Individual plots for each turtle in Cohort 2 that moved east of the release location (n = 18) during Sept-Oct 2024. \
+
+Individual movements for a given turtle are shown in green. All other tracks shown in gray.
+
+<br>
+
+![](docs/images/indiv_plots_cohort2_sept_oct_2024_p1.png) <br>
+
+![](docs/images/indiv_plots_cohort2_sept_oct_2024_p2.png) <br>

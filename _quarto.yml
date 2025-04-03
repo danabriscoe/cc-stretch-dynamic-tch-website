@@ -35,25 +35,37 @@ website:
     contents:
       - href: index.qmd
         text: Latest | Date
-      - href: cc_analyses.qmd
-        text: Turtle Analyses
+      - section: draft_ms_figs_1Apr2025.qmd
+        text: Draft MS Figures
         contents:
-      - section: hycom_analyses.qmd
-        text: Env Analyses
+          - href: draft_ms_figs_1Apr2025.qmd
+            text: 31-Mar-2025
+      - section: cc_analyses.qmd
+        text: Exploratory Analyses
         contents:
-          - href: hycom_analyses.qmd
-            text: Hovmoller plots
-          - href: hycom_vs_oscar.qmd
-            text: Hycom vs Oscar
-          - href: env_clims.qmd
-            text: Climatologies
-      # - href: tmp_page.qmd
-      #   text: Another Temp Page
-      - section: cc_hycom_currents.qmd
-        text: Turtle-Env Analyses
-        contents:
-          - href: cc_hycom_currents.qmd
-            text: Turtle-Currents
+          - section: 
+          - href: cc_analyses.qmd
+            text: Turtle Analyses
+            contents:
+          - section: hycom_analyses.qmd
+            text: Env Analyses
+            contents:
+              - href: env_clims.qmd
+                text: Climatologies
+              - href: hycom_analyses.qmd
+                text: Hovmoller plots
+              - href: hycom_vs_oscar.qmd
+                text: Hycom vs Oscar
+
+          # - href: tmp_page.qmd
+          #   text: Another Temp Page
+          - section: cc_hycom_currents.qmd
+            text: Turtle-Env Analyses
+            contents:
+              - href: cc_hycom_currents.qmd
+                text: Turtle-Currents
+              - href: cc_hovm.qmd
+                text: Turtle-Hovm
         
   page-footer:
     # right: "This page is built with ❤️ and [Quarto](https://quarto.org/)."
