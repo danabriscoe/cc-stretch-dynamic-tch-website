@@ -20,7 +20,7 @@ lightbox:
 
 <br>
 
-*see* [here](env_clims.qmd#currents-sept---oct-2014---2024-1-panel) for other spatial resolution examples
+*See [here](env_clims.qmd#currents-sept---oct-2014---2024-1-panel) for other spatial resolution examples*
 
 <br>
 
