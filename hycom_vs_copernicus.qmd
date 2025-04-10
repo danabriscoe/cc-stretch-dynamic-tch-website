@@ -1,0 +1,30 @@
+---
+title: ""
+format: html
+engine: knitr
+filters:
+  # - include-files.lua
+  - lightbox
+  - quarto
+lightbox: 
+  match: auto
+  effect: zoom
+  desc-position: top
+---
+
+
+## HYCOM vs Copernicus --- PAGE NOT YET COMPLETE OR ADDED TO YAML / INDEX
+
+Comparison of HYCOM and Copernicus's Global Total Ocean products within the NE Pacific: Sept & Oct (2023, 2024)
+
+HYCOM res: 1/12° spatial grid
+Copernicus res: 0.25° spatial grid
+
+<br>
+
+### Map example
+
+```{r}
+# here('data', 'interim', glue('cc_hycom_vs_copernicus_sept_oct_2024.rdata'))
+```
+

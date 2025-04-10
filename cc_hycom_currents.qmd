@@ -17,9 +17,31 @@ lightbox:
 
 <!-- <br> -->
 
-### Cohort Histograms: u, v
+### Cohort Histograms: u, v 
 
-Comparison of surface current values extracted underneath of daily turtle positions: Sept-Oct (2023, 2024)
+**Sources: Hycom (Daily, 1/12° spatial resolution) vs Copernicus (Daily, 0.25° spatial resolution)**
+
+Comparison of Hycom (blue) and Copernicus (pink) surface current values extracted underneath of daily turtle positions: Sept & Oct (2023, 2024)
+<br>
+
+::: {.panel-tabset}
+
+### Zonal (u)
+
+![](docs/images/plot_histogram_cc_hycom_vs_copernicus_u_sept_oct_2023_2024.png){group="cc-prod-hists"}
+
+### Meridional (v)
+![](docs/images/plot_histogram_cc_hycom_vs_copernicus_v_sept_oct_2023_2024.png){group="cc-prod-hists"}
+:::
+
+<br>
+<br>
+
+### Cohort Histograms: u, v 
+
+**Source: Hycom (Daily, 1/12° spatial resolution)**
+
+Comparison of surface current values extracted underneath of daily turtle positions: Sept & Oct (2023, 2024)
 <br>
 
 ::: {.panel-tabset}
@@ -37,6 +59,8 @@ Comparison of surface current values extracted underneath of daily turtle positi
 <br>
 
 ### Individual Histograms: u, v
+
+**Source: Hycom (Daily, 1/12° spatial resolution)**
 
 Distribution of surface current values extracted underneath of Kanna, Mei, Fumi, & Anacapa vs rest of Cohort 2: Sept-Oct (2024)
 <br>
@@ -56,6 +80,8 @@ Distribution of surface current values extracted underneath of Kanna, Mei, Fumi,
 
 
 ### Individual Tracks: u, v
+
+**Source: Hycom (Daily, 1/12° spatial resolution)**
 
 Surface current values extracted underneath of Kanna, Mei, Fumi, & Anacapa positions: Sept-Oct (2024)
 <br>
@@ -77,6 +103,8 @@ Surface current values extracted underneath of Kanna, Mei, Fumi, & Anacapa posit
 
 
 ### Turtle-Hycom Tracks (Sept-Oct)
+
+**Source: Hycom (Daily, 1/12° spatial resolution)**
 
 Cohort 1 & 2 turtle movements with Hycom monthly means (u, v) for Sept-Oct (2023, 2024) <br>
 
@@ -119,13 +147,33 @@ Cohort 1 & 2 turtle movements with Hycom monthly means (u, v) for Sept-Oct (2023
 
 <br>
 
-### Historic tracks in ENP with Zonal Average \
+### Historic tracks in ENP with Zonal Average: Sept-Oct \
+
+**Source: Copernicus (Monthly, 0.25° >> 2° spatial resolution)**
 
 Individual turtle tracks from the historic data set (n = 2005 - 2008) that moved into the ENP. \
-Their annual Sept-Oct positions are shown in black. 
+Their annual Sept-Oct positions between 2005 - 2008 are shown in black. 
 
 <br>
 
-The 2014-2024 Sept-Oct climatology of zonal (u) flow is shown as the base layer. (Source: Copernicus GlobalTotal, processed to a 0.25 spatial grid).
+The 2014-2024 Sept-Oct climatology of zonal (u) flow is shown as the base layer. (Source: Copernicus GlobalTotal, processed to a 2° x 2° spatial grid).
 
 ![](docs/images/plot_fig1_u_indiv_cc_no_vectors_facets_w_captions.png)
+
+
+
+<br>
+
+
+### Historic tracks in ENP with Zonal Average: Sept Only \
+
+**Source: Copernicus (Monthly, 0.25° >> 2° spatial resolution)**
+
+Individual turtle tracks from the historic data set (n = 2005 - 2008) that moved into the ENP. \
+Their annual Sept positions between 2006 - 2007 are shown in green 
+
+<br>
+
+The 2006-2007 Sept climatology of zonal (u) flow is shown as the base layer. (Source: Copernicus GlobalTotal, processed to a 2° x 2° spatial grid).
+
+![](docs/images/draft_suppl_cc_currents_sept_2006_2007_facet.png)

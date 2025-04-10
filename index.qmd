@@ -9,9 +9,18 @@ engine: knitr
 
 ## Latest additions: 
 
+**8. `{r} "2025-04-10" |> as.Date() |> format("%b-%d-%Y")`:**
+
+- [x]  [Updated [Draft Figure 1:](draft_ms_figs_10Apr2025.qmd#fig-1.-enp-september-currents-and-historic-turtle-tracks-2006---2007) Currents, 18°C Isotherm, & Turtles (Sept 2006 & 2007)]{style="font-size: 90%;"}
+- [x]  [Added [Draft Figure 4:](draft_ms_figs_10Apr2025.qmd#fig-4.-comparison-of-sept-2014-2024-currents-isotherm) Currents, 18°C Isotherm, & 4 CC Turtles (Sept 2014 vs 2014)]{style="font-size: 90%;"}
+- [x]  [Updated [Individual Historic Turtle Tracks (2005 - 2008) for Sept Zonal Average (2006 & 2007 only)](cc_hycom_currents.qmd#historic-tracks-in-enp-with-zonal-average-sept-only) plots]{style="font-size: 90%;"}
+- [x]  [Added [Turtle-Hycom-Copernicus Histogram Comparisons](cc_hycom_currents.qmd#cohort-histograms-u-v) (1993 - 2024)]{style="font-size: 90%;"}
+
+<br>
+
 **7. `{r} "2025-04-03" |> as.Date() |> format("%b-%d-%Y")`:**
 
-- [x]  [Added Draft Figure 1: [Currents, 18C Isotherm, & Turtles Climatology (2014-2024)](draft_ms_figs_1Apr2025.qmd)]{style="font-size: 90%;"}
+- [x]  [Added Draft Figure 1: [Currents, 18°C Isotherm, & Turtles Climatology (2014-2024)](draft_ms_figs_1Apr2025.qmd)]{style="font-size: 90%;"}
 - [x]  [Added Draft Figure 2: [Avg Turtle Lat by Year Group](draft_ms_figs_1Apr2025.qmd#fig-2.-mean-turtle-latitude-by-year-group) from Briscoe et al. (2025) FMS paper]{style="font-size: 90%;"}
 - [x]  [Added Draft Figure 3: [4 Cohort 2 Turtles in CC & Chl-a (Sept/Oct 2024)](draft_ms_figs_1Apr2025.qmd#fig-3.-four-cohort-2-turtles-in-cc-chl-a-septoct-2024)]{style="font-size: 90%;"}
 <br>
@@ -49,7 +58,7 @@ engine: knitr
 
 **3. `{r} "2025-02-13" |> as.Date() |> format("%b-%d-%Y")`:**
 
-- [x]  [Added Turtle-Hycom [Histograms](cc_hycom_currents.qmd) (1993 - 2024)]{style="font-size: 90%;"}
+- [x]  [Added Turtle-Hycom [Histograms](cc_hycom_currents.qmd#cohort-histograms-u-v-1) (1993 - 2024)]{style="font-size: 90%;"}
 
 
 <br>

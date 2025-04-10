@@ -1,0 +1,76 @@
+---
+title: ""
+format: html
+engine: knitr
+filters:
+  # - include-files.lua
+  - lightbox
+  - quarto
+lightbox: 
+  match: auto
+  effect: zoom
+  desc-position: top
+---
+
+
+## Draft Manuscript Figures (in progress)
+
+### Fig 1. September currents and historic turtle tracks (2006 - 2007)
+
+Average zonal flow (u) is shown with current vectors for September 2006 & 2007.
+
+Full loggerhead tracks (2005-2008) are shown in gray. September positions between 2006-2007 are shown in green.
+See [here](cc_hycom_currents.qmd#historic-tracks-in-enp-with-zonal-average-sept-only) for a detailed figure of individual tracks.
+
+The average position of the 18°C SST isotherm (September 2006-2007) is shown in white/purple border.
+The offshore extent of the CC (as defined in Kahru & Jacox, 2018) is shown in blue.
+
+Product: Copernicus Global Total Ocean Currents (Monthly, 0.25°), processed to a 2° x 2° spatial grid.
+
+<br>
+
+![](docs/images/draft_suppl_cc_currents_sept_2006_2007.png)
+
+<br>
+
+
+
+<br>
+
+
+### Fig 2. Mean Turtle Latitude by Year Group 
+
+*Figure from: Briscoe et al. (2025)*
+
+![](docs/images/5A_Figure_turtle_yr_groups_ms_with_Q1_Q3_labels_Nov2024.jpg)
+
+<br>
+
+
+### Fig 3. Four Cohort 2 Turtles in CC & Chl-a (Sept/Oct 2024)
+
+![](docs/images/draft_ms_fig_3_cc_chla_enpac.png)
+
+<br>
+
+
+### Fig 4. Comparison of Sept 2014 & 2024 currents & isotherm
+
+Average zonal flow (u) is shown with current vectors for September (A) 2014 and (B) 2024.
+
+Full loggerhead tracks of 4 individuals from Cohort 2 (2024) are shown in gray (Fig 4B). September positions (2024) are shown in green.
+
+For both figures, the average position of the September 18°C SST isotherm is shown in white/purple border.
+The offshore extent of the CC (as defined in Kahru & Jacox, 2018) is shown in blue.
+
+Product: Copernicus Global Total Ocean Currents (Monthly, 0.25°), processed to a 2° x 2° spatial grid.
+
+
+![](docs/images/draft_ms_fig_4_cc_currents_sept_2014_vs_2024.png)
+
+<br>
+
+### *Possible Fig or Table:* Current Corrected Turtle Speeds
+*To be added using Copernicus GlobalTotal product instead of HYCOM*
+
+<br>
