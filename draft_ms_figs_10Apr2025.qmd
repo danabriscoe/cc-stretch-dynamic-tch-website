@@ -15,12 +15,12 @@ lightbox:
 
 ## Draft Manuscript Figures (in progress)
 
-### Fig 1. Sept/Oct currents and historic turtle tracks (2006 - 2007)
+### Fig 1. Sept/Oct currents and historic turtle tracks (2006 - 2007) \
 
-Average zonal flow (u) is shown with current vectors for September 2006 & 2007.
+Average zonal flow (u) is shown with current vectors for September and October 2006 & 2007.
 
 Full loggerhead tracks (2005-2008) are shown in gray. September positions between 2006-2007 are shown in green.
-See [here](cc_hycom_currents.qmd#historic-tracks-in-enp-with-zonal-average-sept-only) for a detailed figure of individual tracks.
+See [here](cc_hycom_currents.qmd#historic-tracks-in-enp-with-zonal-average-sept-and-oct) for a detailed figure of individual tracks.
 
 The average position of the 18°C SST isotherm (September 2006-2007) is shown in white/purple border.
 The offshore extent of the CC (as defined in Kahru & Jacox, 2018) is shown in blue.
@@ -57,7 +57,7 @@ Average zonal flow (u) is shown with current vectors for:
 - **October (2014 and 2024)**
 
 
-Full loggerhead tracks of 4 individuals from Cohort 2 (2024) are shown in gray (Fig 4B). \
+Full loggerhead tracks of 4 individuals from Cohort 2 (2024) are shown in gray (Fig 4B).
 Sept/Oct positions (2024) are shown in green.
 
 For both figures, the average position of the Sept/Oct 18°C SST isotherm is shown in white/purple border. \
