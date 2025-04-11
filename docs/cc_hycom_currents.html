@@ -262,8 +262,9 @@ ul.task-list li input[type="checkbox"] {
   <li><a href="#turtle-hycom-tracks-sept-oct" id="toc-turtle-hycom-tracks-sept-oct" class="nav-link" data-scroll-target="#turtle-hycom-tracks-sept-oct">Turtle-Hycom Tracks (Sept-Oct)</a></li>
   <li><a href="#historic-tracks-in-enp-with-zonal-average-sept-oct" id="toc-historic-tracks-in-enp-with-zonal-average-sept-oct" class="nav-link" data-scroll-target="#historic-tracks-in-enp-with-zonal-average-sept-oct">Historic tracks in ENP with Zonal Average: Sept-Oct<br>
   </a></li>
-  <li><a href="#historic-tracks-in-enp-with-zonal-average-sept-only" id="toc-historic-tracks-in-enp-with-zonal-average-sept-only" class="nav-link" data-scroll-target="#historic-tracks-in-enp-with-zonal-average-sept-only">Historic tracks in ENP with Zonal Average: Sept Only<br>
-  </a></li>
+  <li><a href="#historic-tracks-in-enp-with-zonal-average-sept-and-oct" id="toc-historic-tracks-in-enp-with-zonal-average-sept-and-oct" class="nav-link" data-scroll-target="#historic-tracks-in-enp-with-zonal-average-sept-and-oct">Historic tracks in ENP with Zonal Average: Sept and Oct</a></li>
+  <li><a href="#september" id="toc-september" class="nav-link" data-scroll-target="#september">September</a></li>
+  <li><a href="#october" id="toc-october" class="nav-link" data-scroll-target="#october">October</a></li>
   </ul></li>
   </ul>
 </nav>
@@ -410,15 +411,22 @@ Their annual Sept-Oct positions between 2005 - 2008 are shown in black.</p>
 <p><a href="docs/images/plot_fig1_u_indiv_cc_no_vectors_facets_w_captions.png" class="lightbox" data-gallery="quarto-lightbox-gallery-13"><img src="docs/images/plot_fig1_u_indiv_cc_no_vectors_facets_w_captions.png" class="img-fluid"></a></p>
 <p><br></p>
 </section>
-<section id="historic-tracks-in-enp-with-zonal-average-sept-only" class="level3">
-<h3 class="anchored" data-anchor-id="historic-tracks-in-enp-with-zonal-average-sept-only">Historic tracks in ENP with Zonal Average: Sept Only<br>
-</h3>
+<section id="historic-tracks-in-enp-with-zonal-average-sept-and-oct" class="level3">
+<h3 class="anchored" data-anchor-id="historic-tracks-in-enp-with-zonal-average-sept-and-oct">Historic tracks in ENP with Zonal Average: Sept and Oct</h3>
 <p><strong>Source: Copernicus (Monthly, 0.25° &gt;&gt; 2° spatial resolution)</strong></p>
 <p>Individual turtle tracks from the historic data set (n = 2005 - 2008) that moved into the ENP.<br>
-Their annual Sept positions between 2006 - 2007 are shown in green</p>
+Their annual Sept/ Oct positions between 2006 - 2007 are shown in green</p>
 <p><br></p>
-<p>The 2006-2007 Sept climatology of zonal (u) flow is shown as the base layer. (Source: Copernicus GlobalTotal, processed to a 2° x 2° spatial grid).</p>
-<p><a href="docs/images/draft_suppl_cc_currents_sept_2006_2007_facet.png" class="lightbox" data-gallery="quarto-lightbox-gallery-14"><img src="docs/images/draft_suppl_cc_currents_sept_2006_2007_facet.png" class="img-fluid"></a></p>
+<p>The 2006-2007 Sept/Oct climatology of zonal (u) flow is shown as the base layer. (Source: Copernicus GlobalTotal, processed to a 2° x 2° spatial grid).</p>
+</section>
+<section id="september" class="level3">
+<h3 class="anchored" data-anchor-id="september">September</h3>
+<p><a href="docs/images/draft_suppl_cc_currents_sept_2006_2007_facet.png" class="lightbox" data-gallery="cc-current-facets"><img src="docs/images/draft_suppl_cc_currents_sept_2006_2007_facet.png" class="img-fluid"></a></p>
+<p><br></p>
+</section>
+<section id="october" class="level3">
+<h3 class="anchored" data-anchor-id="october">October</h3>
+<p><a href="docs/images/draft_suppl_cc_currents_oct_2006_2007_facet.png" class="lightbox" data-gallery="cc-current-facets"><img src="docs/images/draft_suppl_cc_currents_oct_2006_2007_facet.png" class="img-fluid"></a></p>
 
 
 </section>
@@ -675,11 +683,6 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
         if (link.dataset.originalHref !== undefined) {
           link.href = link.dataset.originalHref;
         }
-          // target, if specified
-          link.setAttribute("target", "_blank");
-          if (link.getAttribute("rel") === null) {
-            link.setAttribute("rel", "noopener");
-          }
       }
     }
   function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {
@@ -1020,7 +1023,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     </div>
   </div>
 </footer>
-<script>var lightboxQuarto = GLightbox({"closeEffect":"zoom","loop":false,"descPosition":"top","selector":".lightbox","openEffect":"zoom"});
+<script>var lightboxQuarto = GLightbox({"selector":".lightbox","closeEffect":"zoom","openEffect":"zoom","loop":false,"descPosition":"top"});
 (function() {
   let previousOnload = window.onload;
   window.onload = () => {

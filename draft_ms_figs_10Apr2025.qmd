@@ -15,7 +15,7 @@ lightbox:
 
 ## Draft Manuscript Figures (in progress)
 
-### Fig 1. September currents and historic turtle tracks (2006 - 2007)
+### Fig 1. Sept/Oct currents and historic turtle tracks (2006 - 2007)
 
 Average zonal flow (u) is shown with current vectors for September 2006 & 2007.
 
@@ -29,7 +29,8 @@ Product: Copernicus Global Total Ocean Currents (Monthly, 0.25°), processed to 
 
 <br>
 
-![](docs/images/draft_suppl_cc_currents_sept_2006_2007.png)
+### (A) September & (B) October: 2006 & 2007
+![](docs/images/draft_suppl_cc_currents_sept_and_oct_2006_2007.png)
 
 <br>
 
@@ -47,26 +48,40 @@ Product: Copernicus Global Total Ocean Currents (Monthly, 0.25°), processed to 
 <br>
 
 
-### Fig 3. Four Cohort 2 Turtles in CC & Chl-a (Sept/Oct 2024)
+### Fig 3. Comparison of Sept/Oct 2014 & 2024 currents & isotherm
 
-![](docs/images/draft_ms_fig_3_cc_chla_enpac.png)
+Average zonal flow (u) is shown with current vectors for: 
 
-<br>
+- **September (2014 and 2024)**  
+
+- **October (2014 and 2024)**
 
 
-### Fig 4. Comparison of Sept 2014 & 2024 currents & isotherm
+Full loggerhead tracks of 4 individuals from Cohort 2 (2024) are shown in gray (Fig 4B). \
+Sept/Oct positions (2024) are shown in green.
 
-Average zonal flow (u) is shown with current vectors for September (A) 2014 and (B) 2024.
-
-Full loggerhead tracks of 4 individuals from Cohort 2 (2024) are shown in gray (Fig 4B). September positions (2024) are shown in green.
-
-For both figures, the average position of the September 18°C SST isotherm is shown in white/purple border.
+For both figures, the average position of the Sept/Oct 18°C SST isotherm is shown in white/purple border. \
 The offshore extent of the CC (as defined in Kahru & Jacox, 2018) is shown in blue.
 
 Product: Copernicus Global Total Ocean Currents (Monthly, 0.25°), processed to a 2° x 2° spatial grid.
 
 
-![](docs/images/draft_ms_fig_4_cc_currents_sept_2014_vs_2024.png)
+### September 
+
+![](docs/images/draft_ms_fig_4_cc_currents_sept_2014_vs_2024.png){group="fig4-currents"}
+
+<br>
+
+### October 
+
+![](docs/images/draft_ms_fig_4_cc_currents_oct_2014_vs_2024.png){group="fig4-currents"}
+
+<br>
+
+
+### Fig 4. Four Cohort 2 Turtles in CC & Chl-a (Sept/Oct 2024)
+
+![](docs/images/draft_ms_fig_3_cc_chla_enpac.png)
 
 <br>
 

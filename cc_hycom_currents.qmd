@@ -165,15 +165,25 @@ The 2014-2024 Sept-Oct climatology of zonal (u) flow is shown as the base layer.
 <br>
 
 
-### Historic tracks in ENP with Zonal Average: Sept Only \
+### Historic tracks in ENP with Zonal Average: Sept and Oct
 
 **Source: Copernicus (Monthly, 0.25° >> 2° spatial resolution)**
 
 Individual turtle tracks from the historic data set (n = 2005 - 2008) that moved into the ENP. \
-Their annual Sept positions between 2006 - 2007 are shown in green 
+Their annual Sept/ Oct positions between 2006 - 2007 are shown in green 
 
 <br>
 
-The 2006-2007 Sept climatology of zonal (u) flow is shown as the base layer. (Source: Copernicus GlobalTotal, processed to a 2° x 2° spatial grid).
+The 2006-2007 Sept/Oct climatology of zonal (u) flow is shown as the base layer. (Source: Copernicus GlobalTotal, processed to a 2° x 2° spatial grid).
 
-![](docs/images/draft_suppl_cc_currents_sept_2006_2007_facet.png)
+
+### September
+
+![](docs/images/draft_suppl_cc_currents_sept_2006_2007_facet.png){group="cc-current-facets"}
+
+<br>
+
+
+### October
+
+![](docs/images/draft_suppl_cc_currents_oct_2006_2007_facet.png){group="cc-current-facets"}
