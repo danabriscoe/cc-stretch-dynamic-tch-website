@@ -81,7 +81,7 @@ format:
     code-copy: true
     code-overflow: wrap
     # link-external-icon: true
-    link-external-newwindow: true
+    link-external-newwindow: false
     link-external-filter: '^(?:http:|https:)\/\/www\.quarto\.org\/custom'
     # css: styles.css
     fontsize: 22px
