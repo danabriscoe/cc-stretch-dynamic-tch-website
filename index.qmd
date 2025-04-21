@@ -9,14 +9,29 @@ engine: knitr
 
 ## Latest additions: 
 
-**8. `{r} "2025-04-11" |> as.Date() |> format("%b-%d-%Y")`:**
+**10. `{r} "2025-04-22" |> as.Date() |> format("%b-%d-%Y")`:**
+
+- [x]  [[Reorganized Draft Figure Order](draft_ms_figs_22Apr2025.qmd) from previous version]{style="font-size: 90%;"}
+
+- [x]  [Updated [Draft Figure 1:](draft_ms_figs_22Apr2025.qmd#fig-1.-map-of-north-pacific-loggerhead-tracks) Map of NP Turtle Tracks]{style="font-size: 90%;"}
+
+- [x]  [[Reordered Draft Figures 2-5:](draft_ms_figs_22Apr2025.qmd#fig-2.-septoct-currents-and-historic-turtle-tracks-2006---2007) Same figures, different order ]{style="font-size: 90%;"}
+
+- [x]  [Added [Draft Figure 6:](draft_ms_figs_22Apr2025.qmd#fig-6.-stretch-turtle-swimming-vs-current-speeds-4-indivs-2024) Weekly U, V current vs swimming speeds (4 CC Turtles in 2024)]{style="font-size: 90%;"}
+
+- [x]  [Added [Draft SFigure:](draft_ms_figs_22Apr2025.qmd#sfig-x.-stretch-turtle-swimming-vs-current-with-vectors-4-indivs-2024) Weekly U, V current vs swimming with vectors (4 CC Turtles in 2024)]{style="font-size: 90%;"}
+
+
+<br>
+
+
+**9. `{r} "2025-04-11" |> as.Date() |> format("%b-%d-%Y")`:**
 
 - [x]  [Updated [Draft Figure 1:](draft_ms_figs_10Apr2025.qmd#fig-1.-septoct-currents-and-historic-turtle-tracks-2006---2007) Currents, 18°C Isotherm, & Turtles (includes Sept & Oct 2006 & 2007)]{style="font-size: 90%;"}
 
 - [x]  [Updated [Draft Figure 3:](draft_ms_figs_10Apr2025.qmd#fig-3.-comparison-of-septoct-2014-2024-currents-isotherm) Currents, 18°C Isotherm, & 4 CC Turtles (includes Sept & Oct  2014 vs 2014)]{style="font-size: 90%;"}
 
 - [x]  [Updated [Individual Historic Turtle Tracks (2006 - 2007) plots](cc_hycom_currents.qmd#october) (includes Sept & Oct Zonal Average 2006 & 2007)]{style="font-size: 90%;"}
-
 
 
 <br>
