@@ -35,9 +35,11 @@ website:
     contents:
       - href: index.qmd
         text: Latest | Date
-      - section: draft_ms_figs_22Apr2025.qmd
+      - section: draft_ms_figs_14May2025.qmd
         text: Draft MS Figures
         contents:
+          - href: draft_ms_figs_14May2025.qmd
+            text: 14-May-2025
           - href: draft_ms_figs_22Apr2025.qmd
             text: 22-Apr-2025
           - href: draft_ms_figs_10Apr2025.qmd
