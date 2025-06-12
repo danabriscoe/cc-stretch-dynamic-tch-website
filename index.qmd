@@ -9,6 +9,16 @@ engine: knitr
 
 ## Latest additions: 
 
+**12. `{r} "2025-06-12" |> as.Date() |> format("%b-%d-%Y")`:**
+
+- [x]  [[Added Draft Figure 6](draft_ms_figs_12Jun2025.qmd#fig-6.-daily-turtle-sst-extractions-n4-2024-cohort): Turtle-SST, Sept-Oct 2024]{style="font-size: 90%;"}
+
+- [x]  [[Updated Draft Fig 7](draft_ms_figs_12Jun2025.qmd#fig-7.-chl-a-and-stretch-turtle-tracks-sept-dec-2024): Turtle-Chla, Sept-Dec 2024]{style="font-size: 90%;"}
+
+- [x]  [[Added Draft SFig 1: Current clim, Sept-Oct 2004-2024:](draft_ms_figs_12Jun2025.qmd#sfig-1.-septoct-currents-2004-2024) used to outline spatial extent of NPC in ENP]{style="font-size: 90%;"}
+
+<br>
+
 **11. `{r} "2025-05-14" |> as.Date() |> format("%b-%d-%Y")`:**
 
 - [x]  [Reorganized [Figure Order to Match Draft MS Outline](draft_ms_figs_14May2025.qmd)]{style="font-size: 90%;"}
