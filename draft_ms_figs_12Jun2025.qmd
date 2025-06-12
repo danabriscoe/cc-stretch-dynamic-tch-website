@@ -17,54 +17,40 @@ lightbox:
 
 ### Fig 1. Map of North Pacific loggerhead tracks
 
-[**Placeholder Figure Below**]{style="color:#7F0000"}
+\
 
-Figure to include historic tracks only (1997-2013) & schematic of North Pacific Current
+[*Placeholder Figure Below. To do: add schematic of North Pacific Current*]{style="color:#7F0000"}
+Release location for Cohort 2 (July 7th, 2024) shown as black circle.
 
-![](docs/images/placeholder_plot_cc_npac_study_area_map_only.png)
+<br>
+
+![](docs/images/fig1_study_area_map.png){ height=300px }
 
 <br>
 <br>
 
-### Fig 2. Sept/Oct currents and historic turtle tracks (2006 - 2007)
+### Fig 2. Sept/Oct 2006-2007 and 2023 currents and turtle tracks
 
-Average zonal flow (u) is shown with current vectors for (a) September and (b) October 2006 & 2007.
+Average zonal flow (u) is shown with current vectors for (A) September 2006-2007 and (B) October 2006-2007, (C) September 2023, and (D) October 2023. 
 
-Full loggerhead tracks (2005-2008) are shown in gray. September and October positions between 2006-2007 are shown in green.
-The average position of the 18°C SST isotherm (September/October 2006-2007) is shown in white/purple border.
+Full loggerhead tracks (A-B: 2005-2008; C-D: 2023) are shown in gray. Their September and October positions are shown in green.
+The average monthly position of the 18°C SST isotherm is shown in white/purple border.
 
 Product: Copernicus Global Total Ocean Currents (Monthly, 0.25°), processed to a 2° x 2° spatial grid.
 
-[**To Do: Remove CC boundary (blue) and revisit color scheme**]{style="color:#7F0000"}
+![](docs/images/draft_ms_fig_2_cc_currents_sept_oct_2006_2007_and_2023.png)
+
+
 
 <br>
 <br>
 
-![](docs/images/draft_suppl_cc_currents_sept_and_oct_2006_2007.png)
 
-<br>
-<br>
+### Fig 3. Sept/Oct 2024 currents and turtle tracks 
 
+Average zonal flow (u) is shown with current vectors for: (A) September 2024 and (B) October 2024.
 
-### Fig 3. Sept/Oct currents and STRETCH turtle tracks (2024)
-
-Average zonal flow (u) is shown with current vectors for: (a) September and (b) October 2024.
-
-Full loggerhead tracks of 4 individuals from Cohort 2 (2024) are shown in gray (Fig 4B).
-Sept/Oct positions (2024) are shown in green.
-For both figures, the average position of the Sept/Oct 18°C SST isotherm is shown in white/purple border. \
-
-Product: Copernicus Global Total Ocean Currents (Monthly, 0.25°), processed to a 2° x 2° spatial grid.
-
-[**To Do: Combine figs, remove CC boundary (blue) and revisit color scheme**]{style="color:#7F0000"}
-
-<br>
-
-::: {layout-ncol=2}
-![](docs/images/draft_ms_fig_4_cc_currents_sept_2014_vs_2024_copy_Sept_2024_only.png){group="fig4-currents"}
-
-![](docs/images/draft_ms_fig_4_cc_currents_oct_2014_vs_2024_copy_Oct_2024_only.png){group="fig4-currents"}
-:::
+![](docs/images/draft_ms_fig_3_cc_currents_sept_oct_2024.png)
 
 
 <br>
@@ -72,23 +58,26 @@ Product: Copernicus Global Total Ocean Currents (Monthly, 0.25°), processed to 
 
 ### Fig 4. Mean Turtle Latitude by Year Group 
 
-*Figure from: Briscoe et al. (2025)* -- [**Possibly omit and just reference in text - TBD**]{style="color:#7F0000"}
+*Figure from: Briscoe et al. (2025)* 
+<!-- -- [**Possibly omit and just reference in text - TBD**]{style="color:#7F0000"} -->
 
-![](docs/images/5A_Figure_turtle_yr_groups_ms_with_Q1_Q3_labels_Nov2024.jpg)
+![](docs/images/5A_Figure_turtle_yr_groups_ms_with_Q1_Q3_labels_Nov2024.jpg){ width=70% }
 
 <br>
 <br>
 
 
-### Fig 5. STRETCH turtle swimming vs current speeds (4 indivs 2024)
+### Fig 5. STRETCH turtle movement vs current speeds (4 indivs 2024)
 
-*Click on figures to zoom in* \
+*Click on figures to zoom in*. [**To do: change 'swimming' to 'movement'**]{style="color:#7F0000"} 
+
+\
 
 ::: {layout-ncol=2}
-![](docs/images/plot_weekly_u_swim_vs_current_speeds_4CC_Sept_Oct_2024.png){group="fig5-speeds"}
 
-![](docs/images/plot_weekly_v_swim_vs_current_speeds_4CC_Sept_Oct_2024.png){group="fig5-speeds"}
+![Weekly U](docs/images/plot_weekly_u_swim_vs_current_speeds_4CC_Sept_Oct_2024.png){group="fig5-speeds"}
 
+![Weekly V](docs/images/plot_weekly_v_swim_vs_current_speeds_4CC_Sept_Oct_2024.png){group="fig5-speeds"}
 :::
 
 <br>
@@ -96,7 +85,7 @@ Product: Copernicus Global Total Ocean Currents (Monthly, 0.25°), processed to 
 
 ### Fig 6. Daily Turtle-SST extractions (n=4, 2024 Cohort) 
 
-![](docs/images/fig6_4cc_sst_enpac.png)
+![](docs/images/fig6_4cc_sst_enpac.png){ height=600px }
 
 <br>
 <br>
@@ -111,23 +100,11 @@ Product: Copernicus Global Total Ocean Currents (Monthly, 0.25°), processed to 
 <br>
 <br>
 
-### Fig 8. Sept/Oct currents (2014)
+### Fig 8. Sept/Oct 2014 currents
 
 Average zonal flow (u) is shown with current vectors for: (a) September and (b) October 2014.
 
-For both figures, the average position of the Sept/Oct 18°C SST isotherm is shown in white/purple border. \
-
-Product: Copernicus Global Total Ocean Currents (Monthly, 0.25°), processed to a 2° x 2° spatial grid.
-
-[**To Do: Combine figs, remove CC boundary (blue) and revisit color scheme**]{style="color:#7F0000"}
-
-<br>
-
-::: {layout-ncol=2}
-![](docs/images/draft_ms_fig_4_cc_currents_sept_2014_only.png){group="fig4-currents"}
-
-![](docs/images/draft_ms_fig_4_cc_currents_oct_2014_only.png){group="fig4-currents"}
-:::
+![](docs/images/draft_ms_fig_8_cc_currents_sept_oct_2014.png)  
 
 
 <br>
@@ -137,6 +114,6 @@ Product: Copernicus Global Total Ocean Currents (Monthly, 0.25°), processed to 
 
 ### SFig 1. Sept/Oct currents (2004-2024)
 
-![](docs/images/SFig_vectors_with_contour_0m_depth_2deg_combined_Sep_Oct_2004_2024.png)    
+![](docs/images/SFig_vectors_with_contour_0m_depth_2deg_combined_Sep_Oct_2004_2024.png){ height=600px }    
 <br>
 <br>
