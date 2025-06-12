@@ -1,5 +1,29 @@
 [
   {
+    "objectID": "draft_ms_figs_10Apr2025.html",
+    "href": "draft_ms_figs_10Apr2025.html",
+    "title": "Project STRETCH",
+    "section": "",
+    "text": "Average zonal flow (u) is shown with current vectors for September and October 2006 & 2007.\nFull loggerhead tracks (2005-2008) are shown in gray. September positions between 2006-2007 are shown in green. See here for a detailed figure of individual tracks.\nThe average position of the 18°C SST isotherm (September 2006-2007) is shown in white/purple border. The offshore extent of the CC (as defined in Kahru & Jacox, 2018) is shown in blue.\nProduct: Copernicus Global Total Ocean Currents (Monthly, 0.25°), processed to a 2° x 2° spatial grid.\n\n\n\n\n\n\n\n\n\n\nFigure from: Briscoe et al. (2025)\n\n\n\n\n\nAverage zonal flow (u) is shown with current vectors for:\n\nSeptember (2014 and 2024)\nOctober (2014 and 2024)\n\nFull loggerhead tracks of 4 individuals from Cohort 2 (2024) are shown in gray (Fig 4B). Sept/Oct positions (2024) are shown in green.\nFor both figures, the average position of the Sept/Oct 18°C SST isotherm is shown in white/purple border.\nThe offshore extent of the CC (as defined in Kahru & Jacox, 2018) is shown in blue.\nProduct: Copernicus Global Total Ocean Currents (Monthly, 0.25°), processed to a 2° x 2° spatial grid.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nTo be added using Copernicus GlobalTotal product instead of HYCOM",
+    "crumbs": [
+      "Dynamic Thermal Corridor Exploratory Analyses",
+      "Draft MS Figures",
+      "10-Apr-2025"
+    ]
+  },
+  {
+    "objectID": "draft_ms_figs_10Apr2025.html#draft-manuscript-figures-in-progress",
+    "href": "draft_ms_figs_10Apr2025.html#draft-manuscript-figures-in-progress",
+    "title": "Project STRETCH",
+    "section": "",
+    "text": "Average zonal flow (u) is shown with current vectors for September and October 2006 & 2007.\nFull loggerhead tracks (2005-2008) are shown in gray. September positions between 2006-2007 are shown in green. See here for a detailed figure of individual tracks.\nThe average position of the 18°C SST isotherm (September 2006-2007) is shown in white/purple border. The offshore extent of the CC (as defined in Kahru & Jacox, 2018) is shown in blue.\nProduct: Copernicus Global Total Ocean Currents (Monthly, 0.25°), processed to a 2° x 2° spatial grid.\n\n\n\n\n\n\n\n\n\n\nFigure from: Briscoe et al. (2025)\n\n\n\n\n\nAverage zonal flow (u) is shown with current vectors for:\n\nSeptember (2014 and 2024)\nOctober (2014 and 2024)\n\nFull loggerhead tracks of 4 individuals from Cohort 2 (2024) are shown in gray (Fig 4B). Sept/Oct positions (2024) are shown in green.\nFor both figures, the average position of the Sept/Oct 18°C SST isotherm is shown in white/purple border.\nThe offshore extent of the CC (as defined in Kahru & Jacox, 2018) is shown in blue.\nProduct: Copernicus Global Total Ocean Currents (Monthly, 0.25°), processed to a 2° x 2° spatial grid.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nTo be added using Copernicus GlobalTotal product instead of HYCOM",
+    "crumbs": [
+      "Dynamic Thermal Corridor Exploratory Analyses",
+      "Draft MS Figures",
+      "10-Apr-2025"
+    ]
+  },
+  {
     "objectID": "draft_ms_figs_1Apr2025.html",
     "href": "draft_ms_figs_1Apr2025.html",
     "title": "Project STRETCH",
@@ -12,135 +36,37 @@
     ]
   },
   {
-    "objectID": "tmp_2_date.html",
-    "href": "tmp_2_date.html",
+    "objectID": "draft_ms_figs_1Apr2025.html#draft-manuscript-figures-in-progress",
+    "href": "draft_ms_figs_1Apr2025.html#draft-manuscript-figures-in-progress",
     "title": "Project STRETCH",
     "section": "",
-    "text": "Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see https://quarto.org."
-  },
-  {
-    "objectID": "tmp_2_date.html#quarto",
-    "href": "tmp_2_date.html#quarto",
-    "title": "Project STRETCH",
-    "section": "",
-    "text": "Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see https://quarto.org."
-  },
-  {
-    "objectID": "tmp_2_date.html#running-code",
-    "href": "tmp_2_date.html#running-code",
-    "title": "Project STRETCH",
-    "section": "Running Code",
-    "text": "Running Code\nWhen you click the Render button a document will be generated that includes both content and the output of embedded code. You can embed code like this:\n\n2 + 6\n\n[1] 8\n\n\nYou can add options to executable code like this\n\n\n[1] 4\n\n\nThe echo: false option disables the printing of code (only output is displayed)."
-  },
-  {
-    "objectID": "tmp_page.html",
-    "href": "tmp_page.html",
-    "title": "Sample Page",
-    "section": "",
-    "text": "This is a temporary page\n\n\nWith a permanent picture ❤️\n\n\n\n\n\n\n Back to top"
-  },
-  {
-    "objectID": "hycom_analyses.html",
-    "href": "hycom_analyses.html",
-    "title": "Project STRETCH",
-    "section": "",
-    "text": "HYCOM Hovm\n Surface currents (u, v) plotted by latitude, averaged across 142°W to 130°W longitude: Sept - Oct (2023, 2024) \nClick images to zoom in \n\nZonal (u)Meridional (v)\n\n\n\n\nA): Lat plotted on y axis\n\n\n\n\n\nB) Alternate view: Lat plotted on x axis\n\n\n\n\n\n\n\nA): Lat plotted on y axis\n\n\n\n\n\nB) Alternate view: Lat plotted on x axis\n\n\n\n\n\n\n\n\n\n\n\n Back to top",
+    "text": "See here for other spatial resolution examples\n\n\n\n\n\n\n\nFigure from: Briscoe et al. (2025)\n\n\n\n\n\n\n\n\n\n\nCompare warming events and show possible corridor/presence of turtles within CC\n\n\n\n\nTo be added using Copernicus GlobalTotal product instead of HYCOM",
     "crumbs": [
       "Dynamic Thermal Corridor Exploratory Analyses",
-      "Exploratory Analyses",
-      "Env Analyses",
-      "Hovmoller plots"
+      "Draft MS Figures",
+      "03-Apr-2025"
     ]
   },
   {
-    "objectID": "hycom_analyses.html#hycom-hovm-with-turtles",
-    "href": "hycom_analyses.html#hycom-hovm-with-turtles",
+    "objectID": "draft_ms_figs_14May2025.html",
+    "href": "draft_ms_figs_14May2025.html",
     "title": "Project STRETCH",
-    "section": "HYCOM Hovm with Turtles",
-    "text": "HYCOM Hovm with Turtles\nMonthly mean Hycom (u, v) and turtle latitudes between 142°W to 130°W longitude.\nPurple circles: individuals that eventually moved into the CCS  Green circles: all other individual turtle locations \nClick images to zoom in \n\nZonal (u)Meridional (v)\n\n\n\n\nLat plotted on y axis\n\n\n\n\n\n\n\nLat plotted on y axis",
+    "section": "",
+    "text": "Placeholder Figure Below\nFigure to include historic tracks only (1997-2013) & schematic of North Pacific Current\n\n \n\n\n\nAverage zonal flow (u) is shown with current vectors for (a) September and (b) October 2006 & 2007.\nFull loggerhead tracks (2005-2008) are shown in gray. September and October positions between 2006-2007 are shown in green. The average position of the 18°C SST isotherm (September/October 2006-2007) is shown in white/purple border.\nProduct: Copernicus Global Total Ocean Currents (Monthly, 0.25°), processed to a 2° x 2° spatial grid.\nTo Do: Remove CC boundary (blue) and revisit color scheme\n \n\n \n\n\n\nAverage zonal flow (u) is shown with current vectors for: (a) September and (b) October 2024.\nFull loggerhead tracks of 4 individuals from Cohort 2 (2024) are shown in gray (Fig 4B). Sept/Oct positions (2024) are shown in green. For both figures, the average position of the Sept/Oct 18°C SST isotherm is shown in white/purple border.\n\nProduct: Copernicus Global Total Ocean Currents (Monthly, 0.25°), processed to a 2° x 2° spatial grid.\nTo Do: Combine figs, remove CC boundary (blue) and revisit color scheme\n\n\n\n\n\n\n\n\n\n\n\n \n\n\n\nFigure from: Briscoe et al. (2025) – Possibly omit and just reference in text - TBD\n\n \n\n\n\nClick on figures to zoom in\n\n\n\n\n\n\n\n\n\n\n\n \n\n\n\nPlaceholder: Add Figure\n \n\n\n\n\nTo Do: Remove CC boundary (blue) and potentially add historic tracks to figure\n\n \n\n\n\nAverage zonal flow (u) is shown with current vectors for: (a) September and (b) October 2014.\nFor both figures, the average position of the Sept/Oct 18°C SST isotherm is shown in white/purple border.\n\nProduct: Copernicus Global Total Ocean Currents (Monthly, 0.25°), processed to a 2° x 2° spatial grid.\nTo Do: Combine figs, remove CC boundary (blue) and revisit color scheme",
     "crumbs": [
       "Dynamic Thermal Corridor Exploratory Analyses",
-      "Exploratory Analyses",
-      "Env Analyses"
+      "Draft MS Figures"
     ]
   },
   {
-    "objectID": "hycom_analyses.html#sst-hovm-with-turtles",
-    "href": "hycom_analyses.html#sst-hovm-with-turtles",
-    "title": "Project STRETCH",
-    "section": "SST Hovm with Turtles",
-    "text": "SST Hovm with Turtles\nMonthly mean SST and turtle latitudes between 142°W to 130°W longitude.\nPurple circles: individuals that eventually moved into the CCS  Green circles: all other individual turtle locations  White circle: Average latitude of the 18°C SST isotherm\nClick images to zoom in",
-    "crumbs": [
-      "Dynamic Thermal Corridor Exploratory Analyses",
-      "Exploratory Analyses",
-      "Env Analyses"
-    ]
-  },
-  {
-    "objectID": "index.html#latest-additions",
-    "href": "index.html#latest-additions",
-    "title": "Project STRETCH",
-    "section": "Latest additions:",
-    "text": "Latest additions:\n12. Jun-12-2025:\n\nAdded Draft Figure 6: Turtle-SST, Sept-Oct 2024\nUpdated Draft Fig 7: Turtle-Chla, Sept-Dec 2024\nAdded Draft SFig 1: Current clim, Sept-Oct 2004-2024: used to outline spatial extent of NPC in ENP\n\n\n11. May-14-2025:\n\nReorganized Figure Order to Match Draft MS Outline\nAdded Draft Fig 8: Sept-Oct 2014: left out of previous version\n\n\n10. Apr-22-2025:\n\nReorganized Draft Figure Order from previous version\nUpdated Draft Figure 1: Map of NP Turtle Tracks\nReordered Draft Figures 2-5: Same figures, different order\nAdded Draft Figure 6: Weekly U, V current vs swimming speeds (4 CC Turtles in 2024)\nAdded Draft SFigure: Weekly U, V current vs swimming with vectors (4 CC Turtles in 2024)\n\n\n9. Apr-11-2025:\n\nUpdated Draft Figure 1: Currents, 18°C Isotherm, & Turtles (includes Sept & Oct 2006 & 2007)\nUpdated Draft Figure 3: Currents, 18°C Isotherm, & 4 CC Turtles (includes Sept & Oct 2014 vs 2014)\nUpdated Individual Historic Turtle Tracks (2006 - 2007) plots (includes Sept & Oct Zonal Average 2006 & 2007)\n\n\n8. Apr-10-2025:\n\nUpdated Draft Figure 1: Currents, 18°C Isotherm, & Turtles (Sept 2006 & 2007)\nAdded Draft Figure 3: Currents, 18°C Isotherm, & 4 CC Turtles (Sept 2014 vs 2014)\nUpdated Individual Historic Turtle Tracks (2006 - 2007) for Sept Zonal Average (2006 & 2007 only) plots\nAdded Turtle-Hycom-Copernicus Histogram Comparisons (1993 - 2024)\n\n\n7. Apr-03-2025:\n\nAdded Draft Figure 1: Currents, 18°C Isotherm, & Turtles Climatology (2014-2024)\nAdded Draft Figure 2: Avg Turtle Lat by Year Group from Briscoe et al. (2025) FMS paper\nAdded Draft Figure 4: 4 Cohort 2 Turtles in CC & Chl-a (Sept/Oct 2024) \nAdded Sept/Oct Currents Climatologies (2014 - 2024): 1°, 2°, 5° spatial grids plots\nAdded Monthly Sept/Oct SST + 18°C Isotherm (2014 - 2024)) plots\nAdded Individual Historic Turtle Tracks (2005 - 2008) & Sept/Oct Zonal Clim (2014 - 2024) plots\n\n\n6. Mar-31-2025:\n\nAdded Turtle Tracks in ENP by Group: Historic, STRETCH Cohorts 1 & 2\n\n\n5. Feb-27-2025:\n\nAdded Monthly Mean Turtle Latitude plots\nAdded Map of CCS vs CCLME spatial boundaries\nAdded Turtle Movements into CCS plots\nAdded Turtle-Hycom Hovmoller plots\nAdded Turtle-SST Hovmoller plots\nAdded Map of Monthly Turtle-Hycom Sept-Oct plots\n\n\n4. Feb-20-2025:\n\nAdded Hycom Hovmoller plots\n\n\n3. Feb-13-2025:\n\nAdded Turtle-Hycom Histograms (1993 - 2024)\n\n\n2. Feb-06-2025:\n\nAdded Hycom vs Oscar Product Comparisons (1993 - 2024)\n\n\n1. Jan-25-2025:\n\nAdded SST & Salinity Climatologies (1993 - 2024)",
-    "crumbs": [
-      "Dynamic Thermal Corridor Exploratory Analyses",
-      "Latest | Date"
-    ]
-  },
-  {
-    "objectID": "tmp_1_date.html",
-    "href": "tmp_1_date.html",
+    "objectID": "draft_ms_figs_14May2025.html#draft-manuscript-figures-in-progress",
+    "href": "draft_ms_figs_14May2025.html#draft-manuscript-figures-in-progress",
     "title": "Project STRETCH",
     "section": "",
-    "text": "Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see https://quarto.org."
-  },
-  {
-    "objectID": "tmp_1_date.html#quarto",
-    "href": "tmp_1_date.html#quarto",
-    "title": "Project STRETCH",
-    "section": "",
-    "text": "Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see https://quarto.org."
-  },
-  {
-    "objectID": "tmp_1_date.html#running-code",
-    "href": "tmp_1_date.html#running-code",
-    "title": "Project STRETCH",
-    "section": "Running Code",
-    "text": "Running Code\nWhen you click the Render button a document will be generated that includes both content and the output of embedded code. You can embed code like this:\n\n1 + 1\n\n[1] 2\n\n\nYou can add options to executable code like this\n\n\n[1] 4\n\n\nThe echo: false option disables the printing of code (only output is displayed).\nThis is a playground for Quarto."
-  },
-  {
-    "objectID": "cc_analyses.html",
-    "href": "cc_analyses.html",
-    "title": "Project STRETCH",
-    "section": "",
-    "text": "Average Lats by Date\n\n\n\n\nCCS vs CCLME extent\nSpatial comparison of the California Current System (CCS) as defined by Kahru et al. 2018 vs California Current Large Marine Ecosystem (CCLME) boundary (see ref).\nA coarse resolution buffer was applied from the North American Coast to delineate the CCS Transition (300 km) and Offshore (1000 km) boundaries.\n \n\n\nTurtle-CCS Movements\nMaps showing individual movement into the CCS region by group: Historic, Cohort 1, and Cohort 2 \nThe portion of the track during Sept-Oct is shown in red \n\nHistoricCohort 1 (2023)Cohort 2 (2024)\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nTurtle Tracks in ENP by Group\nA. All tracks (Historic + STRETCH), B. Historic (2006-2008), C. STRETCH Cohort 1 (2023), D. STRETCH Cohort 2 (2024)\n\n\n\n\nCohort 2 Tracks in ENP by Individual\nIndividual plots for each turtle in Cohort 2 that moved east of the release location (n = 18) during Sept-Oct 2024.\n\nIndividual movements for a given turtle are shown in green. All other tracks shown in gray.\n\n \n \n\n\n\n\n Back to top",
+    "text": "Placeholder Figure Below\nFigure to include historic tracks only (1997-2013) & schematic of North Pacific Current\n\n \n\n\n\nAverage zonal flow (u) is shown with current vectors for (a) September and (b) October 2006 & 2007.\nFull loggerhead tracks (2005-2008) are shown in gray. September and October positions between 2006-2007 are shown in green. The average position of the 18°C SST isotherm (September/October 2006-2007) is shown in white/purple border.\nProduct: Copernicus Global Total Ocean Currents (Monthly, 0.25°), processed to a 2° x 2° spatial grid.\nTo Do: Remove CC boundary (blue) and revisit color scheme\n \n\n \n\n\n\nAverage zonal flow (u) is shown with current vectors for: (a) September and (b) October 2024.\nFull loggerhead tracks of 4 individuals from Cohort 2 (2024) are shown in gray (Fig 4B). Sept/Oct positions (2024) are shown in green. For both figures, the average position of the Sept/Oct 18°C SST isotherm is shown in white/purple border.\n\nProduct: Copernicus Global Total Ocean Currents (Monthly, 0.25°), processed to a 2° x 2° spatial grid.\nTo Do: Combine figs, remove CC boundary (blue) and revisit color scheme\n\n\n\n\n\n\n\n\n\n\n\n \n\n\n\nFigure from: Briscoe et al. (2025) – Possibly omit and just reference in text - TBD\n\n \n\n\n\nClick on figures to zoom in\n\n\n\n\n\n\n\n\n\n\n\n \n\n\n\nPlaceholder: Add Figure\n \n\n\n\n\nTo Do: Remove CC boundary (blue) and potentially add historic tracks to figure\n\n \n\n\n\nAverage zonal flow (u) is shown with current vectors for: (a) September and (b) October 2014.\nFor both figures, the average position of the Sept/Oct 18°C SST isotherm is shown in white/purple border.\n\nProduct: Copernicus Global Total Ocean Currents (Monthly, 0.25°), processed to a 2° x 2° spatial grid.\nTo Do: Combine figs, remove CC boundary (blue) and revisit color scheme",
     "crumbs": [
       "Dynamic Thermal Corridor Exploratory Analyses",
-      "Exploratory Analyses"
-    ]
-  },
-  {
-    "objectID": "env_clims.html",
-    "href": "env_clims.html",
-    "title": "Project STRETCH",
-    "section": "",
-    "text": "Click images to zoom in",
-    "crumbs": [
-      "Dynamic Thermal Corridor Exploratory Analyses",
-      "Exploratory Analyses",
-      "Env Analyses"
-    ]
-  },
-  {
-    "objectID": "env_clims.html#climatologies",
-    "href": "env_clims.html#climatologies",
-    "title": "Project STRETCH",
-    "section": "",
-    "text": "Click images to zoom in",
-    "crumbs": [
-      "Dynamic Thermal Corridor Exploratory Analyses",
-      "Exploratory Analyses",
-      "Env Analyses"
+      "Draft MS Figures"
     ]
   },
   {
@@ -170,62 +96,11 @@
     ]
   },
   {
-    "objectID": "cc_hycom_currents.html",
-    "href": "cc_hycom_currents.html",
+    "objectID": "env_clims.html",
+    "href": "env_clims.html",
     "title": "Project STRETCH",
     "section": "",
-    "text": "Sources: Hycom (Daily, 1/12° spatial resolution) vs Copernicus (Daily, 0.25° spatial resolution)\nComparison of Hycom (blue) and Copernicus (pink) surface current values extracted underneath of daily turtle positions: Sept & Oct (2023, 2024) \n\nZonal (u)Meridional (v)\n\n\n\n\n\n\n\n\n\n \n\n\n\nSource: Hycom (Daily, 1/12° spatial resolution)\nComparison of surface current values extracted underneath of daily turtle positions: Sept & Oct (2023, 2024) \n\nZonal (u)Meridional (v)\n\n\n\n\n\n\n\n\n\n\n\n\n\nSource: Hycom (Daily, 1/12° spatial resolution)\nDistribution of surface current values extracted underneath of Kanna, Mei, Fumi, & Anacapa vs rest of Cohort 2: Sept-Oct (2024) \n\nZonal (u)Meridional (v)\n\n\n\n\n\n\n\n\n\n\n\n\n\nSource: Hycom (Daily, 1/12° spatial resolution)\nSurface current values extracted underneath of Kanna, Mei, Fumi, & Anacapa positions: Sept-Oct (2024) \n\nZonal (u)Meridional (v)\n\n\n\n\n\n\n\n\n\n\n\n\n\nSource: Hycom (Daily, 1/12° spatial resolution)\nCohort 1 & 2 turtle movements with Hycom monthly means (u, v) for Sept-Oct (2023, 2024) \n\nZonal (u) - SeptOct\n\n\n\n\nSeptember 2023 & 2024\n\n\n\n\n\n\n\nOctober 2023 & 2024\n\n\n\n\n\n\n\n\n\nMeridional (v) - SeptOct\n\n\n\n\nSeptember 2023 & 2024\n\n\n\n\n\n\n\nOctober 2023 & 2024\n\n\n\n\n\n\n\n\n\n\nSource: Copernicus (Monthly, 0.25° &gt;&gt; 2° spatial resolution)\nIndividual turtle tracks from the historic data set (n = 2005 - 2008) that moved into the ENP.\nTheir annual Sept-Oct positions between 2005 - 2008 are shown in black.\n\nThe 2014-2024 Sept-Oct climatology of zonal (u) flow is shown as the base layer. (Source: Copernicus GlobalTotal, processed to a 2° x 2° spatial grid).\n\n\n\n\n\nSource: Copernicus (Monthly, 0.25° &gt;&gt; 2° spatial resolution)\nIndividual turtle tracks from the historic data set (n = 2005 - 2008) that moved into the ENP.\nTheir annual Sept/ Oct positions between 2006 - 2007 are shown in green\n\nThe 2006-2007 Sept/Oct climatology of zonal (u) flow is shown as the base layer. (Source: Copernicus GlobalTotal, processed to a 2° x 2° spatial grid).",
-    "crumbs": [
-      "Dynamic Thermal Corridor Exploratory Analyses",
-      "Exploratory Analyses",
-      "Turtle-Env Analyses"
-    ]
-  },
-  {
-    "objectID": "env_clims.html#sst",
-    "href": "env_clims.html#sst",
-    "title": "Project STRETCH",
-    "section": "SST",
-    "text": "SST\n\nSeptember SSTs (2014 - 2024)\nOctober SSTs (2014 - 2024)\n\n\n\nThe 18°C SST isotherm shown as dark gray contour line.\nThe 45N, 140W lat/lon grid lines shown in gray.\n\nSource: NOAA Coral Reef Watch Monthly SST (5km spatial resolution)\n\n\n\nThe 18°C SST isotherm shown as dark gray contour line.\nThe 45N, 140W lat/lon grid lines shown in gray.\n\nSource: NOAA Coral Reef Watch Monthly SST (5km spatial resolution)",
-    "crumbs": [
-      "Dynamic Thermal Corridor Exploratory Analyses",
-      "Exploratory Analyses",
-      "Env Analyses",
-      "Climatologies"
-    ]
-  },
-  {
-    "objectID": "env_clims.html#salinity",
-    "href": "env_clims.html#salinity",
-    "title": "Project STRETCH",
-    "section": "Salinity",
-    "text": "Salinity\n&lt;br",
-    "crumbs": [
-      "Dynamic Thermal Corridor Exploratory Analyses",
-      "Exploratory Analyses",
-      "Env Analyses",
-      "Climatologies"
-    ]
-  },
-  {
-    "objectID": "env_clims.html#sst-salinity-1993---2024",
-    "href": "env_clims.html#sst-salinity-1993---2024",
-    "title": "Project STRETCH",
-    "section": "SST, Salinity (1993 - 2024)",
-    "text": "SST, Salinity (1993 - 2024)\n\nSST by Month (1993 - 2024)\nSalinity by Month (1993 - 2024)\n\n\nSource: GLORYS Monthly SST, Copernicus (1/12° spatial resolution)\n\n\n\n\n\n\nJan\n\n\n\nFeb\n\n\n\nMar\n\n\n\n\n\nApr\n\n\n\nMay\n\n\n\nJun\n\n\n\n\n\nJul\n\n\n\nAug\n\n\n\nSep\n\n\n\n\n\nOct\n\n\n\nNov\n\n\n\nDec\n \n\n\n\n\n\n\n\n\n\n\nSource: GLORYS Monthly Salinity, Copernicus (1/12° spatial resolution)\n\n\n\n\n\n\nJan\n\n\n\nFeb\n\n\n\nMar\n\n\n\n\n\nApr\n\n\n\nMay\n\n\n\nJun\n\n\n\n\n\nJul\n\n\n\nAug\n\n\n\nSep\n\n\n\n\n\nOct\n\n\n\nNov\n\n\n\nDec",
-    "crumbs": [
-      "Dynamic Thermal Corridor Exploratory Analyses",
-      "Exploratory Analyses",
-      "Env Analyses",
-      "Climatologies"
-    ]
-  },
-  {
-    "objectID": "env_clims.html#sst-salinity-all-months-1993---2024",
-    "href": "env_clims.html#sst-salinity-all-months-1993---2024",
-    "title": "Project STRETCH",
-    "section": "SST, Salinity: All Months (1993 - 2024)",
-    "text": "SST, Salinity: All Months (1993 - 2024)\n\nSST by Month (1993 - 2024)\nSalinity by Month (1993 - 2024)\n\n\nSource: GLORYS Monthly SST, Copernicus (1/12° spatial resolution)\n\n\n\nJan\n\n\n\nFeb\n\n\n\nMar\n\n\n\n\n\nApr\n\n\n\nMay\n\n\n\nJun\n\n\n\n\n\nJul\n\n\n\nAug\n\n\n\nSep\n\n\n\n\n\nOct\n\n\n\nNov\n\n\n\nDec\n \n\n\n\n\n\n\n\n\n\n\nSource: GLORYS Monthly Salinity, Copernicus (1/12° spatial resolution)\n\n\n\nJan\n\n\n\nFeb\n\n\n\nMar\n\n\n\n\n\nApr\n\n\n\nMay\n\n\n\nJun\n\n\n\n\n\nJul\n\n\n\nAug\n\n\n\nSep\n\n\n\n\n\nOct\n\n\n\nNov\n\n\n\nDec",
+    "text": "Click images to zoom in",
     "crumbs": [
       "Dynamic Thermal Corridor Exploratory Analyses",
       "Exploratory Analyses",
@@ -233,50 +108,11 @@
     ]
   },
   {
-    "objectID": "env_clims.html#currents-sept-oct-2014---2024",
-    "href": "env_clims.html#currents-sept-oct-2014---2024",
+    "objectID": "env_clims.html#climatologies",
+    "href": "env_clims.html#climatologies",
     "title": "Project STRETCH",
-    "section": "Currents: Sept & Oct (2014 - 2024)",
-    "text": "Currents: Sept & Oct (2014 - 2024)",
-    "crumbs": [
-      "Dynamic Thermal Corridor Exploratory Analyses",
-      "Exploratory Analyses",
-      "Env Analyses",
-      "Climatologies"
-    ]
-  },
-  {
-    "objectID": "env_clims.html#sst-sept-oct-2014---2024",
-    "href": "env_clims.html#sst-sept-oct-2014---2024",
-    "title": "Project STRETCH",
-    "section": "SST: Sept & Oct (2014 - 2024)",
-    "text": "SST: Sept & Oct (2014 - 2024)\n\nSeptember SSTs (2014 - 2024)\nOctober SSTs (2014 - 2024)\n\n\n\nThe 18°C SST isotherm shown as dark gray contour line.\nThe 45N, 140W lat/lon grid lines shown in gray.\n\nSource: NOAA Coral Reef Watch Monthly SST (5km spatial resolution)\n\n\n\nThe 18°C SST isotherm shown as dark gray contour line.\nThe 45N, 140W lat/lon grid lines shown in gray.\n\nSource: NOAA Coral Reef Watch Monthly SST (5km spatial resolution)",
-    "crumbs": [
-      "Dynamic Thermal Corridor Exploratory Analyses",
-      "Exploratory Analyses",
-      "Env Analyses",
-      "Climatologies"
-    ]
-  },
-  {
-    "objectID": "env_clims.html#currents-sept---oct-2014---2024",
-    "href": "env_clims.html#currents-sept---oct-2014---2024",
-    "title": "Project STRETCH",
-    "section": "Currents: Sept - Oct (2014 - 2024)",
-    "text": "Currents: Sept - Oct (2014 - 2024)",
-    "crumbs": [
-      "Dynamic Thermal Corridor Exploratory Analyses",
-      "Exploratory Analyses",
-      "Env Analyses",
-      "Climatologies"
-    ]
-  },
-  {
-    "objectID": "env_clims.html#sst-sept---oct-2014---2024",
-    "href": "env_clims.html#sst-sept---oct-2014---2024",
-    "title": "Project STRETCH",
-    "section": "SST: Sept - Oct (2014 - 2024)",
-    "text": "SST: Sept - Oct (2014 - 2024)\n\nSeptember SSTs (2014 - 2024)\nOctober SSTs (2014 - 2024)\n\n\n\nThe 18°C SST isotherm shown as dark gray contour line.\nThe 45N, 140W lat/lon grid lines shown in gray.\n\nSource: NOAA Coral Reef Watch Monthly SST (5km spatial resolution)\n\n\n\nThe 18°C SST isotherm shown as dark gray contour line.\nThe 45N, 140W lat/lon grid lines shown in gray.\n\nSource: NOAA Coral Reef Watch Monthly SST (5km spatial resolution)",
+    "section": "",
+    "text": "Click images to zoom in",
     "crumbs": [
       "Dynamic Thermal Corridor Exploratory Analyses",
       "Exploratory Analyses",
@@ -308,6 +144,76 @@
     ]
   },
   {
+    "objectID": "env_clims.html#sst-sept---oct-2014---2024",
+    "href": "env_clims.html#sst-sept---oct-2014---2024",
+    "title": "Project STRETCH",
+    "section": "SST: Sept - Oct (2014 - 2024)",
+    "text": "SST: Sept - Oct (2014 - 2024)\n\nSeptember SSTs (2014 - 2024)\nOctober SSTs (2014 - 2024)\n\n\n\nThe 18°C SST isotherm shown as dark gray contour line.\nThe 45N, 140W lat/lon grid lines shown in gray.\n\nSource: NOAA Coral Reef Watch Monthly SST (5km spatial resolution)\n\n\n\nThe 18°C SST isotherm shown as dark gray contour line.\nThe 45N, 140W lat/lon grid lines shown in gray.\n\nSource: NOAA Coral Reef Watch Monthly SST (5km spatial resolution)",
+    "crumbs": [
+      "Dynamic Thermal Corridor Exploratory Analyses",
+      "Exploratory Analyses",
+      "Env Analyses"
+    ]
+  },
+  {
+    "objectID": "env_clims.html#sst-salinity-all-months-1993---2024",
+    "href": "env_clims.html#sst-salinity-all-months-1993---2024",
+    "title": "Project STRETCH",
+    "section": "SST, Salinity: All Months (1993 - 2024)",
+    "text": "SST, Salinity: All Months (1993 - 2024)\n\nSST by Month (1993 - 2024)\nSalinity by Month (1993 - 2024)\n\n\nSource: GLORYS Monthly SST, Copernicus (1/12° spatial resolution)\n\n\n\nJan\n\n\n\nFeb\n\n\n\nMar\n\n\n\n\n\nApr\n\n\n\nMay\n\n\n\nJun\n\n\n\n\n\nJul\n\n\n\nAug\n\n\n\nSep\n\n\n\n\n\nOct\n\n\n\nNov\n\n\n\nDec\n \n\n\n\n\n\n\n\n\n\n\nSource: GLORYS Monthly Salinity, Copernicus (1/12° spatial resolution)\n\n\n\nJan\n\n\n\nFeb\n\n\n\nMar\n\n\n\n\n\nApr\n\n\n\nMay\n\n\n\nJun\n\n\n\n\n\nJul\n\n\n\nAug\n\n\n\nSep\n\n\n\n\n\nOct\n\n\n\nNov\n\n\n\nDec",
+    "crumbs": [
+      "Dynamic Thermal Corridor Exploratory Analyses",
+      "Exploratory Analyses",
+      "Env Analyses"
+    ]
+  },
+  {
+    "objectID": "cc_analyses.html",
+    "href": "cc_analyses.html",
+    "title": "Project STRETCH",
+    "section": "",
+    "text": "Average Lats by Date\n\n\n\n\nCCS vs CCLME extent\nSpatial comparison of the California Current System (CCS) as defined by Kahru et al. 2018 vs California Current Large Marine Ecosystem (CCLME) boundary (see ref).\nA coarse resolution buffer was applied from the North American Coast to delineate the CCS Transition (300 km) and Offshore (1000 km) boundaries.\n \n\n\nTurtle-CCS Movements\nMaps showing individual movement into the CCS region by group: Historic, Cohort 1, and Cohort 2 \nThe portion of the track during Sept-Oct is shown in red \n\nHistoricCohort 1 (2023)Cohort 2 (2024)\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nTurtle Tracks in ENP by Group\nA. All tracks (Historic + STRETCH), B. Historic (2006-2008), C. STRETCH Cohort 1 (2023), D. STRETCH Cohort 2 (2024)\n\n\n\n\nCohort 2 Tracks in ENP by Individual\nIndividual plots for each turtle in Cohort 2 that moved east of the release location (n = 18) during Sept-Oct 2024.\n\nIndividual movements for a given turtle are shown in green. All other tracks shown in gray.\n\n \n \n\n\n\n\n Back to top",
+    "crumbs": [
+      "Dynamic Thermal Corridor Exploratory Analyses",
+      "Exploratory Analyses"
+    ]
+  },
+  {
+    "objectID": "hycom_vs_copernicus.html",
+    "href": "hycom_vs_copernicus.html",
+    "title": "Project STRETCH",
+    "section": "",
+    "text": "Comparison of HYCOM and Copernicus’s Global Total Ocean products within the NE Pacific: Sept & Oct (2023, 2024)\nHYCOM res: 1/12° spatial grid Copernicus res: 0.25° spatial grid\n\n\n\n\n# here('data', 'interim', glue('cc_hycom_vs_copernicus_sept_oct_2024.rdata'))"
+  },
+  {
+    "objectID": "hycom_vs_copernicus.html#hycom-vs-copernicus-page-not-yet-complete-or-added-to-yaml-index",
+    "href": "hycom_vs_copernicus.html#hycom-vs-copernicus-page-not-yet-complete-or-added-to-yaml-index",
+    "title": "Project STRETCH",
+    "section": "",
+    "text": "Comparison of HYCOM and Copernicus’s Global Total Ocean products within the NE Pacific: Sept & Oct (2023, 2024)\nHYCOM res: 1/12° spatial grid Copernicus res: 0.25° spatial grid\n\n\n\n\n# here('data', 'interim', glue('cc_hycom_vs_copernicus_sept_oct_2024.rdata'))"
+  },
+  {
+    "objectID": "tmp_1_date.html",
+    "href": "tmp_1_date.html",
+    "title": "Project STRETCH",
+    "section": "",
+    "text": "Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see https://quarto.org."
+  },
+  {
+    "objectID": "tmp_1_date.html#quarto",
+    "href": "tmp_1_date.html#quarto",
+    "title": "Project STRETCH",
+    "section": "",
+    "text": "Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see https://quarto.org."
+  },
+  {
+    "objectID": "tmp_1_date.html#running-code",
+    "href": "tmp_1_date.html#running-code",
+    "title": "Project STRETCH",
+    "section": "Running Code",
+    "text": "Running Code\nWhen you click the Render button a document will be generated that includes both content and the output of embedded code. You can embed code like this:\n\n1 + 1\n\n[1] 2\n\n\nYou can add options to executable code like this\n\n\n[1] 4\n\n\nThe echo: false option disables the printing of code (only output is displayed).\nThis is a playground for Quarto."
+  },
+  {
     "objectID": "cc_hovm.html",
     "href": "cc_hovm.html",
     "title": "Project STRETCH",
@@ -321,8 +227,8 @@
     ]
   },
   {
-    "objectID": "cc_hovm.html#turtle-hycom-hovm",
-    "href": "cc_hovm.html#turtle-hycom-hovm",
+    "objectID": "cc_hovm.html#turtle-hycom-hovm-analyses",
+    "href": "cc_hovm.html#turtle-hycom-hovm-analyses",
     "title": "Project STRETCH",
     "section": "",
     "text": "Monthly mean Hycom (u, v) and turtle latitudes between 142°W to 130°W longitude.\nPurple circles: individuals that eventually moved into the CCS  Green circles: all other individual turtle locations \nClick images to zoom in \n\nZonal (u)Meridional (v)\n\n\n\n\nLat plotted on y axis\n\n\n\n\n\n\n\nLat plotted on y axis",
@@ -347,8 +253,81 @@
     ]
   },
   {
-    "objectID": "cc_hycom_currents.html#turtle-current-analyses",
-    "href": "cc_hycom_currents.html#turtle-current-analyses",
+    "objectID": "draft_ms_figs_12Jun2025.html",
+    "href": "draft_ms_figs_12Jun2025.html",
+    "title": "Project STRETCH",
+    "section": "",
+    "text": "Placeholder Figure Below\nFigure to include historic tracks only (1997-2013) & schematic of North Pacific Current\n\n \n\n\n\nAverage zonal flow (u) is shown with current vectors for (a) September and (b) October 2006 & 2007.\nFull loggerhead tracks (2005-2008) are shown in gray. September and October positions between 2006-2007 are shown in green. The average position of the 18°C SST isotherm (September/October 2006-2007) is shown in white/purple border.\nProduct: Copernicus Global Total Ocean Currents (Monthly, 0.25°), processed to a 2° x 2° spatial grid.\nTo Do: Remove CC boundary (blue) and revisit color scheme\n \n\n \n\n\n\nAverage zonal flow (u) is shown with current vectors for: (a) September and (b) October 2024.\nFull loggerhead tracks of 4 individuals from Cohort 2 (2024) are shown in gray (Fig 4B). Sept/Oct positions (2024) are shown in green. For both figures, the average position of the Sept/Oct 18°C SST isotherm is shown in white/purple border.\n\nProduct: Copernicus Global Total Ocean Currents (Monthly, 0.25°), processed to a 2° x 2° spatial grid.\nTo Do: Combine figs, remove CC boundary (blue) and revisit color scheme\n\n\n\n\n\n\n\n\n\n\n\n \n\n\n\nFigure from: Briscoe et al. (2025) – Possibly omit and just reference in text - TBD\n\n \n\n\n\nClick on figures to zoom in\n\n\n\n\n\n\n\n\n\n\n\n \n\n\n\n\n \n\n\n\n 4 turtles shown in solid gray/black. Rest of Cohort 2 shown in light gray.\n\n \n\n\n\nAverage zonal flow (u) is shown with current vectors for: (a) September and (b) October 2014.\nFor both figures, the average position of the Sept/Oct 18°C SST isotherm is shown in white/purple border.\n\nProduct: Copernicus Global Total Ocean Currents (Monthly, 0.25°), processed to a 2° x 2° spatial grid.\nTo Do: Combine figs, remove CC boundary (blue) and revisit color scheme"
+  },
+  {
+    "objectID": "draft_ms_figs_12Jun2025.html#draft-manuscript-figures-in-progress",
+    "href": "draft_ms_figs_12Jun2025.html#draft-manuscript-figures-in-progress",
+    "title": "Project STRETCH",
+    "section": "",
+    "text": "Placeholder Figure Below\nFigure to include historic tracks only (1997-2013) & schematic of North Pacific Current\n\n \n\n\n\nAverage zonal flow (u) is shown with current vectors for (a) September and (b) October 2006 & 2007.\nFull loggerhead tracks (2005-2008) are shown in gray. September and October positions between 2006-2007 are shown in green. The average position of the 18°C SST isotherm (September/October 2006-2007) is shown in white/purple border.\nProduct: Copernicus Global Total Ocean Currents (Monthly, 0.25°), processed to a 2° x 2° spatial grid.\nTo Do: Remove CC boundary (blue) and revisit color scheme\n \n\n \n\n\n\nAverage zonal flow (u) is shown with current vectors for: (a) September and (b) October 2024.\nFull loggerhead tracks of 4 individuals from Cohort 2 (2024) are shown in gray (Fig 4B). Sept/Oct positions (2024) are shown in green. For both figures, the average position of the Sept/Oct 18°C SST isotherm is shown in white/purple border.\n\nProduct: Copernicus Global Total Ocean Currents (Monthly, 0.25°), processed to a 2° x 2° spatial grid.\nTo Do: Combine figs, remove CC boundary (blue) and revisit color scheme\n\n\n\n\n\n\n\n\n\n\n\n \n\n\n\nFigure from: Briscoe et al. (2025) – Possibly omit and just reference in text - TBD\n\n \n\n\n\nClick on figures to zoom in\n\n\n\n\n\n\n\n\n\n\n\n \n\n\n\n\n \n\n\n\n 4 turtles shown in solid gray/black. Rest of Cohort 2 shown in light gray.\n\n \n\n\n\nAverage zonal flow (u) is shown with current vectors for: (a) September and (b) October 2014.\nFor both figures, the average position of the Sept/Oct 18°C SST isotherm is shown in white/purple border.\n\nProduct: Copernicus Global Total Ocean Currents (Monthly, 0.25°), processed to a 2° x 2° spatial grid.\nTo Do: Combine figs, remove CC boundary (blue) and revisit color scheme"
+  },
+  {
+    "objectID": "draft_ms_figs_12Jun2025.html#supplemental-figures-in-progress",
+    "href": "draft_ms_figs_12Jun2025.html#supplemental-figures-in-progress",
+    "title": "Project STRETCH",
+    "section": "Supplemental Figures (in progress)",
+    "text": "Supplemental Figures (in progress)\n\nSFig 1. Sept/Oct currents (2004-2024)"
+  },
+  {
+    "objectID": "index.html#latest-additions",
+    "href": "index.html#latest-additions",
+    "title": "Project STRETCH",
+    "section": "Latest additions:",
+    "text": "Latest additions:\n12. Jun-12-2025:\n\nAdded Draft Figure 6: Turtle-SST, Sept-Oct 2024\nUpdated Draft Fig 7: Turtle-Chla, Sept-Dec 2024\nAdded Draft SFig 1: Current clim, Sept-Oct 2004-2024: used to outline spatial extent of NPC in ENP\n\n\n11. May-14-2025:\n\nReorganized Figure Order to Match Draft MS Outline\nAdded Draft Fig 8: Sept-Oct 2014: left out of previous version\n\n\n10. Apr-22-2025:\n\nReorganized Draft Figure Order from previous version\nUpdated Draft Figure 1: Map of NP Turtle Tracks\nReordered Draft Figures 2-5: Same figures, different order\nAdded Draft Figure 6: Weekly U, V current vs swimming speeds (4 CC Turtles in 2024)\nAdded Draft SFigure: Weekly U, V current vs swimming with vectors (4 CC Turtles in 2024)\n\n\n9. Apr-11-2025:\n\nUpdated Draft Figure 1: Currents, 18°C Isotherm, & Turtles (includes Sept & Oct 2006 & 2007)\nUpdated Draft Figure 3: Currents, 18°C Isotherm, & 4 CC Turtles (includes Sept & Oct 2014 vs 2014)\nUpdated Individual Historic Turtle Tracks (2006 - 2007) plots (includes Sept & Oct Zonal Average 2006 & 2007)\n\n\n8. Apr-10-2025:\n\nUpdated Draft Figure 1: Currents, 18°C Isotherm, & Turtles (Sept 2006 & 2007)\nAdded Draft Figure 3: Currents, 18°C Isotherm, & 4 CC Turtles (Sept 2014 vs 2014)\nUpdated Individual Historic Turtle Tracks (2006 - 2007) for Sept Zonal Average (2006 & 2007 only) plots\nAdded Turtle-Hycom-Copernicus Histogram Comparisons (1993 - 2024)\n\n\n7. Apr-03-2025:\n\nAdded Draft Figure 1: Currents, 18°C Isotherm, & Turtles Climatology (2014-2024)\nAdded Draft Figure 2: Avg Turtle Lat by Year Group from Briscoe et al. (2025) FMS paper\nAdded Draft Figure 4: 4 Cohort 2 Turtles in CC & Chl-a (Sept/Oct 2024) \nAdded Sept/Oct Currents Climatologies (2014 - 2024): 1°, 2°, 5° spatial grids plots\nAdded Monthly Sept/Oct SST + 18°C Isotherm (2014 - 2024)) plots\nAdded Individual Historic Turtle Tracks (2005 - 2008) & Sept/Oct Zonal Clim (2014 - 2024) plots\n\n\n6. Mar-31-2025:\n\nAdded Turtle Tracks in ENP by Group: Historic, STRETCH Cohorts 1 & 2\n\n\n5. Feb-27-2025:\n\nAdded Monthly Mean Turtle Latitude plots\nAdded Map of CCS vs CCLME spatial boundaries\nAdded Turtle Movements into CCS plots\nAdded Turtle-Hycom Hovmoller plots\nAdded Turtle-SST Hovmoller plots\nAdded Map of Monthly Turtle-Hycom Sept-Oct plots\n\n\n4. Feb-20-2025:\n\nAdded Hycom Hovmoller plots\n\n\n3. Feb-13-2025:\n\nAdded Turtle-Hycom Histograms (1993 - 2024)\n\n\n2. Feb-06-2025:\n\nAdded Hycom vs Oscar Product Comparisons (1993 - 2024)\n\n\n1. Jan-25-2025:\n\nAdded SST & Salinity Climatologies (1993 - 2024)",
+    "crumbs": [
+      "Dynamic Thermal Corridor Exploratory Analyses",
+      "Latest | Date"
+    ]
+  },
+  {
+    "objectID": "hycom_analyses.html",
+    "href": "hycom_analyses.html",
+    "title": "Project STRETCH",
+    "section": "",
+    "text": "HYCOM Hovm\n Surface currents (u, v) plotted by latitude, averaged across 142°W to 130°W longitude: Sept - Oct (2023, 2024) \nClick images to zoom in \n\nZonal (u)Meridional (v)\n\n\n\n\nA): Lat plotted on y axis\n\n\n\n\n\nB) Alternate view: Lat plotted on x axis\n\n\n\n\n\n\n\nA): Lat plotted on y axis\n\n\n\n\n\nB) Alternate view: Lat plotted on x axis\n\n\n\n\n\n\n\n\n\n\n\n Back to top",
+    "crumbs": [
+      "Dynamic Thermal Corridor Exploratory Analyses",
+      "Exploratory Analyses",
+      "Env Analyses",
+      "Hovmoller plots"
+    ]
+  },
+  {
+    "objectID": "tmp_page.html",
+    "href": "tmp_page.html",
+    "title": "Sample Page",
+    "section": "",
+    "text": "This is a temporary page\n\n\nWith a permanent picture ❤️\n\n\n\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "tmp_2_date.html",
+    "href": "tmp_2_date.html",
+    "title": "Project STRETCH",
+    "section": "",
+    "text": "Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see https://quarto.org."
+  },
+  {
+    "objectID": "tmp_2_date.html#quarto",
+    "href": "tmp_2_date.html#quarto",
+    "title": "Project STRETCH",
+    "section": "",
+    "text": "Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see https://quarto.org."
+  },
+  {
+    "objectID": "tmp_2_date.html#running-code",
+    "href": "tmp_2_date.html#running-code",
+    "title": "Project STRETCH",
+    "section": "Running Code",
+    "text": "Running Code\nWhen you click the Render button a document will be generated that includes both content and the output of embedded code. You can embed code like this:\n\n2 + 6\n\n[1] 8\n\n\nYou can add options to executable code like this\n\n\n[1] 4\n\n\nThe echo: false option disables the printing of code (only output is displayed)."
+  },
+  {
+    "objectID": "cc_hycom_currents.html",
+    "href": "cc_hycom_currents.html",
     "title": "Project STRETCH",
     "section": "",
     "text": "Sources: Hycom (Daily, 1/12° spatial resolution) vs Copernicus (Daily, 0.25° spatial resolution)\nComparison of Hycom (blue) and Copernicus (pink) surface current values extracted underneath of daily turtle positions: Sept & Oct (2023, 2024) \n\nZonal (u)Meridional (v)\n\n\n\n\n\n\n\n\n\n \n\n\n\nSource: Hycom (Daily, 1/12° spatial resolution)\nComparison of surface current values extracted underneath of daily turtle positions: Sept & Oct (2023, 2024) \n\nZonal (u)Meridional (v)\n\n\n\n\n\n\n\n\n\n\n\n\n\nSource: Hycom (Daily, 1/12° spatial resolution)\nDistribution of surface current values extracted underneath of Kanna, Mei, Fumi, & Anacapa vs rest of Cohort 2: Sept-Oct (2024) \n\nZonal (u)Meridional (v)\n\n\n\n\n\n\n\n\n\n\n\n\n\nSource: Hycom (Daily, 1/12° spatial resolution)\nSurface current values extracted underneath of Kanna, Mei, Fumi, & Anacapa positions: Sept-Oct (2024) \n\nZonal (u)Meridional (v)\n\n\n\n\n\n\n\n\n\n\n\n\n\nSource: Hycom (Daily, 1/12° spatial resolution)\nCohort 1 & 2 turtle movements with Hycom monthly means (u, v) for Sept-Oct (2023, 2024) \n\nZonal (u) - SeptOct\n\n\n\n\nSeptember 2023 & 2024\n\n\n\n\n\n\n\nOctober 2023 & 2024\n\n\n\n\n\n\n\n\n\nMeridional (v) - SeptOct\n\n\n\n\nSeptember 2023 & 2024\n\n\n\n\n\n\n\nOctober 2023 & 2024\n\n\n\n\n\n\n\n\n\n\nSource: Copernicus (Monthly, 0.25° &gt;&gt; 2° spatial resolution)\nIndividual turtle tracks from the historic data set (n = 2005 - 2008) that moved into the ENP.\nTheir annual Sept-Oct positions between 2005 - 2008 are shown in black.\n\nThe 2014-2024 Sept-Oct climatology of zonal (u) flow is shown as the base layer. (Source: Copernicus GlobalTotal, processed to a 2° x 2° spatial grid).\n\n\n\n\n\nSource: Copernicus (Monthly, 0.25° &gt;&gt; 2° spatial resolution)\nIndividual turtle tracks from the historic data set (n = 2005 - 2008) that moved into the ENP.\nTheir annual Sept/ Oct positions between 2006 - 2007 are shown in green\n\nThe 2006-2007 Sept/Oct climatology of zonal (u) flow is shown as the base layer. (Source: Copernicus GlobalTotal, processed to a 2° x 2° spatial grid).",
@@ -359,67 +338,15 @@
     ]
   },
   {
-    "objectID": "draft_ms_figs_1Apr2025.html#draft-manuscript-figures-in-progress",
-    "href": "draft_ms_figs_1Apr2025.html#draft-manuscript-figures-in-progress",
+    "objectID": "cc_hycom_currents.html#turtle-current-analyses",
+    "href": "cc_hycom_currents.html#turtle-current-analyses",
     "title": "Project STRETCH",
     "section": "",
-    "text": "See here for other spatial resolution examples\n\n\n\n\n\n\n\nFigure from: Briscoe et al. (2025)\n\n\n\n\n\n\n\n\n\n\nCompare warming events and show possible corridor/presence of turtles within CC\n\n\n\n\nTo be added using Copernicus GlobalTotal product instead of HYCOM",
+    "text": "Sources: Hycom (Daily, 1/12° spatial resolution) vs Copernicus (Daily, 0.25° spatial resolution)\nComparison of Hycom (blue) and Copernicus (pink) surface current values extracted underneath of daily turtle positions: Sept & Oct (2023, 2024) \n\nZonal (u)Meridional (v)\n\n\n\n\n\n\n\n\n\n \n\n\n\nSource: Hycom (Daily, 1/12° spatial resolution)\nComparison of surface current values extracted underneath of daily turtle positions: Sept & Oct (2023, 2024) \n\nZonal (u)Meridional (v)\n\n\n\n\n\n\n\n\n\n\n\n\n\nSource: Hycom (Daily, 1/12° spatial resolution)\nDistribution of surface current values extracted underneath of Kanna, Mei, Fumi, & Anacapa vs rest of Cohort 2: Sept-Oct (2024) \n\nZonal (u)Meridional (v)\n\n\n\n\n\n\n\n\n\n\n\n\n\nSource: Hycom (Daily, 1/12° spatial resolution)\nSurface current values extracted underneath of Kanna, Mei, Fumi, & Anacapa positions: Sept-Oct (2024) \n\nZonal (u)Meridional (v)\n\n\n\n\n\n\n\n\n\n\n\n\n\nSource: Hycom (Daily, 1/12° spatial resolution)\nCohort 1 & 2 turtle movements with Hycom monthly means (u, v) for Sept-Oct (2023, 2024) \n\nZonal (u) - SeptOct\n\n\n\n\nSeptember 2023 & 2024\n\n\n\n\n\n\n\nOctober 2023 & 2024\n\n\n\n\n\n\n\n\n\nMeridional (v) - SeptOct\n\n\n\n\nSeptember 2023 & 2024\n\n\n\n\n\n\n\nOctober 2023 & 2024\n\n\n\n\n\n\n\n\n\n\nSource: Copernicus (Monthly, 0.25° &gt;&gt; 2° spatial resolution)\nIndividual turtle tracks from the historic data set (n = 2005 - 2008) that moved into the ENP.\nTheir annual Sept-Oct positions between 2005 - 2008 are shown in black.\n\nThe 2014-2024 Sept-Oct climatology of zonal (u) flow is shown as the base layer. (Source: Copernicus GlobalTotal, processed to a 2° x 2° spatial grid).\n\n\n\n\n\nSource: Copernicus (Monthly, 0.25° &gt;&gt; 2° spatial resolution)\nIndividual turtle tracks from the historic data set (n = 2005 - 2008) that moved into the ENP.\nTheir annual Sept/ Oct positions between 2006 - 2007 are shown in green\n\nThe 2006-2007 Sept/Oct climatology of zonal (u) flow is shown as the base layer. (Source: Copernicus GlobalTotal, processed to a 2° x 2° spatial grid).",
     "crumbs": [
       "Dynamic Thermal Corridor Exploratory Analyses",
-      "Draft MS Figures",
-      "03-Apr-2025"
-    ]
-  },
-  {
-    "objectID": "draft_ms_figs_9Apr2025.html",
-    "href": "draft_ms_figs_9Apr2025.html",
-    "title": "Project STRETCH",
-    "section": "",
-    "text": "Average zonal flow (u) is shown with current vectors for September 2006 & 2007.\nFull loggerhead tracks (2005-2008) are shown in gray. September positions between 2006-2007 are shown in green. See here for a detailed figure of individual tracks.\nThe average position of the 18°C SST isotherm (September 2006-2007) is shown in white/purple border. The offshore extent of the CC (as defined in Kahru & Jacox, 2018) is shown in blue.\nProduct: Copernicus Global Total Ocean Currents (Monthly, 0.25°), processed to a 2° x 2° spatial grid.\n\n\n\n\n\n\n\nFigure from: Briscoe et al. (2025)\n\n\n\n\n\n\n\n\n\n\nAverage zonal flow (u) is shown with current vectors for September (A) 2014 and (B) 2024.\nFull loggerhead tracks of 4 individuals from Cohort 2 (2024) are shown in gray (Fig 4B). September positions (2024) are shown in green.\nFor both figures, the average position of the September 18°C SST isotherm is shown in white/purple border. The offshore extent of the CC (as defined in Kahru & Jacox, 2018) is shown in blue.\nProduct: Copernicus Global Total Ocean Currents (Monthly, 0.25°), processed to a 2° x 2° spatial grid.\n\n\n\n\n\nTo be added using Copernicus GlobalTotal product instead of HYCOM"
-  },
-  {
-    "objectID": "draft_ms_figs_9Apr2025.html#draft-manuscript-figures-in-progress",
-    "href": "draft_ms_figs_9Apr2025.html#draft-manuscript-figures-in-progress",
-    "title": "Project STRETCH",
-    "section": "",
-    "text": "Average zonal flow (u) is shown with current vectors for September 2006 & 2007.\nFull loggerhead tracks (2005-2008) are shown in gray. September positions between 2006-2007 are shown in green. See here for a detailed figure of individual tracks.\nThe average position of the 18°C SST isotherm (September 2006-2007) is shown in white/purple border. The offshore extent of the CC (as defined in Kahru & Jacox, 2018) is shown in blue.\nProduct: Copernicus Global Total Ocean Currents (Monthly, 0.25°), processed to a 2° x 2° spatial grid.\n\n\n\n\n\n\n\nFigure from: Briscoe et al. (2025)\n\n\n\n\n\n\n\n\n\n\nAverage zonal flow (u) is shown with current vectors for September (A) 2014 and (B) 2024.\nFull loggerhead tracks of 4 individuals from Cohort 2 (2024) are shown in gray (Fig 4B). September positions (2024) are shown in green.\nFor both figures, the average position of the September 18°C SST isotherm is shown in white/purple border. The offshore extent of the CC (as defined in Kahru & Jacox, 2018) is shown in blue.\nProduct: Copernicus Global Total Ocean Currents (Monthly, 0.25°), processed to a 2° x 2° spatial grid.\n\n\n\n\n\nTo be added using Copernicus GlobalTotal product instead of HYCOM"
-  },
-  {
-    "objectID": "hycom_vs_copernicus.html",
-    "href": "hycom_vs_copernicus.html",
-    "title": "Project STRETCH",
-    "section": "",
-    "text": "Comparison of HYCOM and Copernicus’s Global Total Ocean products within the NE Pacific: Sept & Oct (2023, 2024)\nHYCOM res: 1/12° spatial grid Copernicus res: 0.25° spatial grid\n\n\n\n\n# here('data', 'interim', glue('cc_hycom_vs_copernicus_sept_oct_2024.rdata'))"
-  },
-  {
-    "objectID": "hycom_vs_copernicus.html#hycom-vs-copernicus-page-not-yet-complete-or-added-to-yaml-index",
-    "href": "hycom_vs_copernicus.html#hycom-vs-copernicus-page-not-yet-complete-or-added-to-yaml-index",
-    "title": "Project STRETCH",
-    "section": "",
-    "text": "Comparison of HYCOM and Copernicus’s Global Total Ocean products within the NE Pacific: Sept & Oct (2023, 2024)\nHYCOM res: 1/12° spatial grid Copernicus res: 0.25° spatial grid\n\n\n\n\n# here('data', 'interim', glue('cc_hycom_vs_copernicus_sept_oct_2024.rdata'))"
-  },
-  {
-    "objectID": "draft_ms_figs_10Apr2025.html",
-    "href": "draft_ms_figs_10Apr2025.html",
-    "title": "Project STRETCH",
-    "section": "",
-    "text": "Average zonal flow (u) is shown with current vectors for September and October 2006 & 2007.\nFull loggerhead tracks (2005-2008) are shown in gray. September positions between 2006-2007 are shown in green. See here for a detailed figure of individual tracks.\nThe average position of the 18°C SST isotherm (September 2006-2007) is shown in white/purple border. The offshore extent of the CC (as defined in Kahru & Jacox, 2018) is shown in blue.\nProduct: Copernicus Global Total Ocean Currents (Monthly, 0.25°), processed to a 2° x 2° spatial grid.\n\n\n\n\n\n\n\n\n\n\nFigure from: Briscoe et al. (2025)\n\n\n\n\n\nAverage zonal flow (u) is shown with current vectors for:\n\nSeptember (2014 and 2024)\nOctober (2014 and 2024)\n\nFull loggerhead tracks of 4 individuals from Cohort 2 (2024) are shown in gray (Fig 4B). Sept/Oct positions (2024) are shown in green.\nFor both figures, the average position of the Sept/Oct 18°C SST isotherm is shown in white/purple border.\nThe offshore extent of the CC (as defined in Kahru & Jacox, 2018) is shown in blue.\nProduct: Copernicus Global Total Ocean Currents (Monthly, 0.25°), processed to a 2° x 2° spatial grid.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nTo be added using Copernicus GlobalTotal product instead of HYCOM",
-    "crumbs": [
-      "Dynamic Thermal Corridor Exploratory Analyses",
-      "Draft MS Figures",
-      "10-Apr-2025"
-    ]
-  },
-  {
-    "objectID": "draft_ms_figs_10Apr2025.html#draft-manuscript-figures-in-progress",
-    "href": "draft_ms_figs_10Apr2025.html#draft-manuscript-figures-in-progress",
-    "title": "Project STRETCH",
-    "section": "",
-    "text": "Average zonal flow (u) is shown with current vectors for September and October 2006 & 2007.\nFull loggerhead tracks (2005-2008) are shown in gray. September positions between 2006-2007 are shown in green. See here for a detailed figure of individual tracks.\nThe average position of the 18°C SST isotherm (September 2006-2007) is shown in white/purple border. The offshore extent of the CC (as defined in Kahru & Jacox, 2018) is shown in blue.\nProduct: Copernicus Global Total Ocean Currents (Monthly, 0.25°), processed to a 2° x 2° spatial grid.\n\n\n\n\n\n\n\n\n\n\nFigure from: Briscoe et al. (2025)\n\n\n\n\n\nAverage zonal flow (u) is shown with current vectors for:\n\nSeptember (2014 and 2024)\nOctober (2014 and 2024)\n\nFull loggerhead tracks of 4 individuals from Cohort 2 (2024) are shown in gray (Fig 4B). Sept/Oct positions (2024) are shown in green.\nFor both figures, the average position of the Sept/Oct 18°C SST isotherm is shown in white/purple border.\nThe offshore extent of the CC (as defined in Kahru & Jacox, 2018) is shown in blue.\nProduct: Copernicus Global Total Ocean Currents (Monthly, 0.25°), processed to a 2° x 2° spatial grid.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nTo be added using Copernicus GlobalTotal product instead of HYCOM",
-    "crumbs": [
-      "Dynamic Thermal Corridor Exploratory Analyses",
-      "Draft MS Figures",
-      "10-Apr-2025"
+      "Exploratory Analyses",
+      "Turtle-Env Analyses"
     ]
   },
   {
@@ -447,13 +374,6 @@
     ]
   },
   {
-    "objectID": "draft_ms_figs_22Apr2025.html#supplemental-figures-to-consider",
-    "href": "draft_ms_figs_22Apr2025.html#supplemental-figures-to-consider",
-    "title": "Project STRETCH",
-    "section": "Supplemental Figure(s) to consider",
-    "text": "Supplemental Figure(s) to consider\n\nSFig X. STRETCH turtle swimming vs current speeds with vectors (4 indivs 2024)"
-  },
-  {
     "objectID": "draft_ms_figs_22Apr2025.html#supplemental-figures",
     "href": "draft_ms_figs_22Apr2025.html#supplemental-figures",
     "title": "Project STRETCH",
@@ -464,55 +384,5 @@
       "Draft MS Figures",
       "22-Apr-2025"
     ]
-  },
-  {
-    "objectID": "draft_ms_figs_14May2025.html",
-    "href": "draft_ms_figs_14May2025.html",
-    "title": "Project STRETCH",
-    "section": "",
-    "text": "Placeholder Figure Below\nFigure to include historic tracks only (1997-2013) & schematic of North Pacific Current\n\n \n\n\n\nAverage zonal flow (u) is shown with current vectors for (a) September and (b) October 2006 & 2007.\nFull loggerhead tracks (2005-2008) are shown in gray. September and October positions between 2006-2007 are shown in green. The average position of the 18°C SST isotherm (September/October 2006-2007) is shown in white/purple border.\nProduct: Copernicus Global Total Ocean Currents (Monthly, 0.25°), processed to a 2° x 2° spatial grid.\nTo Do: Remove CC boundary (blue) and revisit color scheme\n \n\n \n\n\n\nAverage zonal flow (u) is shown with current vectors for: (a) September and (b) October 2024.\nFull loggerhead tracks of 4 individuals from Cohort 2 (2024) are shown in gray (Fig 4B). Sept/Oct positions (2024) are shown in green. For both figures, the average position of the Sept/Oct 18°C SST isotherm is shown in white/purple border.\n\nProduct: Copernicus Global Total Ocean Currents (Monthly, 0.25°), processed to a 2° x 2° spatial grid.\nTo Do: Combine figs, remove CC boundary (blue) and revisit color scheme\n\n\n\n\n\n\n\n\n\n\n\n \n\n\n\nFigure from: Briscoe et al. (2025) – Possibly omit and just reference in text - TBD\n\n \n\n\n\nClick on figures to zoom in\n\n\n\n\n\n\n\n\n\n\n\n \n\n\n\nPlaceholder: Add Figure\n \n\n\n\n\nTo Do: Remove CC boundary (blue) and potentially add historic tracks to figure\n\n \n\n\n\nAverage zonal flow (u) is shown with current vectors for: (a) September and (b) October 2014.\nFor both figures, the average position of the Sept/Oct 18°C SST isotherm is shown in white/purple border.\n\nProduct: Copernicus Global Total Ocean Currents (Monthly, 0.25°), processed to a 2° x 2° spatial grid.\nTo Do: Combine figs, remove CC boundary (blue) and revisit color scheme",
-    "crumbs": [
-      "Dynamic Thermal Corridor Exploratory Analyses",
-      "Draft MS Figures"
-    ]
-  },
-  {
-    "objectID": "draft_ms_figs_14May2025.html#draft-manuscript-figures-in-progress",
-    "href": "draft_ms_figs_14May2025.html#draft-manuscript-figures-in-progress",
-    "title": "Project STRETCH",
-    "section": "",
-    "text": "Placeholder Figure Below\nFigure to include historic tracks only (1997-2013) & schematic of North Pacific Current\n\n \n\n\n\nAverage zonal flow (u) is shown with current vectors for (a) September and (b) October 2006 & 2007.\nFull loggerhead tracks (2005-2008) are shown in gray. September and October positions between 2006-2007 are shown in green. The average position of the 18°C SST isotherm (September/October 2006-2007) is shown in white/purple border.\nProduct: Copernicus Global Total Ocean Currents (Monthly, 0.25°), processed to a 2° x 2° spatial grid.\nTo Do: Remove CC boundary (blue) and revisit color scheme\n \n\n \n\n\n\nAverage zonal flow (u) is shown with current vectors for: (a) September and (b) October 2024.\nFull loggerhead tracks of 4 individuals from Cohort 2 (2024) are shown in gray (Fig 4B). Sept/Oct positions (2024) are shown in green. For both figures, the average position of the Sept/Oct 18°C SST isotherm is shown in white/purple border.\n\nProduct: Copernicus Global Total Ocean Currents (Monthly, 0.25°), processed to a 2° x 2° spatial grid.\nTo Do: Combine figs, remove CC boundary (blue) and revisit color scheme\n\n\n\n\n\n\n\n\n\n\n\n \n\n\n\nFigure from: Briscoe et al. (2025) – Possibly omit and just reference in text - TBD\n\n \n\n\n\nClick on figures to zoom in\n\n\n\n\n\n\n\n\n\n\n\n \n\n\n\nPlaceholder: Add Figure\n \n\n\n\n\nTo Do: Remove CC boundary (blue) and potentially add historic tracks to figure\n\n \n\n\n\nAverage zonal flow (u) is shown with current vectors for: (a) September and (b) October 2014.\nFor both figures, the average position of the Sept/Oct 18°C SST isotherm is shown in white/purple border.\n\nProduct: Copernicus Global Total Ocean Currents (Monthly, 0.25°), processed to a 2° x 2° spatial grid.\nTo Do: Combine figs, remove CC boundary (blue) and revisit color scheme",
-    "crumbs": [
-      "Dynamic Thermal Corridor Exploratory Analyses",
-      "Draft MS Figures"
-    ]
-  },
-  {
-    "objectID": "draft_ms_figs_14May2025.html#supplemental-figures",
-    "href": "draft_ms_figs_14May2025.html#supplemental-figures",
-    "title": "Project STRETCH",
-    "section": "Supplemental Figures",
-    "text": "Supplemental Figures\nTo Consider:\n\n\nSFig X. STRETCH turtle swimming vs current with vectors (4 indivs 2024)\nClick on figures to zoom in"
-  },
-  {
-    "objectID": "draft_ms_figs_12Jun2025.html",
-    "href": "draft_ms_figs_12Jun2025.html",
-    "title": "Project STRETCH",
-    "section": "",
-    "text": "Placeholder Figure Below\nFigure to include historic tracks only (1997-2013) & schematic of North Pacific Current\n\n \n\n\n\nAverage zonal flow (u) is shown with current vectors for (a) September and (b) October 2006 & 2007.\nFull loggerhead tracks (2005-2008) are shown in gray. September and October positions between 2006-2007 are shown in green. The average position of the 18°C SST isotherm (September/October 2006-2007) is shown in white/purple border.\nProduct: Copernicus Global Total Ocean Currents (Monthly, 0.25°), processed to a 2° x 2° spatial grid.\nTo Do: Remove CC boundary (blue) and revisit color scheme\n \n\n \n\n\n\nAverage zonal flow (u) is shown with current vectors for: (a) September and (b) October 2024.\nFull loggerhead tracks of 4 individuals from Cohort 2 (2024) are shown in gray (Fig 4B). Sept/Oct positions (2024) are shown in green. For both figures, the average position of the Sept/Oct 18°C SST isotherm is shown in white/purple border.\n\nProduct: Copernicus Global Total Ocean Currents (Monthly, 0.25°), processed to a 2° x 2° spatial grid.\nTo Do: Combine figs, remove CC boundary (blue) and revisit color scheme\n\n\n\n\n\n\n\n\n\n\n\n \n\n\n\nFigure from: Briscoe et al. (2025) – Possibly omit and just reference in text - TBD\n\n \n\n\n\nClick on figures to zoom in\n\n\n\n\n\n\n\n\n\n\n\n \n\n\n\n\n \n\n\n\n 4 turtles shown in solid gray/black. Rest of Cohort 2 shown in light gray.\n\n \n\n\n\nAverage zonal flow (u) is shown with current vectors for: (a) September and (b) October 2014.\nFor both figures, the average position of the Sept/Oct 18°C SST isotherm is shown in white/purple border.\n\nProduct: Copernicus Global Total Ocean Currents (Monthly, 0.25°), processed to a 2° x 2° spatial grid.\nTo Do: Combine figs, remove CC boundary (blue) and revisit color scheme"
-  },
-  {
-    "objectID": "draft_ms_figs_12Jun2025.html#draft-manuscript-figures-in-progress",
-    "href": "draft_ms_figs_12Jun2025.html#draft-manuscript-figures-in-progress",
-    "title": "Project STRETCH",
-    "section": "",
-    "text": "Placeholder Figure Below\nFigure to include historic tracks only (1997-2013) & schematic of North Pacific Current\n\n \n\n\n\nAverage zonal flow (u) is shown with current vectors for (a) September and (b) October 2006 & 2007.\nFull loggerhead tracks (2005-2008) are shown in gray. September and October positions between 2006-2007 are shown in green. The average position of the 18°C SST isotherm (September/October 2006-2007) is shown in white/purple border.\nProduct: Copernicus Global Total Ocean Currents (Monthly, 0.25°), processed to a 2° x 2° spatial grid.\nTo Do: Remove CC boundary (blue) and revisit color scheme\n \n\n \n\n\n\nAverage zonal flow (u) is shown with current vectors for: (a) September and (b) October 2024.\nFull loggerhead tracks of 4 individuals from Cohort 2 (2024) are shown in gray (Fig 4B). Sept/Oct positions (2024) are shown in green. For both figures, the average position of the Sept/Oct 18°C SST isotherm is shown in white/purple border.\n\nProduct: Copernicus Global Total Ocean Currents (Monthly, 0.25°), processed to a 2° x 2° spatial grid.\nTo Do: Combine figs, remove CC boundary (blue) and revisit color scheme\n\n\n\n\n\n\n\n\n\n\n\n \n\n\n\nFigure from: Briscoe et al. (2025) – Possibly omit and just reference in text - TBD\n\n \n\n\n\nClick on figures to zoom in\n\n\n\n\n\n\n\n\n\n\n\n \n\n\n\n\n \n\n\n\n 4 turtles shown in solid gray/black. Rest of Cohort 2 shown in light gray.\n\n \n\n\n\nAverage zonal flow (u) is shown with current vectors for: (a) September and (b) October 2014.\nFor both figures, the average position of the Sept/Oct 18°C SST isotherm is shown in white/purple border.\n\nProduct: Copernicus Global Total Ocean Currents (Monthly, 0.25°), processed to a 2° x 2° spatial grid.\nTo Do: Combine figs, remove CC boundary (blue) and revisit color scheme"
-  },
-  {
-    "objectID": "draft_ms_figs_12Jun2025.html#supplemental-figures-in-progress",
-    "href": "draft_ms_figs_12Jun2025.html#supplemental-figures-in-progress",
-    "title": "Project STRETCH",
-    "section": "Supplemental Figures (in progress)",
-    "text": "Supplemental Figures (in progress)\n\nSFig 1. Sept/Oct currents (2004-2024)"
   }
 ]

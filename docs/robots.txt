@@ -1,1 +1,1 @@
-Sitemap: https://dbriscoe.quarto.pub/dynamic-tch/sitemap.xml
+Sitemap: https://danabriscoe.github.io/cc-stretch-dynamic-tch-website/sitemap.xml
