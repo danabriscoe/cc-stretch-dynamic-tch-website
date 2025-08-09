@@ -9,6 +9,12 @@ engine: knitr
 
 ## Latest additions: 
 
+**13. `{r} "2025-08-09" |> as.Date() |> format("%b-%d-%Y")`:**
+
+- [x]  [[Updated MS Figures](draft_ms_figs_9Aug2025.qmd): Updated all ms draft figures]{style="font-size: 90%;"}
+
+<br>
+
 **12. `{r} "2025-06-12" |> as.Date() |> format("%b-%d-%Y")`:**
 
 - [x]  [[Updated Figure 1](draft_ms_figs_12Jun2025.qmd): Added STRETCH tracks]{style="font-size: 90%;"}
