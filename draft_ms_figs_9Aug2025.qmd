@@ -26,6 +26,8 @@ Release location for Cohort 2 (July 7th, 2024) shown as black circle.
 
 ![](docs/images/fig1_study_area_map180.png){ height=300px }
 
+Historic (1997 - 2013) and STRETCH Cohort 1 (2023-2024) tracks are shown in light gray. STRETCH Cohort 2 (2024-Present) tracks are shown in darker gray. The 4 CCS turtles are color-coded by turtle name.
+
 <br>
 <br>
 
