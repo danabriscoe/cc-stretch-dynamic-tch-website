@@ -31,11 +31,11 @@ Historic (1997 - 2013) and STRETCH Cohort 1 (2023-2024) tracks are shown in ligh
 <br>
 <br>
 
-### Fig 2. Sept-Oct 2006-2007 (A-B) and 2023 (C-D) currents and turtle tracks
+### Fig 2. Sept-Oct 2006-2007 (A-B) and 2023 (C-D) currents and turtle tracks 
 
 ![](docs/images/ms_fig2_w_label.jpg)
 
-Average zonal flow (u) is shown with current vectors for (A) September 2006-2007 and (B) October 2006-2007, (C) September 2023, and (D) October 2023. The vector arrows are 0.1 m/s.
+Average zonal flow (u m/s) is shown with current vectors for (A) September 2006-2007 and (B) October 2006-2007, (C) September 2023, and (D) October 2023. The vector arrows are 0.1 m/s.
 
 Full loggerhead tracks are shown in gray. Their September and October positions are shown as the darker segments.
 The average monthly position of the 18°C SST isotherm is shown in white.
