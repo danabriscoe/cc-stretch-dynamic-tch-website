@@ -1,0 +1,178 @@
+---
+title: ""
+format: html
+engine: knitr
+filters:
+  # - include-files.lua
+  - lightbox
+  - quarto
+lightbox: 
+  match: auto
+  effect: zoom
+  desc-position: top
+---
+
+
+## Draft Manuscript Figures (in progress)
+
+### Fig 1
+Study area of juvenile North Pacific loggerhead sea turtles (n = `r 82 + 53`) spanning 15°N–50°N latitude and 160°W–105°W longitude between 1997 and 2025. Historical tracks are shown in grey. Twenty-eight turtles were released in July 2024 (dark grey lines; release site indicated by a white circle), of which four individuals (colored lines) traversed the northern California Current System (CCS).
+
+\
+
+<!-- ![](docs/images/fig1_study_area_map.jpg){ height=600px } -->
+![](docs/images/draft_fig1_with_u_inset.001.jpeg){ height=600px }
+
+<br>
+<br>
+
+
+### Fig 2
+Mean turtle latitude during September and October, grouped by year (1997–2000, 2004–2008, 2010–2013, and 2023–2025) and averaged across the study area from 180°W-*140°W* longitude. Spatial means are shown as circles. Standard error bars shown for each year-group.
+
+
+*Note: 180 - 140W (n=182) shown on left; 180 - 130W (n=189) on right. y-axes limits are slightly different*
+
+::: {layout-ncol=2}
+
+![](docs/images/ms_fig4_180W_140W.jpg){group="fig2-lats"}
+
+
+![](docs/images/ms_fig4_180W_130W.jpg){group="fig2-lats"}
+
+:::
+
+<br>
+<br>
+
+
+### Fig 3
+Monthly mean zonal currents (u, m/s) overlaid with current vectors for (A) September 2006–2007, (B) October 2006–2007, (C) September 2023, and (D) October 2023. Vector arrows represent 0.1 m/s. Full loggerhead turtle tracks are shown in grey, with the September and October segments highlighted in darker shades. The white line indicates the average monthly position of the 18°C SST isotherm. 
+
+
+![](docs/images/ms_fig2_w_label.jpg)
+
+
+<br>
+<br>
+
+
+### Fig 4
+Monthly mean zonal currents (u, m/s) overlaid with current vectors for (A) September 2024, (B) October 2024. Vector arrows represent 0.1 m/s. Full loggerhead turtle tracks are shown in grey, with the September and October segments highlighted in darker shades. The white line indicates the average monthly position of the 18°C SST isotherm. 
+
+
+![](docs/images/ms_fig3_w_label.jpg)
+
+
+<br>
+<br>
+
+
+### Fig 5
+Average weekly velocities of turtles (dark blue) and ocean currents (light blue) during September and October 2024 for the four individuals that entered the northern CCS: Anacapa, Fumi, Kanna, and Mei. Positive and negative values of zonal velocities (Figure 5A) indicate eastward and westward movement, respectively. Positive and negative meridional velocities (Figure 5B) indicate northward and southward movement.
+
+<!-- ::: {layout-ncol=2} -->
+
+A)
+
+![](docs/images/ms_Fig5A.jpg){group="fig5-speeds"}
+
+B)
+
+![](docs/images/ms_Fig5B.jpg){group="fig5-speeds"}
+<!-- ::: -->
+
+<br>
+<br>
+
+### Fig 6
+Daily sea surface temperatures (SSTs) experienced by the four North Pacific loggerhead turtles that entered the CCS, along their migratory routes in 2024. Darker circles outlined in black indicate the positions of each individual during September and October 2024.
+
+![](docs/images/ms_fig6.jpg)
+
+
+<br>
+<br>
+
+### Fig 7
+Monthly mean chlorophyll‑a concentrations for (A) September, (B) October, (C) November, and (D) December 2024. Complete turtle tracks are shown in grey; portions of tracks for the four individuals that entered the CCS are highlighted in dark purple, with positions corresponding to each month.
+
+![](docs/images/ms_fig7.jpg)
+
+
+<br>
+<br>
+
+### Fig 8
+Monthly mean zonal currents (u, m/s) overlaid with current vectors for (A) September 2014, (B) October 2014. Vector arrows represent 0.1 m/s. The white line indicates the average monthly position of the 18°C SST isotherm. 
+
+![](docs/images/ms_fig8_w_label.jpg)  
+
+
+<br>
+<br>
+
+## Supplemental Figures (in progress)
+
+### SFig 1
+Climatology of the averaged September and October monthly zonal (u, m/s) current in the eastern North Pacific Ocean over the past 20 years (2004-2024), to show the core location of the North Pacific Current (NPC, dark red). Vector arrows represent 0.1 m/s. Data source: Copernicus Marine Environmental Monitoring Service’s surface [Global Total Ekman and Geostrophic currents](https://data.marine.copernicus.eu/product/MULTIOBS_GLO_PHY_MYNRT_015_003/description), 0.25° spatial resolution, resampled to a 1° x 1° spatial grid.
+
+
+![](docs/images/SFig_vectors_with_contour_0m_depth_2deg_SeptOctAvg_2004_2024_no_label.jpg){ height=800px }
+
+<br>
+<br>
+
+### SFig X. u, v long bins 
+Spatially-averaged (A) zonal (u) and (B) meridional (v) current strength between 42°N-46°N latitude and 150°W-130°W longitude. September and October averages are calculated for every 5° longitudinal bin.
+
+A) Zonal (u, m/s)
+
+![](docs/images/esm_spatial_avg_fig_u_lon_bins.jpg){group="sfigx-lonbins"}
+
+B) Meridional (v, m/s)
+
+![](docs/images/esm_spatial_avg_fig_v_lon_bins.jpg){group="sfigx-lonbins"}
+
+
+<br>
+<br>
+
+### SFig X. SST
+Density plot of daily September-October SST (°C) conditions experienced by juvenile North Pacific loggerhead sea turtles by group.
+
+<br>
+
+![](docs/images/esm_hist_sept_oct_sst.jpg){ height=400px }
+<br>
+<br>
+
+### SFig X. Chl
+Density plot of daily September-October chlorophyll-a concentrations (mg/m<sup>3</sup>) experienced by juvenile North Pacific loggerhead sea turtles by group.
+
+<br>
+
+![](docs/images/esm_hist_sept_oct_chl.jpg){ height=400px }
+
+<br>
+<br>
+
+### SFig X. u
+Density plot of daily September-October zonal current (u, m/s) experienced by juvenile North Pacific loggerhead sea turtles by group.
+
+<br>
+
+![](docs/images/esm_hist_sept_oct_u.jpg){ height=400px }
+
+<br>
+<br>
+
+### SFig X. v 
+Density plot of daily September-October meridional current (v, m/s) experienced by juvenile North Pacific loggerhead sea turtles by group.
+
+<br>
+
+![](docs/images/esm_hist_sept_oct_v.jpg){ height=400px }
+
+<br>
+<br>
