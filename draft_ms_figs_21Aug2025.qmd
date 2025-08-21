@@ -119,7 +119,7 @@ Monthly mean zonal currents (u, m/s) overlaid with current vectors for (A) Septe
 Climatology of the averaged September and October monthly zonal (u, m/s) current in the eastern North Pacific Ocean over the past 20 years (2004-2024), to show the core location of the North Pacific Current (NPC, dark red). Vector arrows represent 0.1 m/s. Data source: Copernicus Marine Environmental Monitoring Service’s surface [Global Total Ekman and Geostrophic currents](https://data.marine.copernicus.eu/product/MULTIOBS_GLO_PHY_MYNRT_015_003/description), 0.25° spatial resolution, resampled to a 1° x 1° spatial grid.
 
 
-![](docs/images/SFig_vectors_with_contour_0m_depth_2deg_SeptOctAvg_2004_2024_no_label.jpg){ height=800px }
+![](docs/images/SFig_vectors_with_contour_0m_depth_2deg_SeptOctAvg_2004_2024_no_label.jpg){ height=600px }
 
 <br>
 <br>
