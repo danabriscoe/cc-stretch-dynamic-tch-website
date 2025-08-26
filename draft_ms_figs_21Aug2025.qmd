@@ -29,19 +29,12 @@ Study area of juvenile North Pacific loggerhead sea turtles (n = `r 82 + 53`) sp
 
 
 ### Fig 2
-Mean turtle latitude during September and October, grouped by year (1997–2000, 2004–2008, 2010–2013, and 2023–2025) and averaged across the study area from 180°W-*140°W* longitude. Spatial means are shown as circles. Standard error bars shown for each year-group.
-
-
-*Note: 180 - 140W (n=182) shown on left; 180 - 130W (n=189) on right. y-axes limits are slightly different*
-
-::: {layout-ncol=2}
-
-![](docs/images/ms_fig4_180W_140W.jpg){group="fig2-lats"}
+Mean turtle latitude during September and October, grouped by year (1997–2000, 2004–2008, 2010–2013, and 2023–2025, n=189) and averaged across the study area from 180°-*130°W* longitude. Spatial means are shown as circles. Standard error bars shown for each year-group.
 
 
 ![](docs/images/ms_fig4_180W_130W.jpg){group="fig2-lats"}
 
-:::
+
 
 <br>
 <br>
@@ -124,7 +117,7 @@ Climatology of the averaged September and October monthly zonal (u, m/s) current
 <br>
 <br>
 
-### SFig X. u, v long bins 
+### SFig 2 
 Spatially-averaged (A) zonal (u) and (B) meridional (v) current strength between 42°N-46°N latitude and 150°W-130°W longitude. September and October averages are calculated for every 5° longitudinal bin.
 
 A) Zonal (u, m/s)
@@ -139,7 +132,7 @@ B) Meridional (v, m/s)
 <br>
 <br>
 
-### SFig X. SST
+### SFig 3
 Density plot of daily September-October SST (°C) conditions experienced by juvenile North Pacific loggerhead sea turtles by group.
 
 <br>
@@ -148,7 +141,7 @@ Density plot of daily September-October SST (°C) conditions experienced by juve
 <br>
 <br>
 
-### SFig X. Chl
+### SFig 4
 Density plot of daily September-October chlorophyll-a concentrations (mg/m<sup>3</sup>) experienced by juvenile North Pacific loggerhead sea turtles by group.
 
 <br>
@@ -158,7 +151,7 @@ Density plot of daily September-October chlorophyll-a concentrations (mg/m<sup>3
 <br>
 <br>
 
-### SFig X. u
+### SFig 5
 Density plot of daily September-October zonal current (u, m/s) experienced by juvenile North Pacific loggerhead sea turtles by group.
 
 <br>
@@ -168,7 +161,7 @@ Density plot of daily September-October zonal current (u, m/s) experienced by ju
 <br>
 <br>
 
-### SFig X. v 
+### SFig6
 Density plot of daily September-October meridional current (v, m/s) experienced by juvenile North Pacific loggerhead sea turtles by group.
 
 <br>
