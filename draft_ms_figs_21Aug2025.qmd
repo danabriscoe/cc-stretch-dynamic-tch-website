@@ -15,6 +15,8 @@ lightbox:
 
 ## Draft Manuscript Figures (in progress)
 
+{{< fa magnifying-glass-plus >}} [*Click on figures to zoom in*]{style="font-size: 90%;"} <br> 
+
 ### Fig 1
 Study area of juvenile North Pacific loggerhead sea turtles (n = `r 82 + 53`) spanning 15°N–50°N latitude and 160°W–105°W longitude between 1997 and 2025. Historical tracks are shown in grey. Twenty-eight turtles were released in July 2024 (dark grey lines; release site indicated by a white circle), of which four individuals (colored lines) traversed the northern California Current System (CCS).
 
