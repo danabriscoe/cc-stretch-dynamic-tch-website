@@ -9,6 +9,13 @@ engine: knitr
 
 ## Latest additions: 
 
+**15. `{r} "2025-09-02" |> as.Date() |> format("%b-%d-%Y")`:**
+
+- [x]  [[Updated Figure 6](draft_ms_figs_21Aug2025.qmd): Now a 4-panel fig similar to Fig 7 (chl)]{style="font-size: 90%;"}
+
+<br>
+
+
 **14. `{r} "2025-08-09" |> as.Date() |> format("%b-%d-%Y")`:**
 
 - [x]  [[Updated MS Figures](draft_ms_figs_21Aug2025.qmd): Updated all ms draft figures. Moved Fig 4 > Fig 2; added SFigs]{style="font-size: 90%;"}

@@ -82,16 +82,16 @@ B)
 <br>
 
 ### Fig 6
-Daily sea surface temperatures (SSTs) experienced by the four North Pacific loggerhead turtles that entered the CCS, along their migratory routes in 2024. Darker circles outlined in black indicate the positions of each individual during September and October 2024.
+Monthly mean SST (°C) for (A) September, (B) October, (C) November, and (D) December 2024. Complete turtle tracks are shown in grey; portions of tracks for the four individuals that entered the CCS are highlighted in dark purple, with positions corresponding to each month.
 
-![](docs/images/ms_fig6.jpg)
+![](docs/images/ms_fig6_monthly_sst.jpg)
 
 
 <br>
 <br>
 
 ### Fig 7
-Monthly mean chlorophyll‑a concentrations for (A) September, (B) October, (C) November, and (D) December 2024. Complete turtle tracks are shown in grey; portions of tracks for the four individuals that entered the CCS are highlighted in dark purple, with positions corresponding to each month.
+Monthly mean chlorophyll‑a concentrations (mg/m^3) for (A) September, (B) October, (C) November, and (D) December 2024. Complete turtle tracks are shown in grey; portions of tracks for the four individuals that entered the CCS are highlighted in dark purple, with positions corresponding to each month.
 
 ![](docs/images/ms_fig7.jpg)
 
