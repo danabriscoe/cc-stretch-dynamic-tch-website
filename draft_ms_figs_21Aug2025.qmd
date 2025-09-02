@@ -82,7 +82,7 @@ B)
 <br>
 
 ### Fig 6
-Monthly mean SST (°C) for (A) September, (B) October, (C) November, and (D) December 2024. Complete turtle tracks are shown in grey; portions of tracks for the four individuals that entered the CCS are highlighted in dark purple, with positions corresponding to each month.
+Monthly mean SST (°C) for (A) September, (B) October, (C) November, and (D) December 2024. Complete turtle tracks are shown in grey; portions of tracks for the four individuals that entered the CCS are highlighted in dark purple, with positions corresponding to each month. The white region represents SSTs between 17.5°C and 18.5°C.
 
 ![](docs/images/ms_fig6_monthly_sst.jpg)
 

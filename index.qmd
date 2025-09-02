@@ -11,7 +11,7 @@ engine: knitr
 
 **15. `{r} "2025-09-02" |> as.Date() |> format("%b-%d-%Y")`:**
 
-- [x]  [[Updated Figure 6](draft_ms_figs_21Aug2025.qmd): Now a 4-panel fig similar to Fig 7 (chl)]{style="font-size: 90%;"}
+- [x]  [[Updated Figure 6](draft_ms_figs_21Aug2025.qmd#fig-6): Now a 4-panel fig similar to Fig 7 (chl)]{style="font-size: 90%;"}
 
 <br>
 
